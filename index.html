@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Player Value Atlas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">CSE/ISE 332 | Lab 1</p>
+      <h1>Player Value Atlas</h1>
+      <p class="lede">Explore how football performance changes across market value, role, and season.</p>
+      <div class="status-row">
+        <span id="data-status" class="status">Loading data...</span>
+        <span id="record-count" class="status status-muted"></span>
+      </div>
+    </header>
+
+    <section class="workspace" aria-label="Visualization controls and chart">
+      <aside class="controls">
+        <div class="control-block">
+          <p class="section-kicker">Distribution</p>
+          <h2>One variable</h2>
+          <label for="distribution-variable">Choose a variable</label>
+          <select id="distribution-variable"></select>
+
+          <fieldset>
+            <legend>Chart orientation</legend>
+            <label class="radio-label"><input type="radio" name="orientation" value="upright" checked> Upright</label>
+            <label class="radio-label"><input type="radio" name="orientation" value="sideways"> Sideways</label>
+          </fieldset>
+        </div>
+
+        <div class="control-block scatter-controls">
+          <p class="section-kicker">Scatterplot</p>
+          <h2>Two variables</h2>
+          <label for="scatter-variable-a">Variable A</label>
+          <select id="scatter-variable-a"></select>
+          <label for="scatter-variable-b">Variable B</label>
+          <select id="scatter-variable-b"></select>
+
+          <fieldset>
+            <legend>Selected variable goes on</legend>
+            <label class="radio-label"><input type="radio" name="scatter-axis" value="x" checked> x-axis</label>
+            <label class="radio-label"><input type="radio" name="scatter-axis" value="y"> y-axis</label>
+          </fieldset>
+        </div>
+
+        <div class="legend-note">
+          <span class="dot dot-coral"></span>
+          <span>Every mark represents one player-season record.</span>
+        </div>
+      </aside>
+
+      <section class="chart-panel">
+        <div class="chart-heading">
+          <div>
+            <p class="section-kicker">Visual analysis</p>
+            <h2 id="chart-title">Market value distribution</h2>
+          </div>
+          <button id="toggle-chart" class="mode-button" type="button">Show scatterplot</button>
+        </div>
+        <div id="chart-wrap" class="chart-wrap">
+          <svg id="chart" role="img" aria-labelledby="chart-title"></svg>
+          <div id="empty-state" class="empty-state" hidden>No usable records for this selection.</div>
+        </div>
+      </section>
+    </section>
+
+    <footer class="footer">
+      <span>Dataset unit: player + season + team</span>
+      <span>Built with D3.js</span>
+    </footer>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="script.js"></script>
+</body>
+</html>

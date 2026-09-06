@@ -1,0 +1,5 @@
+rows=59097
+columns=21
+leagues=['Bundesliga', 'LaLiga', 'Ligue 1', 'Premier League', 'Serie A']
+records_without_season_value=19455
+duplicate_keys_removed=0

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+:root {
+  --ink: #202b32;
+  --muted: #68777d;
+  --paper: #f3f0e8;
+  --panel: #fffdf8;
+  --line: #d9d6cb;
+  --coral: #e36950;
+  --coral-dark: #ad4537;
+  --teal: #1b7774;
+  --yellow: #f0c95a;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: 'Space Grotesk', sans-serif; }
+.shell { width: min(1440px, calc(100% - 48px)); margin: 0 auto; padding: 34px 0 24px; }
+.hero { border-bottom: 1px solid var(--line); padding: 18px 10px 30px; }
+.eyebrow, .section-kicker { margin: 0; color: var(--coral-dark); font: 500 0.75rem 'DM Mono', monospace; letter-spacing: 0.08em; text-transform: uppercase; }
+h1 { max-width: 850px; margin: 12px 0 8px; font-size: clamp(3rem, 7vw, 7.4rem); line-height: 0.92; letter-spacing: -0.05em; }
+.lede { max-width: 620px; margin: 18px 0 0; color: var(--muted); font-size: 1.1rem; line-height: 1.5; }
+.status-row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 26px; }
+.status { display: inline-flex; padding: 7px 11px; border-radius: 999px; color: #fff; background: var(--teal); font: 500 0.76rem 'DM Mono', monospace; }
+.status-muted { color: var(--muted); background: #e4e1d7; }
+.workspace { display: grid; grid-template-columns: minmax(230px, 290px) 1fr; gap: 26px; margin-top: 26px; }
+.controls, .chart-panel { background: var(--panel); border: 1px solid var(--line); }
+.controls { padding: 24px; }
+.control-block + .control-block { border-top: 1px solid var(--line); margin-top: 24px; padding-top: 24px; }
+h2 { margin: 7px 0 20px; font-size: 1.35rem; letter-spacing: -0.03em; }
+label, legend { display: block; margin: 14px 0 7px; color: var(--muted); font-size: 0.82rem; font-weight: 600; }
+select { width: 100%; border: 1px solid var(--line); border-radius: 4px; padding: 11px 12px; color: var(--ink); background: #f8f5ec; font: inherit; }
+fieldset { border: 0; padding: 0; margin: 21px 0 0; }
+.radio-label { display: flex; align-items: center; gap: 8px; margin: 9px 0; color: var(--ink); font-weight: 400; }
+input[type='radio'] { accent-color: var(--coral); }
+.legend-note { display: flex; gap: 9px; align-items: flex-start; margin-top: 28px; color: var(--muted); font-size: 0.78rem; line-height: 1.45; }
+.dot { width: 10px; height: 10px; flex: 0 0 10px; margin-top: 4px; border-radius: 50%; background: var(--coral); }
+.chart-panel { min-width: 0; padding: 24px 26px 18px; }
+.chart-heading { display: flex; justify-content: space-between; gap: 18px; align-items: flex-start; }
+.chart-heading h2 { margin-bottom: 0; font-size: 1.6rem; }
+.mode-button { border: 1px solid var(--ink); border-radius: 999px; padding: 9px 13px; color: var(--ink); background: transparent; font: 500 0.78rem 'DM Mono', monospace; cursor: pointer; white-space: nowrap; }
+.mode-button:hover { color: #fff; background: var(--ink); }
+.chart-wrap { position: relative; min-height: 550px; margin-top: 16px; }
+#chart { width: 100%; height: 550px; overflow: visible; }
+.grid line { stroke: #e7e4db; }
+.grid path { display: none; }
+.axis path, .axis line { stroke: #8a9694; }
+.axis text { fill: var(--muted); font: 11px 'DM Mono', monospace; }
+.axis-label { fill: var(--ink); font-size: 12px; font-weight: 600; }
+.bar { fill: var(--coral); }
+.bar:hover, .point:hover { fill: var(--yellow); stroke: var(--ink); }
+.point { fill: var(--teal); fill-opacity: 0.72; stroke: #fffdf8; stroke-width: 1px; }
+.chart-title-svg { fill: var(--ink); font-size: 17px; font-weight: 600; }
+.tooltip { position: fixed; pointer-events: none; z-index: 2; max-width: 230px; padding: 10px 12px; border: 1px solid var(--ink); border-radius: 3px; color: #fff; background: var(--ink); font-size: 12px; line-height: 1.45; }
+.empty-state { position: absolute; inset: 45% 0 auto; text-align: center; color: var(--muted); }
+.footer { display: flex; justify-content: space-between; gap: 12px; margin: 18px 10px 0; color: var(--muted); font: 0.7rem 'DM Mono', monospace; }
+@media (max-width: 850px) { .shell { width: min(100% - 24px, 680px); padding-top: 18px; } .workspace { grid-template-columns: 1fr; } .chart-wrap, #chart { min-height: 430px; height: 430px; } .chart-heading { flex-direction: column; } .footer { flex-direction: column; } }

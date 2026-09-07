@@ -2,7 +2,7 @@
 
 ## Research question
 
-How are football players' season performance measures associated with their estimated market value across multiple seasons and the European big-five leagues?
+How are football (soccer) players' season performance measures associated with their estimated market value across multiple seasons and the European big-five leagues?
 
 This project will treat the relationship as descriptive association, not proof that performance causes market value.
 
@@ -22,7 +22,7 @@ The attributes are documented in `data/data_dictionary.md`. They include categor
 
 ## Why these data are interesting
 
-Market value is a compact way to study how different dimensions of a player's contribution appear together in a football ecosystem. A visualization can show whether high-value players are concentrated in particular positions or leagues, whether minutes and goals have visible associations with value, and whether the same statistical profile varies across seasons. The interface supports comparisons without reducing the entire question to a single ranking.
+Market value is a compact way to study how different dimensions of a player's contribution appear together in an association-football ecosystem. A visualization can show whether high-value players are concentrated in particular positions or leagues, whether minutes and goals have visible associations with value, and whether the same statistical profile varies across seasons. The interface supports comparisons without reducing the entire question to a single ranking.
 
 ## Data fusion and cleaning
 

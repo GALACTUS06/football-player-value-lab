@@ -1,6 +1,6 @@
 # Player Value Atlas
 
-D3.js visualization for CSE/ISE 332 Lab 1. The project studies football player performance and market value using one row per player-season-team record.
+D3.js visualization for CSE/ISE 332 Lab 1. The project studies association-football (soccer) player performance and market value using one row per player-season-team record.
 
 ## Dataset status
 

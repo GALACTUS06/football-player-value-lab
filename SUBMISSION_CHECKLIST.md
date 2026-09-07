@@ -49,9 +49,9 @@ Recommended archive contents:
 - `data/quality_report.txt`
 - `report/report.md`
 - `report/recording_script.md`
-- `SUBMISSION_CHECKLIST.md`
 
 Do not include `data/raw/`; those source files are large and are reproducibly downloaded by `build_dataset.py`.
+Do not include `SUBMISSION_CHECKLIST.md` in the source-code ZIP; it is only a separate guide for preparing the Brightspace upload.
 
 ### 4. Fused spreadsheet
 

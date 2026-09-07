@@ -40,6 +40,30 @@ function labelFor(column) {
   return column.replaceAll('_', ' ').replace(/\b\w/g, letter => letter.toUpperCase());
 }
 
+const units = {
+  age: 'years',
+  market_value: 'EUR millions',
+  matches: 'matches',
+  starts: 'starts',
+  minutes: 'minutes',
+  goals: 'goals',
+  assists: 'assists',
+  own_goals: 'goals',
+  subed_in: 'substitutions',
+  subed_out: 'substitutions',
+  yellow_cards: 'cards',
+  second_yellow_cards: 'cards',
+  direct_red_cards: 'cards',
+  penalty_goals: 'goals',
+  goals_conceded: 'goals',
+  clean_sheets: 'clean sheets'
+};
+
+function displayLabel(column) {
+  const label = labelFor(column);
+  return units[column] ? `${label} (${units[column]})` : label;
+}
+
 function fillSelect(selector, columns, selected) {
   const select = d3.select(selector);
   select.selectAll('option').remove();
@@ -75,7 +99,7 @@ function addAxisLabels(chart, xLabel, yLabel) {
 
 function renderBarChart(variable) {
   const counts = Array.from(d3.rollup(state.data, values => values.length, row => row[variable]), ([key, count]) => ({ key: key || 'Unknown', count })).sort((a, b) => d3.descending(a.count, b.count));
-  const chart = startChart(`${labelFor(variable)} by player records`, state.orientation === 'upright' ? labelFor(variable) : 'Player records', state.orientation === 'upright' ? 'Player records' : labelFor(variable));
+  const chart = startChart(`${labelFor(variable)} by player records`, state.orientation === 'upright' ? displayLabel(variable) : 'Number of player records', state.orientation === 'upright' ? 'Number of player records' : displayLabel(variable));
   chart.svg = svg.append('g');
   const x = state.orientation === 'upright' ? d3.scaleBand().domain(counts.map(d => d.key)).range([chart.margin.left, chart.margin.left + chart.innerWidth]).padding(0.18) : d3.scaleLinear().domain([0, d3.max(counts, d => d.count) || 1]).nice().range([chart.margin.left, chart.margin.left + chart.innerWidth]);
   const y = state.orientation === 'upright' ? d3.scaleLinear().domain([0, d3.max(counts, d => d.count) || 1]).nice().range([chart.margin.top + chart.innerHeight, chart.margin.top]) : d3.scaleBand().domain(counts.map(d => d.key)).range([chart.margin.top, chart.margin.top + chart.innerHeight]).padding(0.18);
@@ -94,7 +118,7 @@ function renderHistogram(variable) {
   const extent = d3.extent(values);
   const bins = d3.bin().domain(extent).thresholds(12)(values);
   if (extent[0] === extent[1]) bins[0].x1 = extent[1] + 1;
-  const chart = startChart(`${labelFor(variable)} distribution`, state.orientation === 'upright' ? labelFor(variable) : 'Player records', state.orientation === 'upright' ? 'Player records' : labelFor(variable));
+  const chart = startChart(`${labelFor(variable)} distribution`, state.orientation === 'upright' ? displayLabel(variable) : 'Number of player records', state.orientation === 'upright' ? 'Number of player records' : displayLabel(variable));
   chart.svg = svg.append('g');
   const maxCount = d3.max(bins, d => d.length) || 1;
   const x = state.orientation === 'upright' ? d3.scaleLinear().domain([bins[0].x0, bins.at(-1).x1]).nice().range([chart.margin.left, chart.margin.left + chart.innerWidth]) : d3.scaleLinear().domain([0, maxCount]).nice().range([chart.margin.left, chart.margin.left + chart.innerWidth]);
@@ -123,7 +147,7 @@ function renderScatterplot() {
   const xCategorical = state.categoricalColumns.includes(xColumn);
   const yCategorical = state.categoricalColumns.includes(yColumn);
   const sampleNote = rows.length > MAX_SCATTER_POINTS ? ` (showing ${sampledRows.length.toLocaleString()} of ${rows.length.toLocaleString()})` : '';
-  const chart = startChart(`${labelFor(xColumn)} vs ${labelFor(yColumn)}${sampleNote}`, labelFor(xColumn), labelFor(yColumn));
+  const chart = startChart(`${labelFor(xColumn)} vs ${labelFor(yColumn)}${sampleNote}`, displayLabel(xColumn), displayLabel(yColumn));
   chart.svg = svg.append('g');
   const xDomain = xCategorical ? [...new Set(sampledRows.map(d => d.x))] : sampledRows.map(d => Number(d.x));
   const yDomain = yCategorical ? [...new Set(sampledRows.map(d => d.y))] : sampledRows.map(d => Number(d.y));
@@ -132,7 +156,7 @@ function renderScatterplot() {
   chart.svg.append('g').attr('class', 'grid').attr('transform', `translate(0 ${chart.margin.top + chart.innerHeight})`).call((xCategorical ? d3.axisBottom(x) : d3.axisBottom(x).ticks(6)).tickSize(-chart.innerHeight).tickFormat(''));
   chart.svg.append('g').attr('class', 'axis').attr('transform', `translate(0 ${chart.margin.top + chart.innerHeight})`).call(xCategorical ? d3.axisBottom(x) : d3.axisBottom(x).ticks(6));
   chart.svg.append('g').attr('class', 'axis').attr('transform', `translate(${chart.margin.left} 0)`).call(yCategorical ? d3.axisLeft(y) : d3.axisLeft(y).ticks(6));
-  chart.svg.selectAll('.point').data(sampledRows).join('circle').attr('class', 'point').attr('cx', (d, index) => (xCategorical ? x(d.x) + ((index % 9) - 4) * 3 : x(Number(d.x)))).attr('cy', (d, index) => (yCategorical ? y(d.y) + ((index % 7) - 3) * 3 : y(Number(d.y)))).attr('r', 4.5).on('mousemove', (event, d) => showTooltip(event, `<strong>${d.row.player_name || 'Player'}</strong><br>${labelFor(xColumn)}: ${d.x}<br>${labelFor(yColumn)}: ${d.y}<br>${d.row.team || ''} · ${d.row.season || ''}`)).on('mouseleave', hideTooltip);
+  chart.svg.selectAll('.point').data(sampledRows).join('circle').attr('class', 'point').attr('cx', (d, index) => (xCategorical ? x(d.x) + ((index % 9) - 4) * 3 : x(Number(d.x)))).attr('cy', (d, index) => (yCategorical ? y(d.y) + ((index % 7) - 3) * 3 : y(Number(d.y)))).attr('r', 4.5).on('mousemove', (event, d) => showTooltip(event, `<strong>${d.row.player_name || 'Player'}</strong><br>${displayLabel(xColumn)}: ${d.x}<br>${displayLabel(yColumn)}: ${d.y}<br>${d.row.team || ''} · ${d.row.season || ''}`)).on('mouseleave', hideTooltip);
   addAxisLabels(chart, chart.xLabel, chart.yLabel);
 }
 

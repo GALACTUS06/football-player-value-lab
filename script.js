@@ -14,6 +14,7 @@ const state = {
 const svg = d3.select('#chart');
 const chartWrap = document.querySelector('#chart-wrap');
 const tooltip = d3.select('body').append('div').attr('class', 'tooltip').style('display', 'none');
+const MAX_SCATTER_POINTS = 2500;
 
 function numericValue(value) {
   if (value === null || value === undefined || value === '') return null;
@@ -30,6 +31,9 @@ function inferColumns(rows) {
   state.columns = columns;
   state.numericColumns = numeric;
   state.categoricalColumns = columns.filter(column => !numeric.includes(column));
+  const lowCardinality = state.categoricalColumns.filter(column => new Set(rows.map(row => row[column])).size <= 30);
+  state.distributionColumns = [...lowCardinality, ...numeric];
+  state.scatterColumns = state.distributionColumns;
 }
 
 function labelFor(column) {
@@ -43,9 +47,9 @@ function fillSelect(selector, columns, selected) {
 }
 
 function updateSelectors() {
-  fillSelect('#distribution-variable', state.columns, state.distributionVariable);
-  fillSelect('#scatter-variable-a', state.columns, state.scatterA);
-  fillSelect('#scatter-variable-b', state.columns, state.scatterB);
+  fillSelect('#distribution-variable', state.distributionColumns, state.distributionVariable);
+  fillSelect('#scatter-variable-a', state.scatterColumns, state.scatterA);
+  fillSelect('#scatter-variable-b', state.scatterColumns, state.scatterB);
 }
 
 function dimensions() {
@@ -57,7 +61,10 @@ function dimensions() {
 function startChart(title, xLabel, yLabel) {
   const { width, height, margin } = dimensions();
   svg.attr('viewBox', `0 0 ${width} ${height}`).selectAll('*').remove();
-  svg.append('text').attr('class', 'chart-title-svg').attr('x', margin.left).attr('y', 21).text(title);
+  const svgTitle = title.length > 42 ? `${title.slice(0, 39)}...` : title;
+  svg.append('text').attr('class', 'chart-title-svg').attr('x', margin.left).attr('y', 21).style('font-size', title.length > 42 ? '14px' : null).text(svgTitle);
+  document.querySelector('#chart-title').textContent = title;
+  document.querySelector('#chart').setAttribute('aria-label', title);
   return { width, height, margin, innerWidth: width - margin.left - margin.right, innerHeight: height - margin.top - margin.bottom, xLabel, yLabel };
 }
 
@@ -82,7 +89,7 @@ function renderBarChart(variable) {
 }
 
 function renderHistogram(variable) {
-  const values = state.data.map(row => numericValue(row[variable])).filter(value => value !== null);
+  const values = state.data.map(row => numericValue(row[variable])).filter(value => value !== null && (variable !== 'market_value' || value > 0));
   if (!values.length) return showEmpty();
   const extent = d3.extent(values);
   const bins = d3.bin().domain(extent).thresholds(12)(values);
@@ -101,27 +108,31 @@ function renderHistogram(variable) {
 }
 
 function axisFor(values, range, categorical) {
-  return categorical ? d3.scalePoint().domain(values).range(range).padding(0.5) : d3.scaleLinear().domain(d3.extent(values)).nice().range(range);
+  if (categorical) return d3.scalePoint().domain(values).range(range).padding(0.5);
+  const extent = d3.extent(values);
+  if (extent[0] === extent[1]) extent[1] = extent[0] + 1;
+  return d3.scaleLinear().domain(extent).nice().range(range);
 }
 
 function renderScatterplot() {
-  const selected = state.scatterAxis === 'x' ? state.scatterA : state.scatterB;
-  const other = state.scatterAxis === 'x' ? state.scatterB : state.scatterA;
-  const xColumn = state.scatterAxis === 'x' ? selected : other;
-  const yColumn = state.scatterAxis === 'x' ? other : selected;
-  const rows = state.data.map(row => ({ row, x: numericValue(row[xColumn]) ?? row[xColumn], y: numericValue(row[yColumn]) ?? row[yColumn] })).filter(d => d.x !== null && d.x !== '' && d.y !== null && d.y !== '');
+  const xColumn = state.scatterAxis === 'x' ? state.scatterA : state.scatterB;
+  const yColumn = state.scatterAxis === 'x' ? state.scatterB : state.scatterA;
+  const rows = state.data.map(row => ({ row, x: numericValue(row[xColumn]) ?? row[xColumn], y: numericValue(row[yColumn]) ?? row[yColumn] })).filter(d => d.x !== null && d.x !== '' && d.y !== null && d.y !== '' && (xColumn !== 'market_value' || d.x > 0) && (yColumn !== 'market_value' || d.y > 0));
+  const sampleStep = Math.max(1, Math.ceil(rows.length / MAX_SCATTER_POINTS));
+  const sampledRows = rows.filter((_, index) => index % sampleStep === 0).slice(0, MAX_SCATTER_POINTS);
   const xCategorical = state.categoricalColumns.includes(xColumn);
   const yCategorical = state.categoricalColumns.includes(yColumn);
-  const chart = startChart(`${labelFor(xColumn)} vs ${labelFor(yColumn)}`, labelFor(xColumn), labelFor(yColumn));
+  const sampleNote = rows.length > MAX_SCATTER_POINTS ? ` (showing ${sampledRows.length.toLocaleString()} of ${rows.length.toLocaleString()})` : '';
+  const chart = startChart(`${labelFor(xColumn)} vs ${labelFor(yColumn)}${sampleNote}`, labelFor(xColumn), labelFor(yColumn));
   chart.svg = svg.append('g');
-  const xDomain = xCategorical ? [...new Set(rows.map(d => d.x))] : rows.map(d => Number(d.x));
-  const yDomain = yCategorical ? [...new Set(rows.map(d => d.y))] : rows.map(d => Number(d.y));
+  const xDomain = xCategorical ? [...new Set(sampledRows.map(d => d.x))] : sampledRows.map(d => Number(d.x));
+  const yDomain = yCategorical ? [...new Set(sampledRows.map(d => d.y))] : sampledRows.map(d => Number(d.y));
   const x = axisFor(xDomain, [chart.margin.left, chart.margin.left + chart.innerWidth], xCategorical);
   const y = axisFor(yDomain, [chart.margin.top + chart.innerHeight, chart.margin.top], yCategorical);
   chart.svg.append('g').attr('class', 'grid').attr('transform', `translate(0 ${chart.margin.top + chart.innerHeight})`).call((xCategorical ? d3.axisBottom(x) : d3.axisBottom(x).ticks(6)).tickSize(-chart.innerHeight).tickFormat(''));
   chart.svg.append('g').attr('class', 'axis').attr('transform', `translate(0 ${chart.margin.top + chart.innerHeight})`).call(xCategorical ? d3.axisBottom(x) : d3.axisBottom(x).ticks(6));
   chart.svg.append('g').attr('class', 'axis').attr('transform', `translate(${chart.margin.left} 0)`).call(yCategorical ? d3.axisLeft(y) : d3.axisLeft(y).ticks(6));
-  chart.svg.selectAll('.point').data(rows).join('circle').attr('class', 'point').attr('cx', d => (xCategorical ? x(d.x) + (Math.random() - 0.5) * 18 : x(Number(d.x)))).attr('cy', d => (yCategorical ? y(d.y) + (Math.random() - 0.5) * 18 : y(Number(d.y)))).attr('r', 4.5).on('mousemove', (event, d) => showTooltip(event, `<strong>${d.row.player_name || 'Player'}</strong><br>${labelFor(xColumn)}: ${d.x}<br>${labelFor(yColumn)}: ${d.y}<br>${d.row.team || ''} · ${d.row.season || ''}`)).on('mouseleave', hideTooltip);
+  chart.svg.selectAll('.point').data(sampledRows).join('circle').attr('class', 'point').attr('cx', (d, index) => (xCategorical ? x(d.x) + ((index % 9) - 4) * 3 : x(Number(d.x)))).attr('cy', (d, index) => (yCategorical ? y(d.y) + ((index % 7) - 3) * 3 : y(Number(d.y)))).attr('r', 4.5).on('mousemove', (event, d) => showTooltip(event, `<strong>${d.row.player_name || 'Player'}</strong><br>${labelFor(xColumn)}: ${d.x}<br>${labelFor(yColumn)}: ${d.y}<br>${d.row.team || ''} · ${d.row.season || ''}`)).on('mouseleave', hideTooltip);
   addAxisLabels(chart, chart.xLabel, chart.yLabel);
 }
 
@@ -143,9 +154,9 @@ function bindEvents() {
 d3.csv('data/fused_players.csv').then(rows => {
   state.data = rows;
   inferColumns(rows);
-  state.distributionVariable = state.numericColumns.includes('market_value') ? 'market_value' : state.columns[0];
-  state.scatterA = state.numericColumns.includes('market_value') ? 'market_value' : state.columns[0];
-  state.scatterB = state.numericColumns.includes('goals') ? 'goals' : state.columns[1];
+  state.distributionVariable = state.distributionColumns.includes('market_value') ? 'market_value' : state.distributionColumns[0];
+  state.scatterA = state.scatterColumns.includes('market_value') ? 'market_value' : state.scatterColumns[0];
+  state.scatterB = state.scatterColumns.includes('goals') ? 'goals' : state.scatterColumns[1];
   updateSelectors();
   bindEvents();
   document.querySelector('#data-status').textContent = 'Fused dataset loaded';

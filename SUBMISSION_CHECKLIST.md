@@ -7,7 +7,7 @@ Course: CSE/ISE 332 Introduction to Visualization
 
 ### 1. Voice-narrated video
 
-File: `video intro.mp4`
+File: `video_intro.mp4`
 
 The video should demonstrate:
 
@@ -20,7 +20,9 @@ The video should demonstrate:
 
 ### 2. Report
 
-File: `report/report.md`
+Recommended file: `report/report.pdf`
+
+Source file: `report/report.md`
 
 The report includes:
 
@@ -32,7 +34,7 @@ The report includes:
 - limitations;
 - GitHub Copilot AI-use statement.
 
-Convert the Markdown report to PDF or DOCX if Brightspace requires a document format.
+The PDF has already been generated from the Markdown report.
 
 ### 3. Source-code ZIP
 

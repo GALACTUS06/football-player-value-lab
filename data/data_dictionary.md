@@ -1,6 +1,6 @@
 # Data dictionary
 
-The assignment unit is one player-season-team record. The current CSV contains the fused public dataset used by the interface: 59,097 records and 21 attributes across five European leagues.
+The assignment unit is one player-season-team record. The current CSV contains the fused public dataset used by the interface: 59,137 records and 21 attributes across five European leagues.
 
 | Field | Type | Meaning | Unit |
 |---|---|---|---|
@@ -34,3 +34,5 @@ The assignment unit is one player-season-team record. The current CSV contains t
 - Keep at least 500 valid records and 15 or more attributes in the submitted fused table.
 
 The exact source URLs and transformation steps are recorded in `README.md`, `report/report.md`, and `build_dataset.py`.
+
+There are 84 records without an age because the profile source does not provide a usable birth date. Other required fields have no blank values; missing names are replaced with a stable `Player <id>` fallback during the build.

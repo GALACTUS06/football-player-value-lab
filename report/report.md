@@ -14,11 +14,11 @@ The final report lists these public source URLs:
 2. Player-season performance source: `https://media.githubusercontent.com/media/salimt/football-datasets/main/datalake/transfermarkt/player_performances/player_performances.csv`
 3. Player profile source: `https://raw.githubusercontent.com/salimt/football-datasets/main/datalake/transfermarkt/player_profiles/player_profiles.csv`
 
-The fused output contains 59,097 records and 21 attributes. The source repository was accessed on 2026-09-06.
+The fused output contains 59,137 records and 21 attributes. The source repository was accessed on 2026-09-06.
 
 ## Attributes
 
-The planned attributes are documented in `data/data_dictionary.md`. They include categorical variables such as league, team, season, and position, and numerical variables such as market value, age, minutes, goals, assists, shots, passing, tackling, interceptions, and disciplinary counts.
+The attributes are documented in `data/data_dictionary.md`. They include categorical variables such as league, team, season, and position, and numerical variables such as market value, age, matches, starts, minutes, goals, assists, substitutions, clean sheets, and disciplinary counts.
 
 ## Why these data are interesting
 
@@ -26,7 +26,9 @@ Market value is a compact way to study how different dimensions of a player's co
 
 ## Data fusion and cleaning
 
-The final table uses one row per player-season-team-league record. Player IDs connect performance, market-value, and profile data. Market values are converted from EUR to millions of EUR and matched to dates between July 1 and June 30 of each season. Records without a value in that season window are excluded. The build produced 59,097 rows, 21 columns, removed zero duplicate keys, and excluded 19,455 performance rows without a season-window value.
+The final table uses one row per player-season-team-league record. Player IDs connect performance, market-value, and profile data. Market values are converted from EUR to millions of EUR and matched to dates between July 1 and June 30 of each season. Records without a value in that season window are excluded. The build produced 59,137 rows, 21 columns, removed zero duplicate keys, and excluded 19,455 performance rows without a season-window value. Eighty-four records have no age because the profile source lacks a usable birth date; required chart fields are otherwise populated.
+
+The same verified table is exported as `data/fused_players.xlsx` with one worksheet for the spreadsheet submission.
 
 ## Implementation
 

@@ -187,7 +187,7 @@ Matej Vydra (101500),10/11,Serie A,Udinese Calcio,Attack,18,0.4,4.0,2.0,0,0.0,0.
 Fábio Júnior (101562),11/12,Premier League,Al Ahly FC,Attack,28,0.3,7.0,7.0,342.0,1.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Óscar Perea (1015624),24/25,Ligue 1,RC Strasbourg Alsace,Attack,18,2.0,12.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Eman Kospo (1015822),25/26,Serie A,ACF Fiorentina,Defender,18,1.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Ligue 1,LOSC Lille,Midfield,19,15.0,29.0,22.0,0,0.0,1.0,0.0,8.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 1016015,24/25,Ligue 1,LOSC Lille,Midfield,19,15.0,29.0,22.0,0,0.0,1.0,0.0,8.0,11.0,4.0,0.0,0.0,0.0,0.0,0.0
 Scott Malone (101682),17/18,Premier League,Huddersfield Town,Defender,26,3.0,34.0,22.0,0,0.0,1.0,0.0,10.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0
 Ángel Trujillo (101742),15/16,LaLiga,Levante UD,Defender,27,1.0,15.0,8.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ángel Trujillo (101742),14/15,LaLiga,UD Almería,Defender,26,3.0,36.0,36.0,0,0.0,1.0,0.0,1.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
@@ -2307,7 +2307,7 @@ Hugo Mallo (119905),13/14,LaLiga,Celta de Vigo,Defender,22,3.0,33.0,33.0,0,0.0,2
 Hugo Mallo (119905),12/13,LaLiga,Celta de Vigo,Defender,21,2.5,17.0,17.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
 Michael Ortega (119988),11/12,Bundesliga,Bayer 04 Leverkusen,Midfield,20,1.0,19.0,7.0,0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Hamidou Makalou (1200289),24/25,Ligue 1,Stade Brestois 29,Midfield,17,0.3,8.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Ligue 1,AS Saint-Étienne,Attack,15,0.8,14.0,8.0,0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 1200419,24/25,Ligue 1,AS Saint-Étienne,Attack,15,0.8,14.0,8.0,0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alexis Vossah (1200427),25/26,Ligue 1,FC Toulouse,Midfield,17,0.1,3.0,2.0,49.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kassim Abdallah (120091),14/15,Ligue 1,FC Évian Thonon Gaillard,Defender,27,1.5,34.0,30.0,0,0.0,4.0,1.0,1.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0
 Kassim Abdallah (120091),13/14,Ligue 1,FC Évian Thonon Gaillard,Defender,26,2.0,11.0,11.0,0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
@@ -2456,7 +2456,7 @@ Benjani (12063),06/07,Premier League,Portsmouth FC,Attack,27,4.9,31.0,31.0,340.0
 Benjani (12063),05/06,Premier League,Portsmouth FC,Attack,26,4.25,16.0,16.0,1281.0,1.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
 Benjani (12063),05/06,Ligue 1,AJ Auxerre,Attack,26,4.25,14.0,11.0,817.0,1.0,1.0,0.0,1.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
 Benjani (12063),04/05,Ligue 1,AJ Auxerre,Attack,25,4.0,32.0,31.0,198.0,11.0,1.0,0.0,3.0,18.0,2.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Premier League,Floriana FC,Attack,26,0.2,5.0,5.0,435.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 120652,19/20,Premier League,Floriana FC,Attack,26,0.2,5.0,5.0,435.0,1.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Juan Carlos (120705),24/25,LaLiga,Girona FC,Goalkeeper,36,0.1,34.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Juan Carlos (120705),23/24,LaLiga,Girona FC,Goalkeeper,35,0.2,31.0,0.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Juan Carlos (120705),22/23,LaLiga,Girona FC,Goalkeeper,34,0.3,38.0,10.0,900.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0
@@ -2817,7 +2817,7 @@ Dorian Lévêque (122835),13/14,Ligue 1,EA Guingamp,Defender,23,0.5,24.0,18.0,0,
 Dorian Lévêque (122835),09/10,Ligue 1,US Boulogne,Defender,19,0.2,8.0,6.0,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
 Loïc Nego (122840),24/25,Ligue 1,Le Havre AC,Defender,33,0.7,34.0,31.0,0,0.0,1.0,0.0,3.0,7.0,4.0,0.0,0.0,0.0,0.0,0.0
 Loïc Nego (122840),23/24,Ligue 1,Le Havre AC,Defender,32,0.9,31.0,28.0,0,0.0,5.0,0.0,10.0,13.0,2.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,AS Monaco,Defender,20,5.0,35.0,30.0,0,0.0,0.0,0.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 122881,10/11,Ligue 1,AS Monaco,Goalkeeper,20,0.15,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sixtus Ogbuehi (1230201),24/25,LaLiga,CA Osasuna,Attack,21,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Borja Vázquez (1230202),23/24,LaLiga,Cádiz CF,Attack,18,0.05,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 François Moubandje (123021),18/19,Ligue 1,FC Toulouse,Defender,28,2.5,29.0,22.0,0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -3152,13 +3152,13 @@ Marvin Ducksch (125103),22/23,Bundesliga,SV Werder Bremen,Attack,28,7.5,34.0,34.
 Marvin Ducksch (125103),18/19,Bundesliga,Fortuna Düsseldorf,Attack,24,1.5,27.0,16.0,820.0,1.0,1.0,0.0,8.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Marvin Ducksch (125103),14/15,Bundesliga,SC Paderborn 07,Attack,20,0.7,14.0,9.0,206.0,1.0,0.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Marvin Ducksch (125103),13/14,Bundesliga,Borussia Dortmund,Attack,19,1.0,12.0,6.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,FC Metz,Midfield,22,0.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,LaLiga,Real Zaragoza,Midfield,26,2.5,14.0,9.0,0,0.0,0.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,AS Saint-Étienne,Midfield,26,2.5,8.0,5.0,0,0.0,1.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Ligue 1,AS Saint-Étienne,Midfield,25,3.0,36.0,34.0,0,0.0,0.0,0.0,5.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,FC Sochaux-Montbéliard,Midfield,23,4.0,31.0,30.0,859.0,3.0,0.0,0.0,1.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Ligue 1,FC Sochaux-Montbéliard,Midfield,21,2.0,30.0,30.0,2700.0,1.0,1.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Ligue 1,FC Sochaux-Montbéliard,Midfield,20,1.2,21.0,16.0,0,0.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,14/15,Ligue 1,FC Metz,Midfield,30,0.5,35.0,27.0,0,0.0,0.0,0.0,2.0,2.0,11.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,10/11,LaLiga,Real Zaragoza,Midfield,26,2.5,14.0,9.0,0,0.0,0.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,10/11,Ligue 1,AS Saint-Étienne,Midfield,26,2.5,8.0,5.0,0,0.0,1.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,09/10,Ligue 1,AS Saint-Étienne,Midfield,25,3.0,36.0,34.0,0,0.0,0.0,0.0,5.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,07/08,Ligue 1,FC Sochaux-Montbéliard,Midfield,23,4.0,31.0,30.0,859.0,3.0,0.0,0.0,1.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,05/06,Ligue 1,FC Sochaux-Montbéliard,Midfield,21,2.0,30.0,30.0,2700.0,1.0,1.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 12515,04/05,Ligue 1,FC Sochaux-Montbéliard,Midfield,20,1.2,21.0,16.0,0,0.0,0.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jesús Corona (125165),23/24,LaLiga,Sevilla FC,Attack,30,3.5,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jesús Corona (125165),22/23,LaLiga,Sevilla FC,Attack,29,8.0,13.0,4.0,109.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jesús Corona (125165),21/22,LaLiga,Sevilla FC,Attack,28,18.0,18.0,18.0,581.0,2.0,4.0,0.0,6.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -3543,7 +3543,7 @@ Tristan Dingomé (126683),20/21,Ligue 1,Stade Reims,Midfield,29,1.3,5.0,1.0,0,0.
 Tristan Dingomé (126683),19/20,Ligue 1,Stade Reims,Midfield,28,1.6,17.0,15.0,0,0.0,1.0,0.0,3.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0
 Tristan Dingomé (126683),18/19,Ligue 1,Stade Reims,Midfield,27,2.5,24.0,20.0,1357.0,1.0,3.0,0.0,3.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0
 Tristan Dingomé (126683),17/18,Ligue 1,ESTAC Troyes,Midfield,26,1.0,14.0,14.0,0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,FC Nantes,Midfield,25,0.05,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 126697,15/16,Ligue 1,FC Nantes,Midfield,25,0.05,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Slimane Sissoko (126704),15/16,Ligue 1,Angers SCO,Attack,24,0.4,15.0,12.0,0,0.0,1.0,0.0,10.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0
 Vincent Pajot (126699),21/22,Ligue 1,FC Metz,Midfield,30,1.0,30.0,30.0,2317.0,1.0,0.0,0.0,3.0,10.0,6.0,0.0,1.0,0.0,0.0,0.0
 Vincent Pajot (126699),20/21,Ligue 1,FC Metz,Midfield,29,1.5,12.0,12.0,0,0.0,0.0,0.0,1.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -3674,8 +3674,8 @@ James Collins (12691),08/09,Premier League,West Ham United,Defender,24,2.0,19.0,
 James Collins (12691),07/08,Premier League,West Ham United,Defender,23,1.0,9.0,3.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 James Collins (12691),06/07,Premier League,West Ham United,Defender,22,0.5,16.0,16.0,0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
 James Collins (12691),05/06,Premier League,West Ham United,Defender,21,0.5,15.0,14.0,567.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,Amiens SC,Midfield,32,0.25,25.0,12.0,608.0,1.0,0.0,0.0,5.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,Angers SCO,Midfield,29,3.5,32.0,32.0,308.0,9.0,4.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,0.0,0.0
+Player 126924,17/18,Ligue 1,Amiens SC,Midfield,32,0.25,25.0,12.0,608.0,1.0,0.0,0.0,5.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 126924,15/16,Ligue 1,Angers SCO,Midfield,30,0.25,15.0,3.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stephen Dobbie (12693),13/14,Premier League,Crystal Palace,Attack,30,1.0,3.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stephen Dobbie (12693),12/13,Premier League,Swansea City,Attack,29,1.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stephen Dobbie (12693),11/12,Premier League,Swansea City,Attack,28,1.25,16.0,8.0,0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3798,8 +3798,8 @@ Jonathan Ligali (127140),14/15,Ligue 1,Montpellier HSC,Goalkeeper,23,0.6,26.0,6.
 Jonathan Ligali (127140),13/14,Ligue 1,Montpellier HSC,Goalkeeper,22,0.4,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jonathan Ligali (127140),12/13,Ligue 1,Montpellier HSC,Goalkeeper,21,0.4,5.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 Jonathan Ligali (127140),11/12,Ligue 1,Montpellier HSC,Goalkeeper,20,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,Olympique Marseille,Defender,22,13.0,38.0,38.0,3404.0,1.0,0.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,Olympique Marseille,Defender,24,1.0,25.0,4.0,0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 127144,12/13,Ligue 1,Olympique Marseille,Midfield,20,0.25,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 127144,10/11,Ligue 1,Olympique Marseille,Midfield,18,0.15,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Teddy Mezague (127143),22/23,Premier League,FC Ararat Yerevan,Defender,32,0.15,14.0,9.0,745.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Teddy Mezague (127143),13/14,Ligue 1,Montpellier HSC,Defender,23,0.75,22.0,9.0,0,0.0,1.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
 Teddy Mezague (127143),12/13,Ligue 1,Montpellier HSC,Defender,22,0.3,16.0,5.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3879,8 +3879,8 @@ Maxime Dupé (127188),16/17,Ligue 1,FC Nantes,Goalkeeper,23,0.8,37.0,16.0,1440.0
 Maxime Dupé (127188),15/16,Ligue 1,FC Nantes,Goalkeeper,22,0.6,38.0,7.0,630.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0
 Maxime Dupé (127188),14/15,Ligue 1,FC Nantes,Goalkeeper,21,0.6,38.0,6.0,540.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0
 Maxime Dupé (127188),13/14,Ligue 1,FC Nantes,Goalkeeper,20,0.15,16.0,4.0,360.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,3.0
-,20/21,Ligue 1,Stade Brestois 29,Midfield,20,2.0,24.0,12.0,0,0.0,0.0,0.0,8.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Ligue 1,Stade Brestois 29,Midfield,19,0.725,4.0,2.0,140.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 127192,20/21,Ligue 1,Stade Brestois 29,Midfield,27,0.55,6.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 127192,19/20,Ligue 1,Stade Brestois 29,Midfield,26,0.55,9.0,4.0,22.0,1.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
 Geoffrey Kondogbia (127189),24/25,Ligue 1,Olympique Marseille,Midfield,31,7.0,25.0,25.0,0,0.0,0.0,0.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Geoffrey Kondogbia (127189),23/24,Ligue 1,Olympique Marseille,Midfield,30,12.0,26.0,26.0,0,0.0,0.0,0.0,11.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0
 Geoffrey Kondogbia (127189),22/23,LaLiga,Atlético de Madrid,Midfield,29,14.0,34.0,20.0,0,0.0,2.0,0.0,10.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0
@@ -5740,7 +5740,7 @@ Danilo Pereira (141050),20/21,Ligue 1,Paris Saint-Germain,Defender,28,20.0,26.0,
 Danilo Pereira (141050),11/12,Serie A,Parma FC,Defender,19,0.5,7.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Danilo Pereira (141050),10/11,Serie A,Parma FC,Defender,18,0.4,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 João Paulo (14110),09/10,Ligue 1,Le Mans Union Club 72,Defender,28,2.0,27.0,23.0,0,0.0,1.0,1.0,2.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,West Bromwich Albion,Midfield,20,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 141349,14/15,Premier League,West Bromwich Albion,Midfield,20,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Pepe (14132),16/17,LaLiga,Real Madrid,Defender,33,3.0,18.0,13.0,541.0,2.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Pepe (14132),15/16,LaLiga,Real Madrid,Defender,32,6.0,27.0,21.0,1887.0,1.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
 Pepe (14132),14/15,LaLiga,Real Madrid,Defender,31,15.0,27.0,27.0,1113.0,2.0,2.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
@@ -7218,8 +7218,8 @@ Marco Friedl (156990),17/18,Bundesliga,Bayern Munich,Defender,19,1.5,7.0,1.0,0,0
 Dyego Sousa (157036),22/23,LaLiga,UD Almería,Attack,32,0.8,34.0,20.0,0,0.0,1.0,0.0,17.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Gledson (1571),07/08,Bundesliga,FC Hansa Rostock,Defender,27,1.5,11.0,10.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gledson (1571),07/08,Bundesliga,VfB Stuttgart,Defender,27,1.5,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Premier League,Birmingham City,Attack,27,1.5,5.0,3.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Birmingham City,Attack,24,3.25,29.0,23.0,387.0,2.0,0.0,0.0,18.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 15708,10/11,Premier League,Birmingham City,Attack,27,1.5,5.0,3.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 15708,07/08,Premier League,Birmingham City,Attack,24,3.25,29.0,23.0,387.0,2.0,0.0,0.0,18.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Borja Oubiña (15715),13/14,LaLiga,Celta de Vigo,Midfield,31,2.0,36.0,25.0,2041.0,1.0,0.0,0.0,1.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0
 Borja Oubiña (15715),12/13,LaLiga,Celta de Vigo,Midfield,30,2.0,36.0,36.0,3232.0,1.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0
 Borja Oubiña (15715),07/08,Premier League,Birmingham City,Midfield,25,3.0,2.0,2.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7297,23 +7297,23 @@ Adrien Tamèze (157507),19/20,Serie A,Atalanta BC,Midfield,25,4.8,17.0,7.0,0,0.0
 Adrien Tamèze (157507),19/20,Ligue 1,OGC Nice,Midfield,25,4.8,13.0,8.0,519.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Adrien Tamèze (157507),18/19,Ligue 1,OGC Nice,Midfield,24,8.0,37.0,37.0,0,0.0,3.0,0.0,3.0,11.0,7.0,0.0,0.0,0.0,0.0,0.0
 Adrien Tamèze (157507),17/18,Ligue 1,OGC Nice,Midfield,23,4.0,30.0,26.0,0,0.0,1.0,0.0,7.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Serie A,FC Empoli,Attack,28,2.5,16.0,14.0,118.0,6.0,1.0,0.0,9.0,5.0,1.0,0.0,0.0,4.0,0.0,0.0
-,22/23,Ligue 1,AJ Auxerre,Midfield,31,0.9,34.0,26.0,0,0.0,1.0,0.0,15.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,FC Girondins Bordeaux,Attack,26,4.0,26.0,22.0,256.0,3.0,0.0,0.0,15.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Ligue 1,Stade Rennais FC,Attack,25,4.5,11.0,9.0,422.0,1.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Ligue 1,Stade Rennais FC,Attack,24,12.0,27.0,26.0,213.0,10.0,1.0,0.0,2.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Ligue 1,Stade Rennais FC,Attack,23,12.0,31.0,29.0,164.0,11.0,4.0,0.0,10.0,11.0,5.0,0.0,0.0,2.0,0.0,0.0
-,17/18,Serie A,Torino FC,Defender,27,10.0,38.0,37.0,1630.0,2.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Watford FC,Attack,21,15.0,16.0,16.0,627.0,2.0,2.0,0.0,1.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Serie A,AC Milan,Attack,21,15.0,18.0,18.0,375.0,3.0,3.0,0.0,5.0,7.0,0.0,1.0,0.0,1.0,0.0,0.0
-,15/16,Serie A,AC Milan,Attack,20,12.0,17.0,16.0,232.0,5.0,4.0,0.0,1.0,14.0,1.0,0.0,0.0,2.0,0.0,0.0
-,14/15,Serie A,Genoa CFC,Attack,19,7.0,16.0,14.0,193.0,5.0,3.0,0.0,2.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Serie A,AC Milan,Attack,19,7.0,18.0,5.0,0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,Montpellier HSC,Attack,18,4.5,19.0,19.0,346.0,4.0,2.0,0.0,2.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Serie A,AC Milan,Attack,18,4.5,15.0,8.0,0,0.0,1.0,0.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Serie A,AC Milan,Attack,17,5.0,33.0,20.0,0,0.0,1.0,0.0,11.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Ligue 1,SM Caen,Defender,18,0.3,13.0,7.0,0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,SM Caen,Midfield,22,0.6,21.0,11.0,482.0,1.0,1.0,0.0,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,23/24,Serie A,FC Empoli,Attack,28,2.5,16.0,14.0,118.0,6.0,1.0,0.0,9.0,5.0,1.0,0.0,0.0,4.0,0.0,0.0
+Player 157501,22/23,Ligue 1,AJ Auxerre,Attack,27,2.5,30.0,30.0,248.0,6.0,0.0,0.0,13.0,14.0,2.0,0.0,2.0,3.0,0.0,0.0
+Player 157501,21/22,Ligue 1,FC Girondins Bordeaux,Attack,26,4.0,26.0,22.0,256.0,3.0,0.0,0.0,15.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,20/21,Ligue 1,Stade Rennais FC,Attack,25,4.5,11.0,9.0,422.0,1.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,19/20,Ligue 1,Stade Rennais FC,Attack,24,12.0,27.0,26.0,213.0,10.0,1.0,0.0,2.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,18/19,Ligue 1,Stade Rennais FC,Attack,23,12.0,31.0,29.0,164.0,11.0,4.0,0.0,10.0,11.0,5.0,0.0,0.0,2.0,0.0,0.0
+Player 157501,17/18,Serie A,Torino FC,Attack,22,10.0,30.0,26.0,385.0,4.0,1.0,0.0,8.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,16/17,Premier League,Watford FC,Attack,21,15.0,16.0,16.0,627.0,2.0,2.0,0.0,1.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,16/17,Serie A,AC Milan,Attack,21,15.0,18.0,18.0,375.0,3.0,3.0,0.0,5.0,7.0,0.0,1.0,0.0,1.0,0.0,0.0
+Player 157501,15/16,Serie A,AC Milan,Attack,20,12.0,17.0,16.0,232.0,5.0,4.0,0.0,1.0,14.0,1.0,0.0,0.0,2.0,0.0,0.0
+Player 157501,14/15,Serie A,Genoa CFC,Attack,19,7.0,16.0,14.0,193.0,5.0,3.0,0.0,2.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,14/15,Serie A,AC Milan,Attack,19,7.0,18.0,5.0,0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,13/14,Ligue 1,Montpellier HSC,Attack,18,4.5,19.0,19.0,346.0,4.0,2.0,0.0,2.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,13/14,Serie A,AC Milan,Attack,18,4.5,15.0,8.0,0,0.0,1.0,0.0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,12/13,Serie A,AC Milan,Attack,17,5.0,33.0,20.0,0,0.0,1.0,0.0,11.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,11/12,Ligue 1,SM Caen,Attack,16,1.75,25.0,23.0,522.0,2.0,2.0,0.0,9.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 157501,10/11,Ligue 1,SM Caen,Attack,15,1.0,7.0,7.0,113.0,3.0,0.0,0.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
 Kurt Zouma (157509),23/24,Premier League,West Ham United,Defender,28,25.0,34.0,33.0,946.0,3.0,0.0,0.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
 Kurt Zouma (157509),22/23,Premier League,West Ham United,Defender,27,22.0,28.0,25.0,995.0,2.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kurt Zouma (157509),21/22,Premier League,West Ham United,Defender,26,28.0,25.0,24.0,2080.0,1.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -7890,7 +7890,7 @@ Noë Dussenne (160736),17/18,Serie A,FC Crotone,Defender,25,0.7,1.0,1.0,0,0.0,0.
 Noë Dussenne (160736),16/17,Serie A,FC Crotone,Defender,24,1.0,35.0,8.0,0,0.0,0.0,0.0,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0
 Antonio Balzano (160825),14/15,Serie A,Cagliari Calcio,Defender,28,0.9,30.0,25.0,0,0.0,2.0,1.0,4.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
 Antonio Balzano (160825),12/13,Serie A,Delfino Pescara 1936,Defender,26,0.6,32.0,26.0,0,0.0,0.0,0.0,3.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,ESTAC Troyes,Defender,24,0.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 160910,15/16,Ligue 1,ESTAC Troyes,Defender,24,0.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Paul Smith (16092),04/05,Premier League,Southampton FC,Goalkeeper,24,0.5,14.0,6.0,534.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0
 Marvin Schwäbe (160929),23/24,Bundesliga,1.FC Köln,Goalkeeper,28,4.0,34.0,34.0,3060.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,4.0
 Marvin Schwäbe (160929),22/23,Bundesliga,1.FC Köln,Goalkeeper,27,7.0,34.0,34.0,3060.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,54.0,6.0
@@ -7998,7 +7998,7 @@ Nicola Pozzi (16117),10/11,Serie A,UC Sampdoria,Attack,24,3.8,27.0,22.0,207.0,6.
 Nicola Pozzi (16117),09/10,Serie A,UC Sampdoria,Attack,23,3.0,28.0,18.0,326.0,2.0,1.0,0.0,11.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
 Nicola Pozzi (16117),07/08,Serie A,FC Empoli,Attack,21,4.8,19.0,17.0,160.0,7.0,0.0,0.0,4.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
 Nicola Pozzi (16117),05/06,Serie A,FC Empoli,Attack,19,3.0,31.0,23.0,411.0,2.0,2.0,0.0,16.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Bundesliga,SC Wiener Neustadt,Midfield,25,0.6,29.0,29.0,609.0,4.0,2.0,0.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.0
+Player 161244,14/15,Bundesliga,SC Wiener Neustadt,Midfield,25,0.6,29.0,29.0,609.0,4.0,2.0,0.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.0
 Julian Green (161204),21/22,Bundesliga,SpVgg Greuther Fürth,Midfield,26,1.0,33.0,24.0,0,0.0,0.0,0.0,12.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0
 Julian Green (161204),16/17,Bundesliga,Bayern Munich,Midfield,21,0.7,6.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Julian Green (161204),14/15,Bundesliga,Hamburger SV,Midfield,19,1.0,8.0,5.0,0,0.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -8501,8 +8501,8 @@ Mory Diaw (164904),23/24,Ligue 1,Clermont Foot 63,Goalkeeper,30,1.8,30.0,30.0,27
 Mory Diaw (164904),22/23,Ligue 1,Clermont Foot 63,Goalkeeper,29,2.0,37.0,37.0,3330.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,10.0
 Mickaël Salamone (164919),13/14,Ligue 1,FC Évian Thonon Gaillard,Goalkeeper,21,0.1,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mickaël Salamone (164919),12/13,Ligue 1,FC Évian Thonon Gaillard,Goalkeeper,20,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,FC Évian Thonon Gaillard,Attack,21,1.5,30.0,28.0,352.0,5.0,1.0,0.0,8.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,FC Évian Thonon Gaillard,Attack,20,0.4,29.0,20.0,248.0,2.0,0.0,0.0,16.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 164937,14/15,Ligue 1,FC Évian Thonon Gaillard,Attack,21,1.5,30.0,28.0,352.0,5.0,1.0,0.0,8.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 164937,13/14,Ligue 1,FC Évian Thonon Gaillard,Attack,20,0.4,29.0,20.0,248.0,2.0,0.0,0.0,16.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Mario Krassnitzer (16497),08/09,Bundesliga,SCR Altach,Goalkeeper,32,0.225,22.0,9.0,810.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,1.0
 Mario Krassnitzer (16497),07/08,Bundesliga,SCR Altach,Goalkeeper,31,0.375,31.0,23.0,1974.0,0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,34.0,7.0
 Mario Krassnitzer (16497),06/07,Bundesliga,SCR Altach,Goalkeeper,30,0.575,36.0,36.0,3240.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,64.0,4.0
@@ -8563,8 +8563,8 @@ Marco Russ (16520),07/08,Bundesliga,Eintracht Frankfurt,Defender,21,2.5,32.0,29.
 Marco Russ (16520),06/07,Bundesliga,Eintracht Frankfurt,Defender,20,1.3,34.0,27.0,1752.0,1.0,0.0,0.0,8.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Marco Russ (16520),05/06,Bundesliga,Eintracht Frankfurt,Defender,19,0.6,15.0,9.0,0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
 Daniel Edusei (16534),13/14,Premier League,New Edubiase United,Defender,32,0.1,1.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,FC Évian Thonon Gaillard,Attack,22,0.4,2.0,2.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Ligue 1,FC Évian Thonon Gaillard,Attack,21,0.5,22.0,14.0,532.0,1.0,0.0,0.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 165351,12/13,Ligue 1,FC Évian Thonon Gaillard,Attack,22,0.4,2.0,2.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 165351,11/12,Ligue 1,FC Évian Thonon Gaillard,Attack,21,0.5,22.0,14.0,532.0,1.0,0.0,0.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
 Dario Župarić (165381),16/17,Serie A,Delfino Pescara 1936,Defender,24,0.5,17.0,7.0,0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Lloyd Palun (165400),14/15,Ligue 1,OGC Nice,Defender,25,0.8,30.0,21.0,1639.0,1.0,1.0,0.0,2.0,2.0,5.0,1.0,0.0,0.0,0.0,0.0
 Lloyd Palun (165400),13/14,Ligue 1,OGC Nice,Defender,24,0.75,29.0,9.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -8905,6 +8905,7 @@ Stefano Sabelli (167491),23/24,Serie A,Genoa CFC,Defender,30,1.5,34.0,32.0,0,0.0
 Stefano Sabelli (167491),21/22,Serie A,Genoa CFC,Defender,28,1.5,17.0,7.0,0,0.0,0.0,0.0,2.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
 Stefano Sabelli (167491),19/20,Serie A,Brescia Calcio (- 2025),Defender,26,1.6,37.0,36.0,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
 Stefano Sabelli (167491),15/16,Serie A,Carpi FC 1909,Defender,22,1.5,17.0,7.0,558.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 167472,22/23,Ligue 1,AJ Auxerre,Midfield,31,0.9,34.0,26.0,0,0.0,1.0,0.0,15.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
 Yuriy Zhirkov (16760),10/11,Premier League,Chelsea FC,Midfield,26,12.0,23.0,12.0,0,0.0,2.0,0.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Yuriy Zhirkov (16760),09/10,Premier League,Chelsea FC,Midfield,25,15.0,28.0,17.0,0,0.0,2.0,0.0,7.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
 Anton Bratkov (167553),24/25,Premier League,FC Pyunik Yerevan,Defender,31,0.25,23.0,18.0,0,0.0,1.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -11513,8 +11514,10 @@ Naomichi Ueda (188915),20/21,Ligue 1,Nîmes Olympique,Defender,25,0.8,15.0,9.0,0
 Danijel Petkovic (188930),21/22,Ligue 1,Angers SCO,Goalkeeper,28,1.0,37.0,15.0,1350.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,22.0,2.0
 Danijel Petkovic (188930),20/21,Ligue 1,Angers SCO,Goalkeeper,27,0.7,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Danijel Petkovic (188930),19/20,Ligue 1,Angers SCO,Goalkeeper,26,0.725,27.0,2.0,180.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
-,11/12,Ligue 1,AC Ajaccio,Defender,25,0.7,12.0,8.0,0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0
-,04/05,Ligue 1,Olympique Marseille,Midfield,28,1.5,27.0,23.0,1437.0,1.0,0.0,0.0,8.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 18894,12/13,Ligue 1,Olympique Marseille,Defender,26,0.3,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 18894,11/12,Ligue 1,AC Ajaccio,Defender,25,0.7,12.0,8.0,0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0
+Player 18894,10/11,Ligue 1,Olympique Marseille,Defender,24,1.0,25.0,4.0,0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 18894,04/05,Ligue 1,Olympique Marseille,Defender,18,1.0,5.0,2.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Bror Blume (189044),24/25,Bundesliga,WSG Tirol,Midfield,32,0.2,28.0,21.0,438.0,3.0,7.0,0.0,5.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0
 Bror Blume (189044),23/24,Bundesliga,WSG Tirol,Midfield,31,0.3,16.0,14.0,0,0.0,1.0,0.0,5.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
 Bror Blume (189044),22/23,Bundesliga,WSG Tirol,Midfield,30,0.45,25.0,25.0,0,0.0,5.0,0.0,2.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -12930,6 +12933,7 @@ Richard Boateng (198400),13/14,LaLiga,Granada CF,Midfield,20,0.0,4.0,1.0,0,0.0,0
 Kévin Mayi (198473),19/20,Ligue 1,Stade Brestois 29,Attack,26,0.55,5.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kévin Mayi (198473),15/16,Ligue 1,GFC Ajaccio,Attack,22,0.8,35.0,23.0,316.0,3.0,1.0,0.0,15.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Kévin Mayi (198473),12/13,Ligue 1,AS Saint-Étienne,Attack,19,0.75,18.0,7.0,0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 198474,11/12,Ligue 1,SM Caen,Defender,18,0.3,13.0,7.0,0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
 Steve Gohouri (19857),11/12,Premier League,Wigan Athletic,Defender,30,1.0,15.0,10.0,0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0
 Steve Gohouri (19857),10/11,Premier League,Wigan Athletic,Defender,29,1.5,34.0,27.0,2361.0,1.0,1.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
 Steve Gohouri (19857),09/10,Premier League,Wigan Athletic,Defender,28,0.75,9.0,5.0,369.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -13649,6 +13653,7 @@ Christoph Rabitsch (204113),16/17,Bundesliga,Wolfsberger AC,Midfield,20,0.3,28.0
 Christoph Rabitsch (204113),15/16,Bundesliga,Wolfsberger AC,Midfield,19,0.35,30.0,18.0,0,0.0,1.0,0.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Ákos Kecskés (204155),22/23,Bundesliga,LASK,Defender,26,0.4,13.0,6.0,0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Julian Loose (20417),05/06,Bundesliga,Arminia Bielefeld,Attack,20,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 204195,14/15,Ligue 1,FC Metz,Midfield,22,0.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Romain Saïss (204198),21/22,Premier League,Wolverhampton Wanderers,Defender,31,8.0,33.0,31.0,1355.0,2.0,0.0,0.0,0.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
 Romain Saïss (204198),20/21,Premier League,Wolverhampton Wanderers,Defender,30,10.0,34.0,27.0,803.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Romain Saïss (204198),19/20,Premier League,Wolverhampton Wanderers,Defender,29,4.0,35.0,33.0,1353.0,2.0,1.0,0.0,2.0,2.0,10.0,1.0,0.0,0.0,0.0,0.0
@@ -14372,8 +14377,8 @@ Djibril Sow (212723),20/21,Bundesliga,Eintracht Frankfurt,Midfield,23,15.0,32.0,
 Djibril Sow (212723),19/20,Bundesliga,Eintracht Frankfurt,Midfield,22,9.5,31.0,29.0,1738.0,1.0,3.0,0.0,11.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
 Djibril Sow (212723),16/17,Bundesliga,Borussia Mönchengladbach,Midfield,19,1.0,8.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Djibril Sow (212723),15/16,Bundesliga,Borussia Mönchengladbach,Midfield,18,1.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Premier League,Sheffield United,Defender,26,5.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Premier League,Sheffield United,Defender,25,9.5,33.0,33.0,0,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 212829,20/21,Premier League,Sheffield United,Defender,26,5.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 212829,19/20,Premier League,Sheffield United,Defender,25,9.5,33.0,33.0,0,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
 Youssef Mohamad (21282),10/11,Bundesliga,1.FC Köln,Defender,30,2.75,28.0,28.0,1193.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
 Youssef Mohamad (21282),09/10,Bundesliga,1.FC Köln,Defender,29,4.0,31.0,31.0,1379.0,2.0,0.0,0.0,0.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
 Youssef Mohamad (21282),08/09,Bundesliga,1.FC Köln,Defender,28,4.5,30.0,30.0,2689.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
@@ -14629,15 +14634,15 @@ Rémi Walter (215686),17/18,Ligue 1,ESTAC Troyes,Midfield,22,3.0,13.0,12.0,0,0.0
 Rémi Walter (215686),17/18,Ligue 1,OGC Nice,Midfield,22,3.0,18.0,8.0,491.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rémi Walter (215686),16/17,Ligue 1,OGC Nice,Midfield,21,3.0,33.0,22.0,0,0.0,1.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rémi Walter (215686),15/16,Ligue 1,OGC Nice,Midfield,20,1.5,15.0,12.0,0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Premier League,Tottenham Hotspur,Attack,24,3.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Ligue 1,AS Monaco,Midfield,22,4.0,14.0,4.0,0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Premier League,Tottenham Hotspur,Attack,23,5.0,3.0,1.0,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Premier League,Burnley FC,Midfield,18,0.5,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Premier League,Tottenham Hotspur,Attack,22,7.0,6.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Tottenham Hotspur,Attack,21,7.0,22.0,8.0,0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,Olympique Marseille,Defender,25,10.0,34.0,33.0,0,0.0,0.0,1.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0
-,14/15,Ligue 1,FC Nantes,Attack,19,2.0,32.0,28.0,804.0,2.0,2.0,0.0,12.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,FC Nantes,Attack,18,0.5,11.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,19/20,Premier League,Tottenham Hotspur,Attack,24,3.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,18/19,Ligue 1,AS Monaco,Attack,23,5.0,5.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,18/19,Premier League,Tottenham Hotspur,Attack,23,5.0,3.0,1.0,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,17/18,Premier League,Burnley FC,Attack,22,7.0,13.0,8.0,0,0.0,0.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,17/18,Premier League,Tottenham Hotspur,Attack,22,7.0,6.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,16/17,Premier League,Tottenham Hotspur,Attack,21,7.0,22.0,8.0,0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,15/16,Ligue 1,Olympique Marseille,Attack,20,5.0,30.0,28.0,415.0,5.0,3.0,0.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,14/15,Ligue 1,FC Nantes,Attack,19,2.0,32.0,28.0,804.0,2.0,2.0,0.0,12.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 215679,13/14,Ligue 1,FC Nantes,Attack,18,0.5,11.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mouez Hassen (215677),20/21,Ligue 1,Stade Brestois 29,Goalkeeper,25,0.4,10.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mouez Hassen (215677),16/17,Premier League,Southampton FC,Goalkeeper,21,1.0,13.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mouez Hassen (215677),16/17,Ligue 1,OGC Nice,Goalkeeper,21,1.0,10.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -14755,10 +14760,10 @@ Joakim Nilsson (216804),20/21,Bundesliga,Arminia Bielefeld,Defender,26,2.5,33.0,
 Ivan Artipoli (21682),07/08,Serie A,SS Lazio,Defender,21,0.25,7.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ivan Artipoli (21682),04/05,Serie A,UC Sampdoria,Defender,18,0.3,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gianni Comandini (21683),04/05,Serie A,Atalanta BC,Attack,27,0.3,5.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Serie A,FC Messina Peloro,Midfield,30,1.1,16.0,12.0,0,0.0,3.0,0.0,0.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0
-,06/07,Serie A,AC Siena,Midfield,30,1.1,15.0,11.0,0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Serie A,AC Siena,Midfield,29,1.0,26.0,26.0,0,0.0,3.0,0.0,1.0,3.0,8.0,0.0,1.0,0.0,0.0,0.0
-,04/05,Serie A,AC Siena,Midfield,28,1.5,18.0,18.0,0,0.0,3.0,0.0,1.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 21685,06/07,Serie A,FC Messina Peloro,Midfield,30,1.1,16.0,12.0,0,0.0,3.0,0.0,0.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0
+Player 21685,06/07,Serie A,AC Siena,Midfield,30,1.1,15.0,11.0,0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 21685,05/06,Serie A,AC Siena,Midfield,29,1.0,26.0,26.0,0,0.0,3.0,0.0,1.0,3.0,8.0,0.0,1.0,0.0,0.0,0.0
+Player 21685,04/05,Serie A,AC Siena,Midfield,28,1.5,18.0,18.0,0,0.0,3.0,0.0,1.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
 Francesco Zampano (216872),24/25,Serie A,Venezia FC,Defender,30,1.0,35.0,24.0,1641.0,1.0,2.0,0.0,7.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0
 Francesco Zampano (216872),18/19,Serie A,Frosinone Calcio,Defender,24,1.5,36.0,27.0,0,0.0,2.0,0.0,3.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Francesco Zampano (216872),17/18,Serie A,Udinese Calcio,Defender,23,1.8,17.0,6.0,0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -15038,10 +15043,10 @@ Gianluca Pegolo (21872),14/15,Serie A,US Sassuolo,Goalkeeper,33,0.8,4.0,0.0,0,0.
 Gianluca Pegolo (21872),13/14,Serie A,US Sassuolo,Goalkeeper,32,2.0,36.0,33.0,2970.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,55.0,5.0
 Gianluca Pegolo (21872),12/13,Serie A,AC Siena,Goalkeeper,31,2.0,38.0,38.0,3420.0,0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,57.0,12.0
 Gianluca Pegolo (21872),11/12,Serie A,AC Siena,Goalkeeper,30,0.5,32.0,19.0,1710.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,23.0,6.0
-,10/11,Serie A,ACF Fiorentina,Midfield,28,8.5,29.0,20.0,244.0,5.0,1.0,0.0,8.0,6.0,2.0,0.0,0.0,1.0,0.0,0.0
-,08/09,Serie A,US Lecce,Attack,24,2.0,8.0,6.0,0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Serie A,ACF Fiorentina,Attack,23,1.5,13.0,7.0,158.0,2.0,1.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Serie A,Genoa CFC,Attack,23,1.5,9.0,9.0,0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 21871,10/11,Serie A,ACF Fiorentina,Attack,26,0.45,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 21871,08/09,Serie A,US Lecce,Attack,24,2.0,8.0,6.0,0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 21871,07/08,Serie A,ACF Fiorentina,Attack,23,1.5,13.0,7.0,158.0,2.0,1.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 21871,07/08,Serie A,Genoa CFC,Attack,23,1.5,9.0,9.0,0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Federico Balzaretti (21876),14/15,Serie A,AS Roma,Defender,32,0.4,10.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Federico Balzaretti (21876),13/14,Serie A,AS Roma,Defender,31,1.5,11.0,11.0,914.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
 Federico Balzaretti (21876),12/13,Serie A,AS Roma,Defender,30,3.5,28.0,27.0,0,0.0,3.0,0.0,3.0,4.0,4.0,1.0,0.0,0.0,0.0,0.0
@@ -15368,18 +15373,18 @@ Jean-François Gillet (22149),09/10,Serie A,AS Bari,Goalkeeper,30,4.5,38.0,37.0,
 Zack Steffen (221624),21/22,Premier League,Manchester City,Goalkeeper,26,6.0,30.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 Zack Steffen (221624),20/21,Premier League,Manchester City,Goalkeeper,25,6.0,35.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
 Zack Steffen (221624),19/20,Bundesliga,Fortuna Düsseldorf,Goalkeeper,24,6.0,17.0,17.0,1530.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,2.0
-,15/16,Premier League,Aston Villa,Attack,29,1.0,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,Aston Villa,Attack,28,2.5,34.0,27.0,0,0.0,2.0,0.0,8.0,18.0,3.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Premier League,Aston Villa,Attack,26,5.5,26.0,21.0,497.0,2.0,4.0,0.0,10.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Premier League,Aston Villa,Attack,25,9.0,33.0,30.0,1040.0,2.0,4.0,0.0,6.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Premier League,Wigan Athletic,Attack,24,9.0,34.0,34.0,311.0,9.0,9.0,0.0,2.0,14.0,2.0,0.0,1.0,0.0,0.0,0.0
-,09/10,Premier League,Wigan Athletic,Attack,23,6.5,36.0,36.0,607.0,5.0,6.0,0.0,1.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Wigan Athletic,Attack,22,5.5,13.0,13.0,1085.0,1.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Newcastle United,Attack,22,5.5,22.0,18.0,1318.0,1.0,2.0,0.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Newcastle United,Attack,21,7.0,32.0,32.0,812.0,3.0,5.0,0.0,5.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Premier League,Newcastle United,Attack,20,4.1,24.0,22.0,0,0.0,2.0,0.0,12.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Premier League,Newcastle United,Attack,19,3.5,34.0,32.0,464.0,5.0,9.0,0.0,5.0,12.0,3.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Premier League,Newcastle United,Attack,18,0.35,15.0,14.0,0,0.0,1.0,0.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,15/16,Premier League,Aston Villa,Attack,29,1.0,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,14/15,Premier League,Aston Villa,Attack,28,2.5,34.0,27.0,0,0.0,2.0,0.0,8.0,18.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,12/13,Premier League,Aston Villa,Attack,26,5.5,26.0,21.0,497.0,2.0,4.0,0.0,10.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,11/12,Premier League,Aston Villa,Attack,25,9.0,33.0,30.0,1040.0,2.0,4.0,0.0,6.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,10/11,Premier League,Wigan Athletic,Attack,24,9.0,34.0,34.0,311.0,9.0,9.0,0.0,2.0,14.0,2.0,0.0,1.0,0.0,0.0,0.0
+Player 22165,09/10,Premier League,Wigan Athletic,Attack,23,6.5,36.0,36.0,607.0,5.0,6.0,0.0,1.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,08/09,Premier League,Wigan Athletic,Attack,22,5.5,13.0,13.0,1085.0,1.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,08/09,Premier League,Newcastle United,Attack,22,5.5,22.0,18.0,1318.0,1.0,2.0,0.0,4.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,07/08,Premier League,Newcastle United,Attack,21,7.0,32.0,32.0,812.0,3.0,5.0,0.0,5.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,06/07,Premier League,Newcastle United,Attack,20,4.1,24.0,22.0,0,0.0,2.0,0.0,12.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,05/06,Premier League,Newcastle United,Attack,19,3.5,34.0,32.0,464.0,5.0,9.0,0.0,5.0,12.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 22165,04/05,Premier League,Newcastle United,Attack,18,0.35,15.0,14.0,0,0.0,1.0,0.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Álex Rubio (221658),12/13,LaLiga,Sevilla FC,Attack,18,0.3,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gonzalo Suárez (221659),13/14,LaLiga,Sevilla FC,Attack,19,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Michael Gravgaard (22172),08/09,Bundesliga,Hamburger SV,Defender,30,2.3,14.0,12.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -15783,15 +15788,15 @@ Mariano Díaz (225020),16/17,LaLiga,Real Madrid,Attack,22,5.0,19.0,8.0,114.0,1.0
 Carl Johansson (225043),24/25,Bundesliga,Holstein Kiel,Defender,30,0.5,17.0,10.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
 Jean-Pierre Nsame (225055),21/22,Serie A,Venezia FC,Attack,28,4.0,15.0,11.0,0,0.0,1.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jean-Pierre Nsame (225055),15/16,Ligue 1,Angers SCO,Attack,22,0.3,7.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Premier League,Chelsea FC,Midfield,31,15.0,8.0,7.0,0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Premier League,Chelsea FC,Midfield,30,40.0,27.0,26.0,889.0,2.0,4.0,0.0,5.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Premier League,Chelsea FC,Midfield,29,55.0,32.0,30.0,0,0.0,2.0,0.0,6.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Premier League,Chelsea FC,Midfield,28,80.0,22.0,22.0,578.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Premier League,Chelsea FC,Midfield,27,100.0,37.0,36.0,774.0,4.0,4.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Premier League,Chelsea FC,Midfield,26,60.0,34.0,34.0,2998.0,1.0,1.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Chelsea FC,Midfield,25,50.0,36.0,35.0,3139.0,1.0,1.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,Leicester City,Midfield,24,20.0,37.0,37.0,3020.0,1.0,4.0,0.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,SM Caen,Midfield,23,4.5,37.0,37.0,1592.0,2.0,5.0,0.0,1.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0
+Player 225083,22/23,Premier League,Chelsea FC,Midfield,31,15.0,8.0,7.0,0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,21/22,Premier League,Chelsea FC,Midfield,30,40.0,27.0,26.0,889.0,2.0,4.0,0.0,5.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,20/21,Premier League,Chelsea FC,Midfield,29,55.0,32.0,30.0,0,0.0,2.0,0.0,6.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,19/20,Premier League,Chelsea FC,Midfield,28,80.0,22.0,22.0,578.0,3.0,0.0,0.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,18/19,Premier League,Chelsea FC,Midfield,27,100.0,37.0,36.0,774.0,4.0,4.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,17/18,Premier League,Chelsea FC,Midfield,26,60.0,34.0,34.0,2998.0,1.0,1.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,16/17,Premier League,Chelsea FC,Midfield,25,50.0,36.0,35.0,3139.0,1.0,1.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,15/16,Premier League,Leicester City,Midfield,24,20.0,37.0,37.0,3020.0,1.0,4.0,0.0,4.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 225083,14/15,Ligue 1,SM Caen,Midfield,23,4.5,37.0,37.0,1592.0,2.0,5.0,0.0,1.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0
 Gonçalo Guedes (225122),24/25,Premier League,Wolverhampton Wanderers,Attack,27,11.0,33.0,29.0,494.0,2.0,4.0,0.0,19.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0
 Gonçalo Guedes (225122),23/24,LaLiga,Villarreal CF,Attack,26,15.0,18.0,17.0,317.0,3.0,2.0,0.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gonçalo Guedes (225122),22/23,Premier League,Wolverhampton Wanderers,Attack,25,23.0,17.0,13.0,709.0,1.0,1.0,0.0,5.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -15887,8 +15892,8 @@ Fabinho (225693),14/15,Ligue 1,AS Monaco,Midfield,20,8.0,37.0,36.0,3168.0,1.0,1.
 Fabinho (225693),13/14,Ligue 1,AS Monaco,Midfield,19,3.0,34.0,26.0,0,0.0,3.0,0.0,5.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
 Fabinho (225693),12/13,LaLiga,Real Madrid,Midfield,18,2.5,2.0,1.0,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sam Hendriks (225716),23/24,Premier League,FC Pyunik Yerevan,Attack,28,0.25,26.0,25.0,233.0,5.0,1.0,0.0,10.0,15.0,1.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Bundesliga,FC Pasching,Defender,23,0.05,6.0,5.0,0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-,05/06,Bundesliga,FC Pasching,Defender,22,0.35,11.0,11.0,0,0.0,0.0,0.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 2257,06/07,Bundesliga,FC Pasching,Defender,23,0.05,6.0,5.0,0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Player 2257,05/06,Bundesliga,FC Pasching,Defender,22,0.35,11.0,11.0,0,0.0,0.0,0.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Jaime Molina (22572),04/05,LaLiga,CD Numancia,Defender,35,0.7,23.0,21.0,1774.0,1.0,0.0,0.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0
 Julio Pineda (22579),04/05,LaLiga,CD Numancia,Attack,31,0.6,31.0,27.0,1565.0,1.0,0.0,0.0,11.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
 Ochoa (22577),07/08,LaLiga,Real Murcia CF,Defender,28,0.9,28.0,17.0,1421.0,1.0,0.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
@@ -16213,8 +16218,8 @@ Leon Andreasen (22837),07/08,Bundesliga,SV Werder Bremen,Midfield,24,4.0,11.0,10
 Leon Andreasen (22837),06/07,Bundesliga,1.FSV Mainz 05,Midfield,23,2.5,15.0,15.0,331.0,4.0,2.0,0.0,0.0,2.0,6.0,1.0,0.0,2.0,0.0,0.0
 Leon Andreasen (22837),06/07,Bundesliga,SV Werder Bremen,Midfield,23,2.5,15.0,4.0,0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Leon Andreasen (22837),05/06,Bundesliga,SV Werder Bremen,Midfield,22,2.3,31.0,18.0,0,0.0,1.0,0.0,7.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,SM Caen,Attack,24,0.6,15.0,10.0,0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,SM Caen,Attack,22,0.5,30.0,16.0,0,0.0,0.0,0.0,11.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0
+Player 228434,17/18,Ligue 1,SM Caen,Attack,24,0.6,15.0,10.0,0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 228434,15/16,Ligue 1,SM Caen,Attack,22,0.5,30.0,16.0,0,0.0,0.0,0.0,11.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0
 Wendell (228433),21/22,Bundesliga,Bayer 04 Leverkusen,Defender,27,5.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Wendell (228433),20/21,Bundesliga,Bayer 04 Leverkusen,Defender,26,6.5,33.0,22.0,0,0.0,1.0,0.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
 Wendell (228433),19/20,Bundesliga,Bayer 04 Leverkusen,Defender,25,13.5,29.0,24.0,0,0.0,3.0,0.0,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0
@@ -17232,12 +17237,12 @@ Lorenzo Venuti (240219),20/21,Serie A,ACF Fiorentina,Defender,25,3.0,37.0,28.0,0
 Lorenzo Venuti (240219),19/20,Serie A,ACF Fiorentina,Defender,24,1.6,38.0,16.0,0,0.0,2.0,0.0,6.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Venuti (240219),17/18,Serie A,Benevento Calcio,Defender,22,1.5,37.0,31.0,0,0.0,1.0,1.0,6.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Venuti (240219),13/14,Serie A,ACF Fiorentina,Defender,18,0.125,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Serie A,Spezia Calcio,Attack,23,4.0,25.0,25.0,173.0,11.0,3.0,0.0,4.0,7.0,5.0,0.0,0.0,4.0,0.0,0.0
-,19/20,Serie A,US Lecce,Defender,25,0.65,29.0,14.0,0,0.0,1.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,FC Empoli,Defender,24,1.0,13.0,12.0,1035.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,US Sassuolo,Defender,24,1.0,20.0,3.0,0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Serie A,US Sassuolo,Defender,23,1.0,18.0,8.0,0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Serie A,US Sassuolo,Defender,22,1.0,30.0,9.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 240244,20/21,Serie A,Spezia Calcio,Defender,26,0.6,20.0,8.0,0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 240244,19/20,Serie A,US Lecce,Defender,25,0.65,29.0,14.0,0,0.0,1.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
+Player 240244,18/19,Serie A,FC Empoli,Defender,24,1.0,13.0,12.0,1035.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 240244,18/19,Serie A,US Sassuolo,Defender,24,1.0,20.0,3.0,0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 240244,17/18,Serie A,US Sassuolo,Defender,23,1.0,18.0,8.0,0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 240244,16/17,Serie A,US Sassuolo,Defender,22,1.0,30.0,9.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Karlo Lulic (240252),23/24,Serie A,Frosinone Calcio,Midfield,27,0.45,14.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Karlo Lulic (240252),14/15,Serie A,UC Sampdoria,Midfield,18,0.8,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Franjo Prce (240260),16/17,Serie A,SS Lazio,Defender,20,0.15,8.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -17356,13 +17361,13 @@ Simon Pouplin (24105),07/08,Ligue 1,Stade Rennais FC,Goalkeeper,22,4.0,31.0,19.0
 Simon Pouplin (24105),06/07,Ligue 1,Stade Rennais FC,Goalkeeper,21,4.0,38.0,38.0,3420.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,30.0,16.0
 Simon Pouplin (24105),05/06,Ligue 1,Stade Rennais FC,Goalkeeper,20,1.0,33.0,15.0,1289.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,15.0,5.0
 Simon Pouplin (24105),04/05,Ligue 1,Stade Rennais FC,Goalkeeper,19,0.1,33.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Ligue 1,Olympique Marseille,Attack,24,3.5,28.0,17.0,118.0,3.0,2.0,0.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,Olympique Marseille,Attack,23,10.0,37.0,22.0,124.0,7.0,3.0,0.0,13.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,Olympique Marseille,Attack,22,7.0,26.0,22.0,255.0,4.0,1.0,0.0,11.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,Tottenham Hotspur,Attack,21,10.0,10.0,8.0,0,0.0,1.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,Olympique Lyon,Attack,20,5.0,32.0,30.0,217.0,7.0,8.0,0.0,15.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,Olympique Lyon,Attack,19,0.3,7.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,Olympique Lyon,Attack,18,0.4,4.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,18/19,Ligue 1,Olympique Marseille,Attack,24,3.5,28.0,17.0,118.0,3.0,2.0,0.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,17/18,Ligue 1,Olympique Marseille,Attack,23,10.0,37.0,22.0,124.0,7.0,3.0,0.0,13.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,16/17,Ligue 1,Olympique Marseille,Attack,22,7.0,26.0,22.0,255.0,4.0,1.0,0.0,11.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,15/16,Premier League,Tottenham Hotspur,Attack,21,10.0,10.0,8.0,0,0.0,1.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,14/15,Ligue 1,Olympique Lyon,Attack,20,5.0,32.0,30.0,217.0,7.0,8.0,0.0,15.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,13/14,Ligue 1,Olympique Lyon,Attack,19,0.3,7.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 241119,12/13,Ligue 1,Olympique Lyon,Attack,18,0.4,4.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rune Jarstein (24112),22/23,Bundesliga,Hertha BSC,Goalkeeper,37,0.3,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rune Jarstein (24112),20/21,Bundesliga,Hertha BSC,Goalkeeper,35,0.5,26.0,8.0,720.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.0
 Rune Jarstein (24112),19/20,Bundesliga,Hertha BSC,Goalkeeper,34,0.8,31.0,29.0,2548.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,46.0,9.0
@@ -19378,7 +19383,7 @@ Guillaume Rippert (26328),07/08,Ligue 1,Valenciennes FC,Defender,22,1.2,27.0,18.
 Guillaume Rippert (26328),06/07,Ligue 1,Valenciennes FC,Defender,21,0.75,36.0,33.0,0,0.0,0.0,0.0,3.0,6.0,10.0,1.0,0.0,0.0,0.0,0.0
 Riad Bajic (263267),17/18,Serie A,Udinese Calcio,Attack,23,4.0,19.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Isi Gómez (263214),12/13,LaLiga,Rayo Vallecano,Midfield,16,0.3,4.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,AS Nancy-Lorraine,Midfield,21,0.6,18.0,9.0,0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 263294,16/17,Ligue 1,AS Nancy-Lorraine,Midfield,21,0.6,18.0,9.0,0,0.0,0.0,0.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
 Dennis Verwüster (263360),17/18,Bundesliga,FC Admira Wacker Mödling,Goalkeeper,19,0.025,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Dennis Verwüster (263360),16/17,Bundesliga,FC Admira Wacker Mödling,Goalkeeper,18,0.025,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Maximilian Wöber (263361),23/24,Bundesliga,Borussia Mönchengladbach,Defender,25,10.0,25.0,25.0,1036.0,2.0,3.0,0.0,1.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0
@@ -19710,9 +19715,9 @@ Abou Diaby (26763),05/06,Premier League,Arsenal FC,Midfield,19,3.0,13.0,12.0,796
 Abou Diaby (26763),05/06,Ligue 1,AJ Auxerre,Midfield,19,3.0,5.0,5.0,306.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Abou Diaby (26763),04/05,Ligue 1,AJ Auxerre,Midfield,18,0.15,9.0,5.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fabio Mangiacasale (267804),14/15,Premier League,Sliema Wanderers,Attack,26,0.15,12.0,12.0,318.0,3.0,2.0,0.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,FC Metz,Attack,19,0.8,34.0,28.0,211.0,5.0,2.0,0.0,19.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Ligue 1,FC Metz,Attack,17,0.6,14.0,13.0,711.0,1.0,0.0,0.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Ligue 1,FC Metz,Attack,16,0.4,8.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 26798,07/08,Ligue 1,FC Metz,Attack,19,0.8,34.0,28.0,211.0,5.0,2.0,0.0,19.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 26798,05/06,Ligue 1,FC Metz,Attack,17,0.6,14.0,13.0,711.0,1.0,0.0,0.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 26798,04/05,Ligue 1,FC Metz,Attack,16,0.4,8.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Asamoah Gyan (26802),20/21,Premier League,Legon Cities FC,Attack,34,0.1,8.0,6.0,0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Asamoah Gyan (26802),11/12,Premier League,Sunderland AFC,Attack,25,12.0,3.0,3.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Asamoah Gyan (26802),10/11,Premier League,Sunderland AFC,Attack,24,12.0,31.0,31.0,200.0,10.0,4.0,0.0,11.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -20370,7 +20375,7 @@ Clint Dempsey (27577),09/10,Premier League,Fulham FC,Attack,26,7.0,29.0,29.0,342
 Clint Dempsey (27577),08/09,Premier League,Fulham FC,Attack,25,5.5,38.0,35.0,371.0,7.0,2.0,0.0,7.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0
 Clint Dempsey (27577),07/08,Premier League,Fulham FC,Attack,24,4.25,37.0,36.0,446.0,6.0,2.0,0.0,7.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0
 Jaime (2758),04/05,LaLiga,Albacete Balompié,Midfield,31,1.0,26.0,22.0,0,0.0,0.0,0.0,2.0,11.0,3.0,0.0,1.0,0.0,0.0,0.0
-,04/05,Serie A,FC Messina Peloro,Midfield,22,6.0,15.0,15.0,601.0,2.0,3.0,0.0,1.0,6.0,1.0,1.0,0.0,1.0,0.0,0.0
+Player 27585,04/05,Serie A,FC Messina Peloro,Defender,24,0.1,19.0,6.0,0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stephan Schröck (27611),12/13,Bundesliga,TSG 1899 Hoffenheim,Midfield,25,1.0,24.0,10.0,0,0.0,0.0,0.0,4.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0
 David Costas (276111),20/21,LaLiga,Celta de Vigo,Defender,25,1.2,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 David Costas (276111),19/20,LaLiga,Celta de Vigo,Defender,24,1.6,13.0,6.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -20529,7 +20534,7 @@ Eljero Elia (27805),11/12,Serie A,Juventus FC,Attack,24,5.0,16.0,4.0,0,0.0,0.0,0
 Eljero Elia (27805),11/12,Bundesliga,Hamburger SV,Attack,24,5.0,4.0,4.0,0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Eljero Elia (27805),10/11,Bundesliga,Hamburger SV,Attack,23,15.0,25.0,24.0,824.0,2.0,3.0,0.0,6.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0
 Eljero Elia (27805),09/10,Bundesliga,Hamburger SV,Attack,22,14.0,24.0,24.0,353.0,5.0,7.0,0.0,4.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Premier League,Luton Town,Defender,29,2.5,21.0,21.0,0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 278166,23/24,Premier League,Luton Town,Defender,29,2.5,21.0,21.0,0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Leon Benko (27824),07/08,Bundesliga,1.FC Nuremberg,Attack,23,0.3,13.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Leon Benko (27824),06/07,Bundesliga,1.FC Nuremberg,Attack,22,0.5,16.0,7.0,0,0.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antonio Raíllo (278296),24/25,LaLiga,RCD Mallorca,Defender,32,1.8,36.0,36.0,1605.0,2.0,0.0,0.0,0.0,1.0,7.0,0.0,1.0,0.0,0.0,0.0
@@ -20890,8 +20895,9 @@ Rémy Descamps (282028),22/23,Ligue 1,FC Nantes,Goalkeeper,26,0.7,33.0,1.0,90.0,
 Rémy Descamps (282028),21/22,Ligue 1,FC Nantes,Goalkeeper,25,0.8,18.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rémy Descamps (282028),17/18,Ligue 1,Paris Saint-Germain,Goalkeeper,21,0.6,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rémy Descamps (282028),16/17,Ligue 1,Paris Saint-Germain,Goalkeeper,20,0.15,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Ligue 1,Angers SCO,Midfield,32,2.0,28.0,27.0,0,0.0,3.0,0.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,Angers SCO,Midfield,30,3.0,33.0,33.0,582.0,5.0,6.0,0.0,1.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
+Player 282058,18/19,Ligue 1,Angers SCO,Midfield,32,2.0,28.0,27.0,0,0.0,3.0,0.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 282058,16/17,Ligue 1,Angers SCO,Midfield,30,3.0,33.0,33.0,582.0,5.0,6.0,0.0,1.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
+Player 282058,15/16,Ligue 1,Angers SCO,Midfield,29,3.5,32.0,32.0,308.0,9.0,4.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,0.0,0.0
 Ianis Hagi (282076),23/24,LaLiga,Deportivo Alavés,Midfield,24,2.0,35.0,22.0,0,0.0,2.0,0.0,14.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
 Ianis Hagi (282076),17/18,Serie A,ACF Fiorentina,Midfield,18,1.5,9.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ianis Hagi (282076),16/17,Serie A,ACF Fiorentina,Midfield,17,0.75,29.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -22189,8 +22195,8 @@ Vincent Koziello (290551),15/16,Ligue 1,OGC Nice,Midfield,19,5.0,35.0,35.0,905.0
 César Navas (29056),08/09,LaLiga,Racing Santander,Defender,28,1.2,21.0,19.0,1648.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
 César Navas (29056),07/08,LaLiga,Racing Santander,Defender,27,0.5,21.0,19.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 César Navas (29056),05/06,LaLiga,Málaga CF,Defender,25,0.8,28.0,28.0,1143.0,2.0,0.0,0.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,Montpellier HSC,Defender,21,0.4,8.0,3.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,Montpellier HSC,Defender,20,0.3,20.0,8.0,0,0.0,1.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 290569,16/17,Ligue 1,Montpellier HSC,Defender,21,0.4,8.0,3.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 290569,15/16,Ligue 1,Montpellier HSC,Defender,20,0.3,20.0,8.0,0,0.0,1.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alexandre Mendy (290561),20/21,Ligue 1,FC Girondins Bordeaux,Attack,26,1.5,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alexandre Mendy (290561),19/20,Ligue 1,Stade Brestois 29,Attack,25,1.8,24.0,20.0,299.0,3.0,1.0,0.0,11.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
 Alexandre Mendy (290561),18/19,Ligue 1,EA Guingamp,Attack,24,2.25,19.0,16.0,255.0,3.0,0.0,0.0,8.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -26319,9 +26325,9 @@ Alain Cantareil (33458),09/10,Ligue 1,OGC Nice,Defender,25,0.8,23.0,10.0,0,0.0,1
 Alain Cantareil (33458),07/08,Ligue 1,FC Lorient,Defender,23,0.9,35.0,19.0,0,0.0,2.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alain Cantareil (33458),06/07,Ligue 1,Olympique Marseille,Defender,22,0.5,19.0,3.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alain Cantareil (33458),05/06,Ligue 1,Olympique Marseille,Defender,21,0.1,11.0,6.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,Stade Rennais FC,Goalkeeper,31,0.6,3.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-,16/17,Ligue 1,Stade Rennais FC,Goalkeeper,30,0.4,12.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Ligue 1,Olympique Marseille,Goalkeeper,19,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 33465,17/18,Ligue 1,Stade Rennais FC,Goalkeeper,31,0.6,3.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+Player 33465,16/17,Ligue 1,Stade Rennais FC,Goalkeeper,30,0.4,12.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 33465,05/06,Ligue 1,Olympique Marseille,Goalkeeper,19,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gervinho (33481),20/21,Serie A,Parma Calcio 1913,Attack,33,1.5,28.0,27.0,407.0,5.0,1.0,0.0,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
 Gervinho (33481),19/20,Serie A,Parma Calcio 1913,Attack,32,5.5,32.0,31.0,326.0,7.0,4.0,0.0,4.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0
 Gervinho (33481),18/19,Serie A,Parma Calcio 1913,Attack,31,9.0,31.0,30.0,210.0,11.0,2.0,0.0,3.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -27182,7 +27188,7 @@ Zan Celar (340427),18/19,Serie A,AS Roma,Attack,19,0.8,4.0,1.0,0,0.0,0.0,0.0,1.0
 Eros De Santis (340435),16/17,Serie A,AS Roma,Defender,18,0.25,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Eros De Santis (340435),15/16,Serie A,AS Roma,Defender,17,0.225,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Grossi (340446),16/17,Serie A,AS Roma,Midfield,18,0.125,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Serie A,AS Roma,Midfield,17,0.2,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 340444,15/16,Serie A,AS Roma,Midfield,17,0.2,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kristjan Matosevic (340448),15/16,Serie A,SS Lazio,Goalkeeper,18,0.15,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Dani de Wit (340459),24/25,Bundesliga,VfL Bochum,Midfield,26,2.5,33.0,28.0,573.0,2.0,2.0,0.0,17.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
 Noussair Mazraoui (340456),24/25,Premier League,Manchester United,Defender,26,25.0,37.0,37.0,0,0.0,2.0,0.0,3.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -27204,12 +27210,12 @@ Wes Brown (3405),06/07,Premier League,Manchester United,Defender,26,5.0,23.0,22.
 Wes Brown (3405),05/06,Premier League,Manchester United,Defender,25,4.8,24.0,19.0,0,0.0,2.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
 Wes Brown (3405),04/05,Premier League,Manchester United,Defender,24,4.5,22.0,21.0,1639.0,1.0,0.0,0.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
 Gui Ramos (340521),21/22,Bundesliga,Arminia Bielefeld,Defender,23,2.0,32.0,13.0,0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,Stade Rennais FC,Defender,24,3.0,30.0,25.0,0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,Stade Rennais FC,Midfield,22,15.0,16.0,16.0,0,0.0,0.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Ligue 1,Stade Rennais FC,Midfield,21,21.0,38.0,38.0,0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Ligue 1,Stade Rennais FC,Midfield,19,6.0,35.0,35.0,0,0.0,0.0,0.0,2.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0
-,08/09,Ligue 1,Stade Rennais FC,Goalkeeper,23,0.5,31.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
-,05/06,Ligue 1,Stade Rennais FC,Goalkeeper,20,0.25,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34053,13/14,Ligue 1,Stade Rennais FC,Goalkeeper,28,0.4,30.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34053,12/13,Ligue 1,Stade Rennais FC,Goalkeeper,27,0.4,8.0,2.0,152.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Player 34053,11/12,Ligue 1,Stade Rennais FC,Goalkeeper,26,0.15,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34053,09/10,Ligue 1,Stade Rennais FC,Goalkeeper,24,0.5,18.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34053,08/09,Ligue 1,Stade Rennais FC,Goalkeeper,23,0.5,31.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+Player 34053,05/06,Ligue 1,Stade Rennais FC,Goalkeeper,20,0.25,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Zé Turbo (340538),15/16,Serie A,Inter Milan,Attack,18,0.3,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Zé Turbo (340538),14/15,Serie A,Inter Milan,Attack,17,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ngissah Bismark (340639),21/22,Premier League,Birkirkara FC,Attack,23,0.1,8.0,7.0,0,0.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -27492,12 +27498,13 @@ Luís Boa Morte (3422),06/07,Premier League,West Ham United,Midfield,28,3.8,14.0
 Luís Boa Morte (3422),06/07,Premier League,Fulham FC,Midfield,28,3.8,15.0,15.0,0,0.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Luís Boa Morte (3422),04/05,Premier League,Fulham FC,Midfield,26,3.5,31.0,31.0,326.0,8.0,6.0,0.0,2.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
 Yoann Etienne (342212),20/21,Ligue 1,FC Lorient,Defender,23,0.0,4.0,1.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,FC Metz,Midfield,20,0.8,14.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,FC Metz,Midfield,25,2.0,19.0,19.0,0,0.0,0.0,0.0,3.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Ligue 1,FC Metz,Midfield,24,2.5,6.0,6.0,0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Ligue 1,FC Metz,Attack,19,0.15,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,AS Monaco,Midfield,21,6.0,28.0,11.0,0,0.0,0.0,0.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,AS Monaco,Midfield,20,1.0,15.0,5.0,0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,23/24,Ligue 1,FC Metz,Midfield,27,1.5,25.0,23.0,0,0.0,2.0,0.0,5.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,21/22,Ligue 1,FC Metz,Midfield,25,2.0,19.0,19.0,0,0.0,0.0,0.0,3.0,9.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,20/21,Ligue 1,FC Metz,Midfield,24,2.5,6.0,6.0,0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,19/20,Ligue 1,FC Metz,Midfield,23,2.8,23.0,20.0,0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,18/19,Ligue 1,AS Monaco,Midfield,22,4.0,14.0,4.0,0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,17/18,Ligue 1,AS Monaco,Midfield,21,6.0,28.0,11.0,0,0.0,0.0,0.0,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 342209,16/17,Ligue 1,AS Monaco,Midfield,20,1.0,15.0,5.0,0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Yhoan Andzouana (342218),18/19,LaLiga,Girona FC,Defender,21,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Julien Serrano (342216),18/19,Ligue 1,AS Monaco,Defender,20,1.5,6.0,3.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Julien Serrano (342216),17/18,Ligue 1,AS Monaco,Defender,19,2.0,6.0,4.0,0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -27787,11 +27794,11 @@ Lazar Carević (344457),21/22,LaLiga,FC Barcelona,Goalkeeper,22,0.2,7.0,0.0,0,0.
 Birkir Bjarnason (34453),19/20,Serie A,Brescia Calcio (- 2025),Midfield,31,0.8,16.0,13.0,0,0.0,1.0,0.0,4.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
 Birkir Bjarnason (34453),13/14,Serie A,UC Sampdoria,Midfield,25,0.8,33.0,14.0,0,0.0,1.0,0.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Birkir Bjarnason (34453),12/13,Serie A,Delfino Pescara 1936,Midfield,24,1.0,37.0,24.0,808.0,2.0,0.0,0.0,7.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
-,07/08,LaLiga,Real Zaragoza,Midfield,26,4.5,17.0,14.0,190.0,3.0,1.0,0.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
-,06/07,LaLiga,Real Zaragoza,Midfield,25,7.5,36.0,36.0,1430.0,2.0,2.0,0.0,1.0,23.0,10.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Premier League,Portsmouth FC,Midfield,22,2.0,36.0,36.0,522.0,6.0,1.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Bundesliga,VfL Wolfsburg,Midfield,24,5.75,13.0,13.0,566.0,2.0,3.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Bundesliga,VfL Wolfsburg,Midfield,23,11.0,19.0,19.0,451.0,3.0,4.0,0.0,2.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0
+Player 3445,07/08,LaLiga,Real Zaragoza,Midfield,26,4.5,17.0,14.0,190.0,3.0,1.0,0.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3445,06/07,LaLiga,Real Zaragoza,Midfield,25,7.5,36.0,36.0,1430.0,2.0,2.0,0.0,1.0,23.0,10.0,0.0,0.0,0.0,0.0,0.0
+Player 3445,05/06,Premier League,Portsmouth FC,Midfield,24,5.75,13.0,13.0,1077.0,1.0,2.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 3445,05/06,Bundesliga,VfL Wolfsburg,Midfield,24,5.75,13.0,13.0,566.0,2.0,3.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 3445,04/05,Bundesliga,VfL Wolfsburg,Midfield,23,11.0,19.0,19.0,451.0,3.0,4.0,0.0,2.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0
 Antonin Bobichon (344575),22/23,Ligue 1,Angers SCO,Midfield,26,0.9,6.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antonin Bobichon (344575),21/22,Ligue 1,Angers SCO,Midfield,25,1.8,11.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antonin Bobichon (344575),20/21,Ligue 1,Angers SCO,Midfield,24,2.5,38.0,23.0,0,0.0,1.0,0.0,13.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -28128,7 +28135,7 @@ Mouctar Diakhaby (346289),19/20,LaLiga,Valencia CF,Defender,22,17.5,31.0,21.0,0,
 Mouctar Diakhaby (346289),18/19,LaLiga,Valencia CF,Defender,21,20.0,31.0,22.0,787.0,2.0,0.0,0.0,6.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
 Mouctar Diakhaby (346289),17/18,Ligue 1,Olympique Lyon,Defender,20,10.0,33.0,12.0,725.0,1.0,0.0,0.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Mouctar Diakhaby (346289),16/17,Ligue 1,Olympique Lyon,Defender,19,2.5,26.0,22.0,1930.0,1.0,2.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Sunderland AFC,Attack,21,0.7,21.0,17.0,0,0.0,0.0,0.0,13.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 34629,07/08,Premier League,Sunderland AFC,Attack,21,0.7,21.0,17.0,0,0.0,0.0,0.0,13.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
 Trevoh Chalobah (346314),24/25,Premier League,Chelsea FC,Defender,24,25.0,16.0,13.0,0,0.0,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Trevoh Chalobah (346314),24/25,Premier League,Crystal Palace,Defender,24,25.0,14.0,12.0,354.0,3.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Trevoh Chalobah (346314),23/24,Premier League,Chelsea FC,Defender,23,13.0,14.0,13.0,950.0,1.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -28192,14 +28199,14 @@ Sean Longstaff (346707),21/22,Premier League,Newcastle United,Midfield,23,13.0,3
 Sean Longstaff (346707),20/21,Premier League,Newcastle United,Midfield,22,15.0,31.0,22.0,0,0.0,1.0,0.0,7.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Sean Longstaff (346707),19/20,Premier League,Newcastle United,Midfield,21,17.5,27.0,23.0,1373.0,1.0,1.0,0.0,9.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
 Sean Longstaff (346707),18/19,Premier League,Newcastle United,Midfield,20,7.0,15.0,9.0,687.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,West Ham United,Defender,29,0.0,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,West Ham United,Defender,28,1.5,34.0,9.0,0,0.0,0.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Premier League,West Ham United,Defender,27,3.0,23.0,17.0,0,0.0,0.0,0.0,4.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Premier League,West Ham United,Midfield,29,2.5,35.0,24.0,1441.0,1.0,3.0,0.0,7.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Bolton Wanderers,Defender,23,1.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Bolton Wanderers,Defender,22,1.4,10.0,9.0,419.0,1.0,2.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Bolton Wanderers,Defender,21,1.5,19.0,19.0,0,0.0,1.0,0.0,4.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Premier League,Bolton Wanderers,Defender,34,2.4,30.0,29.0,0,0.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,15/16,Premier League,West Ham United,Defender,29,0.0,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,14/15,Premier League,West Ham United,Defender,28,1.5,34.0,9.0,0,0.0,0.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,13/14,Premier League,West Ham United,Defender,27,3.0,23.0,17.0,0,0.0,0.0,0.0,4.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,12/13,Premier League,West Ham United,Defender,26,2.5,35.0,33.0,1362.0,2.0,4.0,1.0,1.0,7.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,09/10,Premier League,Bolton Wanderers,Defender,23,1.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,08/09,Premier League,Bolton Wanderers,Defender,22,1.4,10.0,9.0,419.0,1.0,2.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,07/08,Premier League,Bolton Wanderers,Defender,21,1.5,19.0,19.0,0,0.0,1.0,0.0,4.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 34672,05/06,Premier League,Bolton Wanderers,Defender,19,1.5,23.0,23.0,0,0.0,0.0,0.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Shaun Wright-Phillips (3467),14/15,Premier League,Queens Park Rangers,Attack,32,0.5,15.0,4.0,0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Shaun Wright-Phillips (3467),12/13,Premier League,Queens Park Rangers,Attack,30,2.5,28.0,20.0,1249.0,1.0,1.0,0.0,6.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
 Shaun Wright-Phillips (3467),11/12,Premier League,Queens Park Rangers,Attack,29,3.5,35.0,32.0,0,0.0,4.0,0.0,8.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -28365,8 +28372,9 @@ Dady (34823),08/09,LaLiga,CA Osasuna,Attack,26,4.0,17.0,14.0,236.0,3.0,0.0,0.0,6
 Dady (34823),07/08,LaLiga,CA Osasuna,Attack,25,4.6,31.0,30.0,261.0,7.0,3.0,0.0,11.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0
 Kevin Goden (348214),18/19,Bundesliga,1.FC Nuremberg,Attack,19,0.7,6.0,5.0,0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 Alan Mahon (3483),05/06,Premier League,Wigan Athletic,Midfield,27,1.85,9.0,6.0,381.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,09/10,LaLiga,Real Zaragoza,Attack,22,0.9,9.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Portsmouth FC,Midfield,24,6.0,2.0,2.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34839,09/10,LaLiga,Real Zaragoza,Attack,22,0.9,9.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34839,07/08,Premier League,Portsmouth FC,Attack,20,0.6,2.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 34839,05/06,Premier League,Portsmouth FC,Attack,18,0.4,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stephen Ireland (34838),17/18,Premier League,Stoke City,Midfield,30,1.0,10.0,4.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Stephen Ireland (34838),15/16,Premier League,Stoke City,Midfield,28,1.5,24.0,13.0,0,0.0,1.0,0.0,13.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
 Stephen Ireland (34838),14/15,Premier League,Stoke City,Midfield,27,2.0,27.0,17.0,0,0.0,3.0,0.0,6.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -28864,19 +28872,19 @@ Josip Simunic (354),07/08,Bundesliga,Hertha BSC,Defender,29,7.5,29.0,29.0,0,0.0,
 Josip Simunic (354),06/07,Bundesliga,Hertha BSC,Defender,28,6.0,25.0,25.0,2177.0,1.0,2.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0,0.0,0.0
 Josip Simunic (354),05/06,Bundesliga,Hertha BSC,Defender,27,8.0,19.0,18.0,0,0.0,1.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0
 Josip Simunic (354),04/05,Bundesliga,Hertha BSC,Defender,26,4.5,30.0,30.0,0,0.0,0.0,0.0,0.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Sunderland AFC,Defender,35,1.0,34.0,28.0,0,0.0,1.0,0.0,2.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,Sunderland AFC,Midfield,25,7.0,37.0,37.0,3189.0,1.0,4.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,Sunderland AFC,Defender,33,1.0,37.0,37.0,0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Premier League,Sunderland AFC,Defender,32,2.0,34.0,33.0,2922.0,1.0,0.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
-,12/13,Premier League,Sunderland AFC,Midfield,22,4.5,17.0,16.0,0,0.0,0.0,0.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Premier League,Sunderland AFC,Defender,30,3.5,29.0,29.0,0,0.0,1.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Premier League,Manchester United,Defender,29,6.5,27.0,21.0,0,0.0,3.0,0.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Manchester United,Defender,28,7.0,17.0,15.0,1117.0,1.0,1.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Manchester United,Defender,27,5.5,35.0,30.0,0,0.0,3.0,0.0,10.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Manchester United,Defender,26,4.5,36.0,28.0,0,0.0,2.0,0.0,18.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Premier League,Manchester United,Defender,25,5.2,34.0,32.0,431.0,4.0,1.0,0.0,16.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Premier League,Manchester United,Defender,24,5.0,34.0,34.0,2833.0,1.0,2.0,0.0,0.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Premier League,Manchester United,Defender,23,5.0,24.0,23.0,743.0,2.0,3.0,2.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,16/17,Premier League,Sunderland AFC,Defender,35,1.0,34.0,28.0,0,0.0,1.0,0.0,2.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,15/16,Premier League,Sunderland AFC,Defender,34,1.0,34.0,28.0,0,0.0,0.0,0.0,5.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,14/15,Premier League,Sunderland AFC,Defender,33,1.0,37.0,37.0,0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,13/14,Premier League,Sunderland AFC,Defender,32,2.0,34.0,33.0,2922.0,1.0,0.0,1.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
+Player 3540,12/13,Premier League,Sunderland AFC,Defender,31,3.0,34.0,34.0,1497.0,2.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,11/12,Premier League,Sunderland AFC,Defender,30,3.5,29.0,29.0,0,0.0,1.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,10/11,Premier League,Manchester United,Defender,29,6.5,27.0,21.0,0,0.0,3.0,0.0,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,09/10,Premier League,Manchester United,Defender,28,7.0,17.0,15.0,1117.0,1.0,1.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,08/09,Premier League,Manchester United,Defender,27,5.5,35.0,30.0,0,0.0,3.0,0.0,10.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,07/08,Premier League,Manchester United,Defender,26,4.5,36.0,28.0,0,0.0,2.0,0.0,18.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,06/07,Premier League,Manchester United,Defender,25,5.2,34.0,32.0,431.0,4.0,1.0,0.0,16.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,05/06,Premier League,Manchester United,Defender,24,5.0,34.0,34.0,2833.0,1.0,2.0,0.0,0.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 3540,04/05,Premier League,Manchester United,Defender,23,5.0,24.0,23.0,743.0,2.0,3.0,2.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Rene Kriwak (354058),22/23,Bundesliga,TSV Hartberg,Attack,23,0.3,25.0,24.0,405.0,2.0,1.0,0.0,17.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
 Rene Kriwak (354058),22/23,Bundesliga,Rapid Vienna,Attack,23,0.3,3.0,3.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rene Kriwak (354058),21/22,Bundesliga,Rapid Vienna,Attack,22,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -29015,10 +29023,11 @@ Kieran Richardson (3548),07/08,Premier League,Sunderland AFC,Defender,22,6.0,17.
 Kieran Richardson (3548),05/06,Premier League,Manchester United,Defender,20,5.0,26.0,22.0,1163.0,1.0,1.0,0.0,10.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0
 Kieran Richardson (3548),04/05,Premier League,West Bromwich Albion,Defender,19,0.5,11.0,11.0,267.0,3.0,0.0,0.0,1.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0
 Kieran Richardson (3548),04/05,Premier League,Manchester United,Defender,19,0.5,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Ligue 1,RC Lens,Attack,27,6.0,22.0,21.0,244.0,6.0,1.0,0.0,5.0,8.0,3.0,0.0,1.0,0.0,0.0,0.0
-,23/24,Serie A,ACF Fiorentina,Attack,26,7.0,34.0,33.0,515.0,3.0,3.0,0.0,18.0,8.0,2.0,0.0,0.0,1.0,0.0,0.0
-,22/23,Serie A,Spezia Calcio,Attack,25,8.0,31.0,31.0,204.0,13.0,2.0,0.0,2.0,3.0,8.0,0.0,0.0,3.0,0.0,0.0
-,21/22,Serie A,Spezia Calcio,Attack,24,2.0,26.0,21.0,531.0,2.0,1.0,0.0,11.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 354814,24/25,Ligue 1,RC Lens,Attack,27,6.0,22.0,21.0,244.0,6.0,1.0,0.0,5.0,8.0,3.0,0.0,1.0,0.0,0.0,0.0
+Player 354814,23/24,Serie A,ACF Fiorentina,Attack,26,7.0,34.0,33.0,515.0,3.0,3.0,0.0,18.0,8.0,2.0,0.0,0.0,1.0,0.0,0.0
+Player 354814,22/23,Serie A,Spezia Calcio,Attack,25,8.0,31.0,31.0,204.0,13.0,2.0,0.0,2.0,3.0,8.0,0.0,0.0,3.0,0.0,0.0
+Player 354814,21/22,Serie A,Spezia Calcio,Attack,24,2.0,26.0,21.0,531.0,2.0,1.0,0.0,11.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 354814,20/21,Serie A,Spezia Calcio,Attack,23,4.0,25.0,25.0,173.0,11.0,3.0,0.0,4.0,7.0,5.0,0.0,0.0,4.0,0.0,0.0
 Mariano Andújar (35491),14/15,Serie A,SSC Napoli,Goalkeeper,30,2.0,38.0,15.0,1350.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,4.0
 Mariano Andújar (35491),13/14,Serie A,Calcio Catania,Goalkeeper,29,3.8,33.0,24.0,2160.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,42.0,5.0
 Mariano Andújar (35491),12/13,Serie A,Calcio Catania,Goalkeeper,28,4.5,35.0,34.0,3060.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,12.0
@@ -30504,7 +30513,7 @@ Tugay Kerimoğlu (3703),08/09,Premier League,Blackburn Rovers,Midfield,37,0.0,36
 Tugay Kerimoğlu (3703),07/08,Premier League,Blackburn Rovers,Midfield,36,1.0,25.0,20.0,562.0,2.0,0.0,0.0,8.0,7.0,4.0,1.0,0.0,0.0,0.0,0.0
 Tugay Kerimoğlu (3703),05/06,Premier League,Blackburn Rovers,Midfield,34,1.3,28.0,27.0,1815.0,1.0,0.0,0.0,4.0,14.0,4.0,0.0,1.0,0.0,0.0,0.0
 Tugay Kerimoğlu (3703),04/05,Premier League,Blackburn Rovers,Midfield,33,2.0,23.0,21.0,0,0.0,1.0,0.0,8.0,6.0,6.0,1.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,AS Roma,Attack,18,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 370435,18/19,Serie A,AS Roma,Attack,18,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Garry Flitcroft (3706),05/06,Premier League,Blackburn Rovers,Midfield,32,0.0,2.0,2.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Garry Flitcroft (3706),04/05,Premier League,Blackburn Rovers,Midfield,31,4.75,20.0,18.0,0,0.0,0.0,1.0,2.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
 Somen Tchoyi (37058),12/13,Bundesliga,FC Augsburg,Midfield,29,0.5,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -30640,8 +30649,8 @@ Gabriel Agbonlahor (37148),06/07,Premier League,Aston Villa,Attack,19,2.9,38.0,3
 Gabriel Agbonlahor (37148),05/06,Premier League,Aston Villa,Attack,18,0.1,9.0,9.0,446.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tommy Elphick (37152),15/16,Premier League,AFC Bournemouth,Defender,27,1.5,17.0,12.0,1012.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Kevin Spadanuda (371554),22/23,Ligue 1,AC Ajaccio,Attack,25,0.7,29.0,22.0,0,0.0,1.0,0.0,9.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,FC Lorient,Attack,22,0.4,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Ligue 1,FC Lorient,Attack,21,0.375,10.0,7.0,0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 37156,07/08,Ligue 1,FC Lorient,Attack,22,0.4,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 37156,06/07,Ligue 1,FC Lorient,Attack,21,0.375,10.0,7.0,0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Stéphane Sessègnon (37157),22/23,Premier League,Sirens FC,Midfield,38,0.05,19.0,19.0,0,0.0,0.0,0.0,11.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0
 Stéphane Sessègnon (37157),17/18,Ligue 1,Montpellier HSC,Midfield,33,0.7,20.0,16.0,987.0,1.0,2.0,0.0,5.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
 Stéphane Sessègnon (37157),16/17,Ligue 1,Montpellier HSC,Midfield,32,1.0,27.0,27.0,1158.0,2.0,2.0,0.0,1.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0
@@ -31071,7 +31080,7 @@ Guillermo Rodríguez (37633),13/14,Serie A,Torino FC,Defender,29,0.5,24.0,6.0,0,
 Guillermo Rodríguez (37633),12/13,Serie A,Torino FC,Defender,28,0.9,37.0,22.0,0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
 Guillermo Rodríguez (37633),11/12,Serie A,AC Cesena,Defender,27,0.85,36.0,28.0,0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
 Guillermo Rodríguez (37633),05/06,Ligue 1,RC Lens,Defender,21,0.5,3.0,2.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Ligue 1,AS Nancy-Lorraine,Defender,17,0.15,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 37645,05/06,Ligue 1,AS Nancy-Lorraine,Defender,17,0.15,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Dimitri Payet (37647),22/23,Ligue 1,Olympique Marseille,Midfield,35,1.8,32.0,24.0,207.0,4.0,3.0,0.0,15.0,8.0,0.0,0.0,0.0,1.0,0.0,0.0
 Dimitri Payet (37647),21/22,Ligue 1,Olympique Marseille,Midfield,34,5.0,31.0,31.0,216.0,12.0,10.0,0.0,3.0,6.0,3.0,0.0,0.0,7.0,0.0,0.0
 Dimitri Payet (37647),20/21,Ligue 1,Olympique Marseille,Midfield,33,5.0,33.0,33.0,347.0,7.0,10.0,0.0,5.0,14.0,4.0,0.0,2.0,0.0,0.0,0.0
@@ -31276,12 +31285,12 @@ Scott Parker (3785),07/08,Premier League,West Ham United,Midfield,26,9.5,18.0,18
 Scott Parker (3785),06/07,Premier League,Newcastle United,Midfield,25,12.0,29.0,29.0,808.0,3.0,1.0,0.0,1.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0
 Scott Parker (3785),05/06,Premier League,Newcastle United,Midfield,24,13.0,26.0,26.0,2305.0,1.0,1.0,0.0,0.0,3.0,7.0,1.0,0.0,0.0,0.0,0.0
 Scott Parker (3785),04/05,Premier League,Chelsea FC,Midfield,23,11.0,4.0,4.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,RC Lens,Attack,29,0.25,12.0,7.0,0,0.0,1.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,AC Arles-Avignon,Attack,25,0.75,34.0,33.0,1169.0,2.0,1.0,0.0,8.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Premier League,Birkirkara FC,Attack,31,0.0,5.0,4.0,285.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Player 37852,14/15,Ligue 1,RC Lens,Attack,29,0.25,12.0,7.0,0,0.0,1.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 37852,10/11,Ligue 1,AC Arles-Avignon,Attack,25,0.75,34.0,33.0,1169.0,2.0,1.0,0.0,8.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 37857,17/18,Premier League,Birkirkara FC,Attack,31,0.0,5.0,4.0,285.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
 Ali Zitouni (37858),05/06,Ligue 1,ESTAC Troyes,Attack,24,0.25,1.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mathias Serin (378630),15/16,Ligue 1,Angers SCO,Midfield,23,0.2,6.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Premier League,West Bromwich Albion,Midfield,24,0.3,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 3786,04/05,Premier League,West Bromwich Albion,Midfield,24,0.3,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Richarlison (378710),24/25,Premier League,Tottenham Hotspur,Attack,27,20.0,17.0,15.0,125.0,4.0,1.0,0.0,11.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
 Richarlison (378710),23/24,Premier League,Tottenham Hotspur,Attack,26,38.0,29.0,28.0,136.0,11.0,4.0,0.0,10.0,12.0,3.0,0.0,0.0,0.0,0.0,0.0
 Richarlison (378710),22/23,Premier League,Tottenham Hotspur,Attack,25,48.0,29.0,27.0,1006.0,1.0,4.0,0.0,15.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -31489,13 +31498,13 @@ Martin Olsson (38073),10/11,Premier League,Blackburn Rovers,Defender,22,2.0,31.0
 Martin Olsson (38073),09/10,Premier League,Blackburn Rovers,Defender,21,0.75,24.0,21.0,0,0.0,4.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Martin Olsson (38073),08/09,Premier League,Blackburn Rovers,Defender,20,0.8,18.0,9.0,0,0.0,1.0,0.0,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0
 Martin Olsson (38073),07/08,Premier League,Blackburn Rovers,Defender,19,0.3,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Premier League,Wolverhampton Wanderers,Midfield,24,5.0,19.0,19.0,830.0,2.0,1.0,0.0,0.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Premier League,Wolverhampton Wanderers,Midfield,23,4.5,14.0,14.0,372.0,3.0,1.0,0.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Portsmouth FC,Midfield,22,4.0,26.0,26.0,1128.0,2.0,5.0,0.0,1.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Tottenham Hotspur,Midfield,22,4.0,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Tottenham Hotspur,Midfield,21,3.7,25.0,15.0,598.0,1.0,0.0,0.0,9.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Tottenham Hotspur,Midfield,20,1.0,18.0,17.0,893.0,1.0,0.0,0.0,8.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Premier League,Tottenham Hotspur,Midfield,19,0.075,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,11/12,Premier League,Wolverhampton Wanderers,Midfield,24,5.0,19.0,19.0,830.0,2.0,1.0,0.0,0.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,10/11,Premier League,Wolverhampton Wanderers,Midfield,23,4.5,14.0,14.0,372.0,3.0,1.0,0.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,09/10,Premier League,Portsmouth FC,Midfield,22,4.0,26.0,26.0,1128.0,2.0,5.0,0.0,1.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,09/10,Premier League,Tottenham Hotspur,Midfield,22,4.0,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,08/09,Premier League,Tottenham Hotspur,Midfield,21,3.7,25.0,15.0,598.0,1.0,0.0,0.0,9.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,07/08,Premier League,Tottenham Hotspur,Midfield,20,1.0,18.0,17.0,893.0,1.0,0.0,0.0,8.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 38090,06/07,Premier League,Tottenham Hotspur,Midfield,19,0.075,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Adam Hammill (38091),11/12,Premier League,Wolverhampton Wanderers,Attack,23,1.0,20.0,9.0,0,0.0,1.0,0.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Lee Peltier (38094),20/21,Premier League,West Bromwich Albion,Defender,33,0.4,27.0,4.0,0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 Lee Peltier (38094),18/19,Premier League,Cardiff City,Defender,31,1.5,31.0,20.0,0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
@@ -31851,7 +31860,8 @@ Nicolas Frey (38591),11/12,Serie A,Chievo Verona,Defender,27,1.2,35.0,27.0,0,0.0
 Nicolas Frey (38591),10/11,Serie A,Chievo Verona,Defender,26,1.3,32.0,21.0,0,0.0,2.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Nicolas Frey (38591),09/10,Serie A,Chievo Verona,Defender,25,1.3,31.0,24.0,0,0.0,1.0,0.0,4.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
 Nicolas Frey (38591),08/09,Serie A,Chievo Verona,Defender,24,0.8,30.0,21.0,0,0.0,4.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Burnley FC,Midfield,17,0.1,8.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 385918,17/18,Premier League,Burnley FC,Midfield,18,0.5,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 385918,16/17,Premier League,Burnley FC,Midfield,17,0.1,8.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Marek Hamsik (38593),18/19,Serie A,SSC Napoli,Midfield,30,22.0,20.0,13.0,0,0.0,0.0,0.0,1.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
 Marek Hamsik (38593),17/18,Serie A,SSC Napoli,Midfield,29,35.0,38.0,38.0,343.0,7.0,1.0,0.0,6.0,25.0,2.0,0.0,0.0,0.0,0.0,0.0
 Marek Hamsik (38593),16/17,Serie A,SSC Napoli,Midfield,28,40.0,38.0,38.0,254.0,12.0,9.0,0.0,1.0,19.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -32540,7 +32550,7 @@ Noah Weißhaupt (392163),22/23,Bundesliga,SC Freiburg,Attack,20,4.0,32.0,18.0,0,
 Noah Weißhaupt (392163),21/22,Bundesliga,SC Freiburg,Attack,19,1.7,20.0,10.0,0,0.0,2.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kaan Kurt (392154),19/20,Bundesliga,Borussia Mönchengladbach,Defender,17,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Hjalmar Ekdal (392179),23/24,Premier League,Burnley FC,Defender,24,7.0,20.0,8.0,0,0.0,0.0,0.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,SSC Napoli,Goalkeeper,18,0.05,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 392331,18/19,Serie A,SSC Napoli,Goalkeeper,18,0.05,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Habib Beye (3923),11/12,Premier League,Aston Villa,Defender,33,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Habib Beye (3923),10/11,Premier League,Aston Villa,Defender,32,1.0,7.0,3.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Habib Beye (3923),09/10,Premier League,Aston Villa,Defender,31,2.5,36.0,6.0,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
@@ -32566,7 +32576,7 @@ Tunay Torun (39247),11/12,Bundesliga,Hertha BSC,Attack,21,1.25,30.0,20.0,213.0,4
 Tunay Torun (39247),10/11,Bundesliga,Hamburger SV,Attack,20,1.5,12.0,5.0,0,0.0,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tunay Torun (39247),09/10,Bundesliga,Hamburger SV,Attack,19,1.5,25.0,19.0,489.0,2.0,2.0,0.0,7.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0
 Tunay Torun (39247),08/09,Bundesliga,Hamburger SV,Attack,18,0.35,14.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Serie A,UC Sampdoria,Midfield,18,0.25,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 392500,19/20,Serie A,UC Sampdoria,Midfield,18,0.25,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antonino Gallo (392516),24/25,Serie A,US Lecce,Defender,24,4.3,32.0,31.0,0,0.0,2.0,2.0,0.0,6.0,3.0,0.0,1.0,0.0,0.0,0.0
 Antonino Gallo (392516),23/24,Serie A,US Lecce,Defender,23,4.5,38.0,35.0,0,0.0,3.0,0.0,5.0,17.0,2.0,0.0,0.0,0.0,0.0,0.0
 Antonino Gallo (392516),22/23,Serie A,US Lecce,Defender,22,2.5,36.0,32.0,0,0.0,2.0,2.0,4.0,4.0,3.0,1.0,0.0,0.0,0.0,0.0
@@ -32580,7 +32590,7 @@ Gabriele Zappa (392569),21/22,Serie A,Cagliari Calcio,Defender,21,3.8,36.0,25.0,
 Gabriele Zappa (392569),20/21,Serie A,Cagliari Calcio,Defender,20,7.0,38.0,34.0,0,0.0,4.0,0.0,7.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0
 Marco Sala (392570),24/25,Serie A,US Lecce,Defender,25,0.9,14.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Marco Sala (392570),24/25,Serie A,Como 1907,Defender,25,0.9,16.0,8.0,0,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Serie A,Delfino Pescara 1936,Midfield,16,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 392550,16/17,Serie A,Delfino Pescara 1936,Midfield,16,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tommaso Pobega (392538),24/25,Serie A,Bologna FC 1909,Midfield,24,9.0,31.0,21.0,589.0,2.0,3.0,0.0,8.0,5.0,4.0,1.0,1.0,0.0,0.0,0.0
 Tommaso Pobega (392538),23/24,Serie A,AC Milan,Midfield,23,10.0,20.0,11.0,0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tommaso Pobega (392538),22/23,Serie A,AC Milan,Midfield,22,14.0,35.0,19.0,439.0,2.0,0.0,0.0,10.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
@@ -33043,7 +33053,8 @@ Joaquín Muñoz (396334),20/21,LaLiga,SD Huesca,Attack,21,0.6,5.0,3.0,0,0.0,0.0,
 Joaquín Muñoz (396334),18/19,LaLiga,Atlético de Madrid,Attack,19,0.3,9.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Óscar Clemente (396340),19/20,LaLiga,Atlético de Madrid,Midfield,20,0.9,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Álex dos Santos (396341),18/19,LaLiga,Atlético de Madrid,Goalkeeper,19,0.2,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Premier League,Bolton Wanderers,Defender,33,3.1,36.0,36.0,0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0
+Player 3964,05/06,Premier League,Bolton Wanderers,Defender,34,2.4,30.0,29.0,0,0.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3964,04/05,Premier League,Bolton Wanderers,Defender,33,3.1,36.0,36.0,0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0
 Bryan Ruiz (39642),13/14,Premier League,Fulham FC,Midfield,27,8.0,18.0,12.0,773.0,1.0,3.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
 Bryan Ruiz (39642),12/13,Premier League,Fulham FC,Midfield,26,13.0,29.0,29.0,477.0,5.0,7.0,0.0,3.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
 Bryan Ruiz (39642),11/12,Premier League,Fulham FC,Midfield,25,10.0,27.0,27.0,756.0,2.0,3.0,0.0,10.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -33405,12 +33416,15 @@ Roy Makaay (3994),04/05,Bundesliga,Bayern Munich,Attack,29,20.0,33.0,33.0,129.0,
 Marcus Tavernier (399434),24/25,Premier League,AFC Bournemouth,Midfield,25,18.0,29.0,29.0,647.0,3.0,6.0,0.0,9.0,9.0,6.0,0.0,0.0,0.0,0.0,0.0
 Marcus Tavernier (399434),23/24,Premier League,AFC Bournemouth,Midfield,24,20.0,30.0,30.0,711.0,3.0,4.0,0.0,5.0,18.0,3.0,0.0,0.0,0.0,0.0,0.0
 Marcus Tavernier (399434),22/23,Premier League,AFC Bournemouth,Midfield,23,17.0,23.0,23.0,350.0,5.0,4.0,0.0,4.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,Norwich City,Midfield,32,1.0,34.0,27.0,0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,1.0,0.0,0.0,0.0
-,10/11,Premier League,West Ham United,Midfield,27,2.5,9.0,8.0,0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Middlesbrough FC,Midfield,25,4.8,29.0,29.0,618.0,4.0,1.0,0.0,1.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Premier League,Middlesbrough FC,Midfield,24,6.0,26.0,26.0,0,0.0,4.0,0.0,1.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Premier League,Portsmouth FC,Midfield,23,3.75,35.0,35.0,3093.0,1.0,5.0,0.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Premier League,Portsmouth FC,Midfield,21,0.8,26.0,24.0,943.0,2.0,0.0,0.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,15/16,Premier League,Norwich City,Midfield,32,1.0,34.0,27.0,0,0.0,0.0,0.0,8.0,1.0,7.0,0.0,1.0,0.0,0.0,0.0
+Player 3995,12/13,Premier League,West Ham United,Midfield,29,2.5,35.0,24.0,1441.0,1.0,3.0,0.0,7.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,10/11,Premier League,West Ham United,Midfield,27,2.5,9.0,8.0,0,0.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,08/09,Premier League,Middlesbrough FC,Midfield,25,4.8,29.0,29.0,618.0,4.0,1.0,0.0,1.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,07/08,Premier League,Middlesbrough FC,Midfield,24,6.0,26.0,26.0,0,0.0,4.0,0.0,1.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,07/08,Premier League,Portsmouth FC,Midfield,24,6.0,2.0,2.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,06/07,Premier League,Portsmouth FC,Midfield,23,3.75,35.0,35.0,3093.0,1.0,5.0,0.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,05/06,Premier League,Portsmouth FC,Midfield,22,2.0,36.0,36.0,522.0,6.0,1.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 3995,04/05,Premier League,Portsmouth FC,Midfield,21,0.8,26.0,24.0,943.0,2.0,0.0,0.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
 Rémi Oudin (399543),24/25,Serie A,US Lecce,Midfield,27,1.5,19.0,11.0,0,0.0,0.0,0.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Rémi Oudin (399543),23/24,Serie A,US Lecce,Midfield,26,3.5,36.0,31.0,609.0,3.0,2.0,0.0,10.0,19.0,3.0,0.0,0.0,0.0,0.0,0.0
 Rémi Oudin (399543),22/23,Serie A,US Lecce,Midfield,25,4.0,34.0,31.0,439.0,3.0,0.0,0.0,19.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -33572,9 +33586,9 @@ Jadon Sancho (401173),17/18,Bundesliga,Borussia Dortmund,Attack,17,15.0,15.0,12.
 Kévin Das Neves (40123),09/10,Ligue 1,US Boulogne,Midfield,23,0.5,11.0,8.0,0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
 Kévin Das Neves (40123),06/07,Ligue 1,FC Nantes,Midfield,20,0.4,15.0,9.0,0,0.0,0.0,0.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
 Kévin Das Neves (40123),05/06,Ligue 1,FC Nantes,Midfield,19,0.05,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Premier League,Ipswich Town,Defender,25,14.0,36.0,35.0,0,0.0,2.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Premier League,Burnley FC,Defender,24,7.0,34.0,33.0,965.0,3.0,4.0,1.0,1.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0
-,20/21,Premier League,West Bromwich Albion,Defender,21,3.0,36.0,28.0,0,0.0,0.0,0.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 401320,24/25,Premier League,Ipswich Town,Defender,25,14.0,36.0,35.0,0,0.0,2.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 401320,23/24,Premier League,Burnley FC,Defender,24,7.0,34.0,33.0,965.0,3.0,4.0,1.0,1.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0
+Player 401320,20/21,Premier League,West Bromwich Albion,Defender,21,3.0,36.0,28.0,0,0.0,0.0,0.0,3.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
 Edson Álvarez (401356),24/25,Premier League,West Ham United,Midfield,26,25.0,30.0,28.0,0,0.0,1.0,0.0,8.0,15.0,7.0,1.0,0.0,0.0,0.0,0.0
 Edson Álvarez (401356),23/24,Premier League,West Ham United,Midfield,25,35.0,32.0,31.0,2383.0,1.0,1.0,0.0,3.0,10.0,11.0,0.0,0.0,0.0,0.0,0.0
 Louis Saha (4015),12/13,Serie A,SS Lazio,Attack,33,0.4,14.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -34062,7 +34076,7 @@ Lautaro Martínez (406625),21/22,Serie A,Inter Milan,Attack,23,75.0,36.0,35.0,10
 Lautaro Martínez (406625),20/21,Serie A,Inter Milan,Attack,22,80.0,38.0,38.0,152.0,17.0,10.0,0.0,8.0,23.0,5.0,0.0,0.0,2.0,0.0,0.0
 Lautaro Martínez (406625),19/20,Serie A,Inter Milan,Attack,21,64.0,35.0,35.0,176.0,14.0,5.0,0.0,6.0,19.0,7.0,0.0,1.0,2.0,0.0,0.0
 Lautaro Martínez (406625),18/19,Serie A,Inter Milan,Attack,20,30.0,34.0,27.0,223.0,6.0,2.0,0.0,14.0,4.0,4.0,0.0,0.0,1.0,0.0,0.0
-,24/25,Premier League,Brighton & Hove Albion,Attack,19,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 406634,24/25,Premier League,Brighton & Hove Albion,Midfield,23,22.0,24.0,21.0,469.0,2.0,3.0,1.0,10.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0
 Phil Foden (406635),24/25,Premier League,Manchester City,Attack,24,100.0,33.0,28.0,254.0,7.0,2.0,0.0,8.0,10.0,2.0,0.0,0.0,0.0,0.0,0.0
 Phil Foden (406635),23/24,Premier League,Manchester City,Attack,23,150.0,37.0,35.0,151.0,19.0,8.0,0.0,2.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0
 Phil Foden (406635),22/23,Premier League,Manchester City,Attack,22,110.0,33.0,32.0,167.0,11.0,5.0,0.0,10.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -34399,16 +34413,16 @@ Rodrygo (412363),22/23,LaLiga,Real Madrid,Attack,21,100.0,34.0,34.0,265.0,9.0,9.
 Rodrygo (412363),21/22,LaLiga,Real Madrid,Attack,20,60.0,34.0,33.0,382.0,4.0,4.0,0.0,16.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0
 Rodrygo (412363),20/21,LaLiga,Real Madrid,Attack,19,35.0,29.0,22.0,980.0,1.0,6.0,0.0,12.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rodrygo (412363),19/20,LaLiga,Real Madrid,Attack,18,45.0,28.0,19.0,512.0,2.0,0.0,0.0,7.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,Stade Reims,Attack,26,1.5,24.0,16.0,285.0,3.0,0.0,0.0,5.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,Stade Reims,Attack,25,2.0,30.0,28.0,246.0,7.0,2.0,0.0,6.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Premier League,Swansea City,Attack,24,1.5,6.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Premier League,Bolton Wanderers,Attack,22,3.0,34.0,33.0,681.0,3.0,5.0,0.0,9.0,20.0,2.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Premier League,Liverpool FC,Attack,22,3.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Premier League,Liverpool FC,Attack,21,5.0,34.0,25.0,524.0,2.0,1.0,0.0,16.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Liverpool FC,Attack,20,4.5,31.0,24.0,203.0,5.0,3.0,0.0,14.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Premier League,Liverpool FC,Attack,19,2.0,25.0,14.0,158.0,2.0,2.0,0.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,Paris Saint-Germain,Midfield,19,0.5,22.0,8.0,0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Ligue 1,Paris Saint-Germain,Attack,17,0.3,8.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,15/16,Ligue 1,Stade Reims,Attack,26,1.5,24.0,16.0,285.0,3.0,0.0,0.0,5.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,14/15,Ligue 1,Stade Reims,Attack,25,2.0,30.0,28.0,246.0,7.0,2.0,0.0,6.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,13/14,Premier League,Swansea City,Attack,24,1.5,6.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,11/12,Premier League,Bolton Wanderers,Attack,22,3.0,34.0,33.0,681.0,3.0,5.0,0.0,9.0,20.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,11/12,Premier League,Liverpool FC,Attack,22,3.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,10/11,Premier League,Liverpool FC,Attack,21,5.0,34.0,25.0,524.0,2.0,1.0,0.0,16.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,09/10,Premier League,Liverpool FC,Attack,20,4.5,31.0,24.0,203.0,5.0,3.0,0.0,14.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,08/09,Premier League,Liverpool FC,Attack,19,2.0,25.0,14.0,158.0,2.0,2.0,0.0,12.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,07/08,Ligue 1,Paris Saint-Germain,Attack,18,1.0,26.0,13.0,643.0,1.0,1.0,0.0,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 41242,06/07,Ligue 1,Paris Saint-Germain,Attack,17,0.3,8.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Brenner (412366),24/25,Serie A,Udinese Calcio,Attack,24,4.0,19.0,9.0,385.0,1.0,2.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
 Brenner (412366),23/24,Serie A,Udinese Calcio,Attack,23,7.0,17.0,8.0,0,0.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Niklas Andersen (41250),08/09,Bundesliga,SV Werder Bremen,Defender,19,0.25,2.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -35396,16 +35410,16 @@ Farid El Melali (425400),19/20,Ligue 1,Angers SCO,Attack,21,1.6,9.0,8.0,102.0,3.
 Farid El Melali (425400),18/19,Ligue 1,Angers SCO,Attack,20,0.8,26.0,18.0,0,0.0,1.0,0.0,18.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Felipe Vizeu (425462),18/19,Serie A,Udinese Calcio,Attack,21,1.5,17.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ivan Saravanja (425693),21/22,Bundesliga,SK Austria Klagenfurt,Defender,24,0.35,27.0,19.0,1384.0,1.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Serie A,UC Sampdoria,Attack,33,2.0,18.0,18.0,612.0,2.0,2.0,0.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,Everton FC,Attack,33,2.0,18.0,14.0,261.0,3.0,1.0,0.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Premier League,Chelsea FC,Attack,32,9.0,27.0,21.0,145.0,9.0,2.0,0.0,5.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Serie A,Inter Milan,Attack,29,42.0,35.0,35.0,141.0,21.0,9.0,0.0,0.0,9.0,3.0,0.0,0.0,5.0,0.0,0.0
-,09/10,Serie A,Inter Milan,Attack,28,40.0,32.0,32.0,208.0,12.0,6.0,0.0,5.0,7.0,6.0,0.0,0.0,2.0,0.0,0.0
-,08/09,LaLiga,FC Barcelona,Attack,27,42.0,37.0,36.0,98.0,30.0,3.0,0.0,2.0,14.0,9.0,0.0,0.0,2.0,0.0,0.0
-,07/08,LaLiga,FC Barcelona,Attack,26,40.0,18.0,18.0,94.0,16.0,3.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
-,06/07,LaLiga,FC Barcelona,Attack,25,38.0,20.0,19.0,134.0,11.0,8.0,0.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
-,05/06,LaLiga,FC Barcelona,Attack,24,36.0,34.0,34.0,116.0,26.0,7.0,0.0,0.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0
-,04/05,LaLiga,FC Barcelona,Attack,23,31.0,37.0,37.0,125.0,25.0,5.0,0.0,0.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0
+Player 4257,14/15,Serie A,UC Sampdoria,Attack,33,2.0,18.0,18.0,612.0,2.0,2.0,0.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 4257,14/15,Premier League,Everton FC,Attack,33,2.0,18.0,14.0,261.0,3.0,1.0,0.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 4257,13/14,Premier League,Chelsea FC,Attack,32,9.0,27.0,21.0,145.0,9.0,2.0,0.0,5.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 4257,10/11,Serie A,Inter Milan,Attack,29,42.0,35.0,35.0,141.0,21.0,9.0,0.0,0.0,9.0,3.0,0.0,0.0,5.0,0.0,0.0
+Player 4257,09/10,Serie A,Inter Milan,Attack,28,40.0,32.0,32.0,208.0,12.0,6.0,0.0,5.0,7.0,6.0,0.0,0.0,2.0,0.0,0.0
+Player 4257,08/09,LaLiga,FC Barcelona,Attack,27,42.0,37.0,36.0,98.0,30.0,3.0,0.0,2.0,14.0,9.0,0.0,0.0,2.0,0.0,0.0
+Player 4257,07/08,LaLiga,FC Barcelona,Attack,26,40.0,18.0,18.0,94.0,16.0,3.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 4257,06/07,LaLiga,FC Barcelona,Attack,25,38.0,20.0,19.0,134.0,11.0,8.0,0.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 4257,05/06,LaLiga,FC Barcelona,Attack,24,36.0,34.0,34.0,116.0,26.0,7.0,0.0,0.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0
+Player 4257,04/05,LaLiga,FC Barcelona,Attack,23,31.0,37.0,37.0,125.0,25.0,5.0,0.0,0.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0
 Akin Famewo (425713),19/20,Premier League,Norwich City,Defender,20,0.025,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Daniil Kulikov (425756),24/25,Premier League,FC Pyunik Yerevan,Midfield,26,0.6,12.0,10.0,745.0,1.0,0.0,0.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Ryan Yates (425902),24/25,Premier League,Nottingham Forest,Midfield,26,12.0,37.0,35.0,952.0,2.0,1.0,0.0,17.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0
@@ -36897,7 +36911,7 @@ Diego Costa (44779),09/10,LaLiga,Real Valladolid CF,Attack,20,5.0,35.0,34.0,361.
 Nacer Barazite (44787),12/13,Bundesliga,Austria Vienna,Midfield,22,1.5,8.0,5.0,130.0,1.0,2.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Nacer Barazite (44787),11/12,Bundesliga,Austria Vienna,Midfield,21,2.0,18.0,18.0,196.0,8.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
 Nacer Barazite (44787),10/11,Bundesliga,Austria Vienna,Midfield,20,1.2,16.0,16.0,307.0,4.0,6.0,0.0,2.0,8.0,2.0,1.0,0.0,0.0,0.0,0.0
-,06/07,Premier League,Arsenal FC,Defender,19,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 44797,06/07,Premier League,Arsenal FC,Defender,19,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Henri Lansbury (44794),19/20,Premier League,Aston Villa,Midfield,28,1.2,29.0,10.0,0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Henri Lansbury (44794),11/12,Premier League,Arsenal FC,Midfield,20,1.5,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Henri Lansbury (44794),09/10,Premier League,Arsenal FC,Midfield,18,0.6,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -42727,7 +42741,7 @@ Demba Seck (551752),23/24,Serie A,Frosinone Calcio,Attack,22,2.0,15.0,11.0,0,0.0
 Demba Seck (551752),23/24,Serie A,Torino FC,Attack,22,2.0,18.0,9.0,0,0.0,0.0,0.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Demba Seck (551752),22/23,Serie A,Torino FC,Attack,21,2.7,36.0,19.0,0,0.0,0.0,0.0,13.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
 Demba Seck (551752),21/22,Serie A,Torino FC,Attack,20,3.0,15.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Ligue 1,FC Nantes,Attack,20,0.7,7.0,6.0,352.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 5520,04/05,Ligue 1,FC Nantes,Attack,20,0.7,7.0,6.0,352.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lukas Vorlicky (552059),22/23,Serie A,Atalanta BC,Attack,20,0.1,8.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antonín Svoboda (552061),20/21,Bundesliga,Red Bull Salzburg,Attack,18,0.35,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Adam Hlozek (552057),24/25,Bundesliga,TSG 1899 Hoffenheim,Attack,21,18.0,27.0,27.0,234.0,8.0,3.0,0.0,5.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -42809,12 +42823,13 @@ Larrys Mabiala (55366),08/09,Ligue 1,Paris Saint-Germain,Defender,20,0.4,13.0,2.
 Larrys Mabiala (55366),07/08,Ligue 1,Paris Saint-Germain,Defender,19,0.1,5.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Aleksander Buksa (553757),23/24,Bundesliga,WSG Tirol,Attack,20,0.4,30.0,29.0,1197.0,1.0,2.0,0.0,17.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0
 Aleksander Buksa (553757),21/22,Serie A,Genoa CFC,Attack,18,1.2,10.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Serie A,US Palermo,Midfield,26,0.8,9.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,ESTAC Troyes,Defender,21,1.75,33.0,22.0,0,0.0,2.0,0.0,1.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0
-,11/12,Ligue 1,Paris Saint-Germain,Midfield,23,0.9,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,Stade Brestois 29,Midfield,22,0.9,32.0,25.0,0,0.0,0.0,0.0,8.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Ligue 1,Paris Saint-Germain,Midfield,21,1.0,36.0,16.0,0,0.0,0.0,0.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,Paris Saint-Germain,Midfield,20,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,14/15,Serie A,US Palermo,Midfield,26,0.8,9.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,12/13,Ligue 1,ESTAC Troyes,Midfield,24,1.25,31.0,31.0,2534.0,1.0,2.0,0.0,2.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,11/12,Ligue 1,Paris Saint-Germain,Midfield,23,0.9,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,10/11,Ligue 1,Stade Brestois 29,Midfield,22,0.9,32.0,25.0,0,0.0,0.0,0.0,8.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,09/10,Ligue 1,Paris Saint-Germain,Midfield,21,1.0,36.0,16.0,0,0.0,0.0,0.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,08/09,Ligue 1,Paris Saint-Germain,Midfield,20,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 55385,07/08,Ligue 1,Paris Saint-Germain,Midfield,19,0.5,22.0,8.0,0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Pedro Oldoni (55389),08/09,LaLiga,Real Valladolid CF,Attack,22,1.4,12.0,6.0,202.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Pedro Porro (553875),24/25,Premier League,Tottenham Hotspur,Defender,24,38.0,38.0,33.0,1305.0,2.0,6.0,0.0,5.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0
 Pedro Porro (553875),23/24,Premier League,Tottenham Hotspur,Defender,23,45.0,36.0,35.0,1031.0,3.0,8.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -43073,20 +43088,20 @@ Quentin Merlin (557613),23/24,Ligue 1,FC Nantes,Defender,21,10.0,16.0,16.0,0,0.0
 Quentin Merlin (557613),22/23,Ligue 1,FC Nantes,Defender,20,7.0,25.0,24.0,1803.0,1.0,2.0,0.0,2.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0
 Quentin Merlin (557613),21/22,Ligue 1,FC Nantes,Defender,19,5.0,33.0,28.0,962.0,2.0,3.0,0.0,7.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
 Quentin Merlin (557613),20/21,Ligue 1,FC Nantes,Defender,18,0.2,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Serie A,AC Monza,Attack,33,0.2,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Serie A,AC Monza,Defender,34,1.0,29.0,24.0,0,0.0,0.0,0.0,8.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0
-,22/23,Serie A,Inter Milan,Defender,33,1.5,32.0,15.0,0,0.0,2.0,0.0,7.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0
-,21/22,Serie A,Inter Milan,Defender,32,3.0,38.0,20.0,993.0,1.0,1.0,0.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Serie A,Inter Milan,Defender,31,5.0,32.0,19.0,230.0,3.0,0.0,0.0,12.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Serie A,Inter Milan,Defender,30,10.5,30.0,22.0,350.0,4.0,0.0,0.0,7.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,Inter Milan,Defender,29,13.0,37.0,30.0,1292.0,2.0,5.0,0.0,1.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Serie A,Inter Milan,Defender,28,12.0,35.0,34.0,1493.0,2.0,4.0,0.0,0.0,7.0,6.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Serie A,Inter Milan,Defender,27,10.0,38.0,32.0,943.0,3.0,3.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Serie A,Inter Milan,Defender,26,6.5,35.0,20.0,809.0,2.0,1.0,0.0,2.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0
-,14/15,Serie A,Inter Milan,Midfield,24,7.0,13.0,8.0,0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Serie A,Inter Milan,Defender,24,4.8,17.0,11.0,0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Serie A,Torino FC,Defender,24,4.8,14.0,14.0,607.0,2.0,2.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Serie A,Torino FC,Defender,23,2.5,35.0,28.0,982.0,2.0,3.0,0.0,6.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,24/25,Serie A,AC Monza,Defender,35,0.0,26.0,20.0,0,0.0,1.0,0.0,8.0,7.0,2.0,0.0,1.0,0.0,0.0,0.0
+Player 55769,23/24,Serie A,AC Monza,Defender,34,1.0,29.0,24.0,0,0.0,0.0,0.0,8.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0
+Player 55769,22/23,Serie A,Inter Milan,Defender,33,1.5,32.0,15.0,0,0.0,2.0,0.0,7.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0
+Player 55769,21/22,Serie A,Inter Milan,Defender,32,3.0,38.0,20.0,993.0,1.0,1.0,0.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,20/21,Serie A,Inter Milan,Defender,31,5.0,32.0,19.0,230.0,3.0,0.0,0.0,12.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,19/20,Serie A,Inter Milan,Defender,30,10.5,30.0,22.0,350.0,4.0,0.0,0.0,7.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,18/19,Serie A,Inter Milan,Defender,29,13.0,37.0,30.0,1292.0,2.0,5.0,0.0,1.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,17/18,Serie A,Inter Milan,Defender,28,12.0,35.0,34.0,1493.0,2.0,4.0,0.0,0.0,7.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,16/17,Serie A,Inter Milan,Defender,27,10.0,38.0,32.0,943.0,3.0,3.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,15/16,Serie A,Inter Milan,Defender,26,6.5,35.0,20.0,809.0,2.0,1.0,0.0,2.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0
+Player 55769,14/15,Serie A,Inter Milan,Defender,25,5.5,29.0,23.0,0,0.0,3.0,0.0,4.0,5.0,8.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,13/14,Serie A,Inter Milan,Defender,24,4.8,17.0,11.0,0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,13/14,Serie A,Torino FC,Defender,24,4.8,14.0,14.0,607.0,2.0,2.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 55769,12/13,Serie A,Torino FC,Defender,23,2.5,35.0,28.0,982.0,2.0,3.0,0.0,6.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0
 Sékou Mara (557612),24/25,Ligue 1,RC Strasbourg Alsace,Attack,21,5.0,32.0,25.0,759.0,1.0,1.0,0.0,18.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
 Sékou Mara (557612),22/23,Premier League,Southampton FC,Attack,19,10.0,33.0,22.0,542.0,1.0,2.0,0.0,18.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Sékou Mara (557612),21/22,Ligue 1,FC Girondins Bordeaux,Attack,18,3.0,33.0,26.0,149.0,6.0,0.0,0.0,18.0,7.0,2.0,0.0,0.0,1.0,0.0,0.0
@@ -43176,7 +43191,7 @@ Cyril Jeunechamp (5592),04/05,Ligue 1,Stade Rennais FC,Midfield,28,1.5,35.0,35.0
 Carlos Matheu (55932),12/13,Serie A,AC Siena,Defender,27,0.5,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Carlos Matheu (55932),12/13,Serie A,Atalanta BC,Defender,27,0.5,22.0,4.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Carlos Matheu (55932),08/09,Serie A,Cagliari Calcio,Defender,23,2.2,36.0,15.0,0,0.0,1.0,0.0,2.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Premier League,Arsenal FC,Midfield,20,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 559330,24/25,Premier League,Arsenal FC,Midfield,20,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Emmanuel Emegha (559328),24/25,Ligue 1,RC Strasbourg Alsace,Attack,21,25.0,27.0,27.0,165.0,14.0,3.0,0.0,0.0,15.0,5.0,0.0,0.0,0.0,0.0,0.0
 Emmanuel Emegha (559328),23/24,Ligue 1,RC Strasbourg Alsace,Attack,20,12.0,28.0,28.0,261.0,8.0,2.0,0.0,5.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0
 Emmanuel Emegha (559328),22/23,Bundesliga,SK Sturm Graz,Attack,19,8.0,27.0,27.0,173.0,9.0,3.0,0.0,11.0,12.0,7.0,0.0,0.0,0.0,0.0,0.0
@@ -43235,8 +43250,8 @@ Randy Nteka (560483),23/24,LaLiga,Rayo Vallecano,Midfield,25,1.5,28.0,16.0,564.0
 Randy Nteka (560483),22/23,LaLiga,Elche CF,Midfield,24,1.8,15.0,14.0,0,0.0,0.0,0.0,4.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0
 Randy Nteka (560483),22/23,LaLiga,Rayo Vallecano,Midfield,24,1.8,14.0,10.0,0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 Randy Nteka (560483),21/22,LaLiga,Rayo Vallecano,Midfield,23,4.0,35.0,34.0,487.0,3.0,2.0,0.0,18.0,16.0,3.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Premier League,Nottingham Forest,Midfield,24,5.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Premier League,Nottingham Forest,Midfield,23,8.0,15.0,13.0,580.0,1.0,0.0,0.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 560694,23/24,Premier League,Nottingham Forest,Midfield,24,5.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 560694,22/23,Premier League,Nottingham Forest,Midfield,23,8.0,15.0,13.0,580.0,1.0,0.0,0.0,7.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Enzo Pérez (56066),16/17,LaLiga,Valencia CF,Midfield,30,8.0,29.0,27.0,0,0.0,1.0,0.0,1.0,6.0,13.0,0.0,1.0,0.0,0.0,0.0
 Enzo Pérez (56066),15/16,LaLiga,Valencia CF,Midfield,29,14.0,22.0,20.0,0,0.0,0.0,0.0,4.0,13.0,10.0,0.0,0.0,0.0,0.0,0.0
 Enzo Pérez (56066),14/15,LaLiga,Valencia CF,Midfield,28,25.0,16.0,14.0,0,0.0,1.0,0.0,2.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
@@ -43490,6 +43505,7 @@ Kristian Thorstvedt (564785),23/24,Serie A,US Sassuolo,Midfield,24,8.0,37.0,34.0
 Kristian Thorstvedt (564785),22/23,Serie A,US Sassuolo,Midfield,23,7.5,37.0,31.0,564.0,2.0,1.0,0.0,18.0,12.0,5.0,0.0,0.0,0.0,0.0,0.0
 Cosimo da Graça (564795),22/23,Serie A,Juventus FC,Attack,20,0.8,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Cosimo da Graça (564795),20/21,Serie A,Juventus FC,Attack,18,1.1,7.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 5649,04/05,Ligue 1,Olympique Marseille,Midfield,28,1.5,27.0,23.0,1437.0,1.0,0.0,0.0,8.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
 Barry Maguire (56491),20/21,Premier League,Geylang International,Midfield,30,0.175,16.0,16.0,0,0.0,8.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Barry Maguire (56491),19/20,Premier League,Geylang International,Midfield,29,0.175,13.0,13.0,390.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
 Thomas Riedl (565),09/10,Bundesliga,SK Austria Kärnten (-2010),Midfield,,0.2,28.0,22.0,0,0.0,0.0,0.0,3.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
@@ -43564,7 +43580,7 @@ Mohamed Abdelmonem (566025),21/22,Premier League,Future FC,Defender,22,1.2,7.0,7
 Mohamed Abdelmonem (566025),20/21,Premier League,Smouha SC,Defender,21,0.2,25.0,24.0,1950.0,1.0,0.0,0.0,2.0,3.0,5.0,0.0,1.0,0.0,0.0,0.0
 Mohamed Abdelmonem (566025),19/20,Premier League,Smouha SC,Defender,20,0.025,10.0,8.0,637.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0
 Borja Garcés (566036),18/19,LaLiga,Atlético de Madrid,Attack,18,3.0,10.0,1.0,19.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Serie A,Chievo Verona,Midfield,26,0.4,15.0,9.0,0,0.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 56605,08/09,Serie A,Chievo Verona,Midfield,26,0.4,15.0,9.0,0,0.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Eros Pisano (56609),15/16,Serie A,Hellas Verona,Defender,28,0.8,34.0,34.0,581.0,5.0,1.0,0.0,1.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0
 Eros Pisano (56609),14/15,Serie A,Hellas Verona,Defender,27,0.5,15.0,15.0,0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
 Eros Pisano (56609),14/15,Serie A,US Palermo,Defender,27,0.5,20.0,4.0,0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -43732,17 +43748,18 @@ Fabien Lemoine (56794),10/11,Ligue 1,Stade Rennais FC,Midfield,23,4.0,23.0,18.0,
 Fabien Lemoine (56794),09/10,Ligue 1,Stade Rennais FC,Midfield,22,4.5,35.0,31.0,0,0.0,3.0,0.0,3.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0
 Fabien Lemoine (56794),08/09,Ligue 1,Stade Rennais FC,Midfield,21,4.0,38.0,38.0,0,0.0,1.0,0.0,1.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
 Fabien Lemoine (56794),07/08,Ligue 1,Stade Rennais FC,Midfield,20,1.6,19.0,18.0,1467.0,1.0,3.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Ligue 1,AS Saint-Étienne,Midfield,27,8.0,17.0,17.0,0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,AS Saint-Étienne,Defender,27,2.0,17.0,15.0,0,0.0,1.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Ligue 1,Stade Rennais FC,Defender,26,2.0,27.0,23.0,0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,Stade Rennais FC,Defender,25,2.5,33.0,32.0,0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,FC Toulouse,Defender,24,3.0,3.0,3.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,FC Toulouse,Defender,23,4.0,29.0,28.0,0,0.0,1.0,0.0,1.0,0.0,6.0,1.0,1.0,0.0,0.0,0.0
-,11/12,Ligue 1,FC Toulouse,Defender,22,5.5,30.0,30.0,2604.0,1.0,1.0,0.0,0.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,FC Toulouse,Defender,21,5.5,25.0,25.0,0,0.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Ligue 1,FC Toulouse,Defender,20,4.3,30.0,30.0,2625.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,FC Toulouse,Defender,19,1.4,29.0,21.0,0,0.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,FC Toulouse,Defender,18,0.4,7.0,3.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,17/18,Ligue 1,AS Saint-Étienne,Defender,28,2.0,22.0,7.0,0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,16/17,Ligue 1,AS Saint-Étienne,Defender,27,2.0,17.0,15.0,0,0.0,1.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,15/16,Ligue 1,Stade Rennais FC,Defender,26,2.0,27.0,23.0,0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,14/15,Ligue 1,Stade Rennais FC,Defender,25,2.5,33.0,32.0,0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,13/14,Ligue 1,Stade Rennais FC,Defender,24,3.0,30.0,25.0,0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,13/14,Ligue 1,FC Toulouse,Defender,24,3.0,3.0,3.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,12/13,Ligue 1,FC Toulouse,Defender,23,4.0,29.0,28.0,0,0.0,1.0,0.0,1.0,0.0,6.0,1.0,1.0,0.0,0.0,0.0
+Player 56795,11/12,Ligue 1,FC Toulouse,Defender,22,5.5,30.0,30.0,2604.0,1.0,1.0,0.0,0.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,10/11,Ligue 1,FC Toulouse,Defender,21,5.5,25.0,25.0,0,0.0,0.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,09/10,Ligue 1,FC Toulouse,Defender,20,4.3,30.0,30.0,2625.0,1.0,2.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0
+Player 56795,08/09,Ligue 1,FC Toulouse,Defender,19,1.4,29.0,21.0,0,0.0,1.0,0.0,5.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 56795,07/08,Ligue 1,FC Toulouse,Defender,18,0.4,7.0,3.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Ali Mathlouthi (56799),07/08,Ligue 1,RC Strasbourg Alsace,Attack,20,0.5,4.0,3.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Chris Malonga (56797),10/11,Ligue 1,AS Monaco,Attack,22,2.0,20.0,16.0,272.0,3.0,1.0,0.0,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
 Chris Malonga (56797),10/11,Ligue 1,AS Nancy-Lorraine,Attack,22,2.0,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -43929,6 +43946,7 @@ Issa Soumaré (568698),24/25,Ligue 1,Le Havre AC,Attack,23,2.0,30.0,29.0,381.0,5
 Issa Soumaré (568698),23/24,Ligue 1,Le Havre AC,Attack,22,0.8,11.0,7.0,0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lamine Gueye (568701),21/22,Ligue 1,FC Metz,Attack,23,2.0,20.0,14.0,0,0.0,5.0,0.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lamine Gueye (568701),20/21,Ligue 1,FC Metz,Attack,22,3.0,30.0,26.0,488.0,3.0,2.0,0.0,7.0,17.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 568695,19/20,Ligue 1,FC Metz,Attack,19,0.15,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Andy King (56872),17/18,Premier League,Swansea City,Midfield,28,3.0,12.0,11.0,359.0,2.0,0.0,0.0,2.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Andy King (56872),17/18,Premier League,Leicester City,Midfield,28,3.0,20.0,11.0,535.0,1.0,1.0,0.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Andy King (56872),16/17,Premier League,Leicester City,Midfield,27,3.0,37.0,23.0,1446.0,1.0,0.0,0.0,8.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
@@ -44212,7 +44230,7 @@ Bakary Koné (57186),14/15,Ligue 1,Olympique Lyon,Defender,26,2.0,31.0,17.0,1289
 Bakary Koné (57186),13/14,Ligue 1,Olympique Lyon,Defender,25,2.25,33.0,24.0,875.0,2.0,1.0,0.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Bakary Koné (57186),12/13,Ligue 1,Olympique Lyon,Defender,24,3.0,30.0,14.0,1260.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
 Bakary Koné (57186),11/12,Ligue 1,Olympique Lyon,Defender,23,4.0,34.0,28.0,1159.0,2.0,0.0,0.0,3.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,Grenoble Foot 38,Defender,23,0.4,21.0,9.0,0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 57196,08/09,Ligue 1,Grenoble Foot 38,Defender,23,0.4,21.0,9.0,0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Yohan Démont (5721),10/11,Ligue 1,RC Lens,Defender,32,1.5,33.0,33.0,2741.0,1.0,0.0,1.0,3.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
 Yohan Démont (5721),09/10,Ligue 1,RC Lens,Defender,31,2.6,38.0,37.0,3313.0,1.0,5.0,0.0,0.0,1.0,5.0,0.0,0.0,1.0,0.0,0.0
 Yohan Démont (5721),07/08,Ligue 1,RC Lens,Defender,29,3.0,37.0,31.0,2389.0,1.0,3.0,0.0,4.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
@@ -44284,10 +44302,10 @@ Abdelnasser Ouadah (5733),06/07,Ligue 1,CS Sedan-Ardennes,Attack,30,1.0,17.0,13.
 Abdelnasser Ouadah (5733),04/05,Ligue 1,AC Ajaccio,Attack,28,2.0,36.0,36.0,764.0,4.0,2.0,0.0,0.0,13.0,6.0,0.0,0.0,0.0,0.0,0.0
 Walid Regragui (5734),04/05,LaLiga,Racing Santander,Defender,28,0.3,17.0,17.0,0,0.0,0.0,0.0,1.0,1.0,6.0,1.0,0.0,0.0,0.0,0.0
 Hassane Alla (57341),08/09,Ligue 1,Le Havre AC,Midfield,27,1.8,35.0,32.0,2172.0,1.0,4.0,0.0,7.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Ligue 1,AS Nancy-Lorraine,Attack,28,0.8,27.0,23.0,411.0,3.0,0.0,0.0,10.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Ligue 1,AS Nancy-Lorraine,Attack,27,0.6,9.0,6.0,0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Ligue 1,AS Nancy-Lorraine,Midfield,20,1.7,32.0,14.0,0,0.0,0.0,0.0,4.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0
-,09/10,Ligue 1,AS Nancy-Lorraine,Midfield,19,1.7,30.0,23.0,0,0.0,1.0,0.0,6.0,9.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 57342,12/13,Ligue 1,AS Nancy-Lorraine,Attack,28,0.8,27.0,23.0,411.0,3.0,0.0,0.0,10.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 57342,11/12,Ligue 1,AS Nancy-Lorraine,Attack,27,0.6,9.0,6.0,0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 57342,10/11,Ligue 1,AS Nancy-Lorraine,Attack,26,1.9,13.0,8.0,101.0,2.0,0.0,0.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 57342,09/10,Ligue 1,AS Nancy-Lorraine,Attack,25,2.5,29.0,23.0,318.0,4.0,1.0,0.0,10.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
 Romain Armand (57344),10/11,Ligue 1,Montpellier HSC,Attack,23,0.35,2.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Thomas Ayasse (57348),15/16,Ligue 1,ESTAC Troyes,Midfield,28,1.25,15.0,14.0,1017.0,1.0,0.0,1.0,2.0,5.0,3.0,1.0,0.0,0.0,0.0,0.0
 Thomas Ayasse (57348),12/13,Ligue 1,AS Nancy-Lorraine,Midfield,25,0.9,30.0,17.0,584.0,2.0,0.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -46853,21 +46871,31 @@ Yohan Mollo (60570),11/12,LaLiga,Granada CF,Attack,21,3.0,10.0,6.0,0,0.0,0.0,0.0
 Yohan Mollo (60570),10/11,Ligue 1,SM Caen,Attack,20,1.8,35.0,35.0,592.0,4.0,3.0,0.0,8.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0
 Yohan Mollo (60570),09/10,Ligue 1,AS Monaco,Attack,19,1.7,26.0,18.0,0,0.0,0.0,0.0,11.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
 Yohan Mollo (60570),08/09,Ligue 1,AS Monaco,Attack,18,1.7,26.0,24.0,826.0,2.0,6.0,0.0,6.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Ligue 1,AS Saint-Étienne,Midfield,30,5.0,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Ligue 1,AS Saint-Étienne,Midfield,29,6.0,25.0,23.0,0,0.0,2.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,18/19,Ligue 1,AS Saint-Étienne,Midfield,28,10.0,37.0,37.0,0,0.0,1.0,0.0,0.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
-,10/11,Ligue 1,Stade Rennais FC,Midfield,20,16.5,37.0,37.0,1654.0,2.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0
-,07/08,Ligue 1,Stade Rennais FC,Midfield,17,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Premier League,Watford FC,Defender,31,2.5,5.0,3.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Serie A,Torino FC,Defender,30,5.0,32.0,18.0,1358.0,1.0,0.0,0.0,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Serie A,Torino FC,Defender,29,11.0,33.0,31.0,2692.0,1.0,0.0,0.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0
-,18/19,Serie A,Torino FC,Defender,28,20.0,36.0,36.0,1608.0,2.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0
-,16/17,Ligue 1,Olympique Lyon,Defender,26,7.5,18.0,13.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Ligue 1,Olympique Marseille,Defender,24,13.0,25.0,24.0,1056.0,2.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Ligue 1,Olympique Marseille,Defender,23,13.0,37.0,37.0,1665.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Ligue 1,Olympique Marseille,Defender,21,8.0,31.0,30.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
-,09/10,Ligue 1,AS Monaco,Defender,19,4.0,34.0,24.0,0,0.0,0.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,AS Monaco,Defender,18,2.2,33.0,24.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,20/21,Ligue 1,AS Saint-Étienne,Midfield,30,5.0,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,19/20,Ligue 1,AS Saint-Étienne,Midfield,29,6.0,25.0,23.0,0,0.0,2.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,18/19,Ligue 1,AS Saint-Étienne,Midfield,28,10.0,37.0,37.0,0,0.0,1.0,0.0,0.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
+Player 60573,17/18,Ligue 1,AS Saint-Étienne,Midfield,27,8.0,17.0,17.0,0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,15/16,Premier League,Sunderland AFC,Midfield,25,7.0,37.0,37.0,3189.0,1.0,4.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,14/15,Serie A,Inter Milan,Midfield,24,7.0,13.0,8.0,0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,12/13,Ligue 1,Stade Rennais FC,Midfield,22,15.0,16.0,16.0,0,0.0,0.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,11/12,Ligue 1,Stade Rennais FC,Midfield,21,21.0,38.0,38.0,0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 60573,10/11,Ligue 1,Stade Rennais FC,Midfield,20,16.5,37.0,37.0,1654.0,2.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0
+Player 60573,09/10,Ligue 1,Stade Rennais FC,Midfield,19,6.0,35.0,35.0,0,0.0,0.0,0.0,2.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0
+Player 60573,07/08,Ligue 1,Stade Rennais FC,Midfield,17,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,21/22,Premier League,Watford FC,Defender,31,2.5,5.0,3.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,20/21,Serie A,Torino FC,Defender,30,5.0,32.0,18.0,1358.0,1.0,0.0,0.0,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,19/20,Serie A,Torino FC,Defender,29,11.0,33.0,31.0,2692.0,1.0,0.0,0.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0
+Player 60577,18/19,Serie A,Torino FC,Defender,28,20.0,36.0,36.0,1608.0,2.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0
+Player 60577,17/18,Serie A,Torino FC,Defender,27,10.0,38.0,37.0,1630.0,2.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,16/17,Ligue 1,Olympique Lyon,Defender,26,7.5,18.0,13.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,15/16,Ligue 1,Olympique Marseille,Defender,25,10.0,34.0,33.0,0,0.0,0.0,1.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0
+Player 60577,14/15,Ligue 1,Olympique Marseille,Defender,24,13.0,25.0,24.0,1056.0,2.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,13/14,Ligue 1,Olympique Marseille,Defender,23,13.0,37.0,37.0,1665.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,12/13,Ligue 1,Olympique Marseille,Defender,22,13.0,38.0,38.0,3404.0,1.0,0.0,1.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,11/12,Ligue 1,Olympique Marseille,Defender,21,8.0,31.0,30.0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
+Player 60577,10/11,Ligue 1,AS Monaco,Defender,20,5.0,35.0,30.0,0,0.0,0.0,0.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,09/10,Ligue 1,AS Monaco,Defender,19,4.0,34.0,24.0,0,0.0,0.0,1.0,3.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 60577,08/09,Ligue 1,AS Monaco,Defender,18,2.2,33.0,24.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Prince Oniangué (60578),18/19,Ligue 1,SM Caen,Midfield,29,2.5,33.0,31.0,1171.0,2.0,0.0,0.0,5.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
 Prince Oniangué (60578),17/18,Ligue 1,Angers SCO,Midfield,28,1.5,14.0,14.0,1065.0,1.0,0.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0
 Prince Oniangué (60578),16/17,Ligue 1,SC Bastia,Midfield,27,2.0,18.0,14.0,375.0,3.0,0.0,0.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -47431,15 +47459,17 @@ Chris Herd (61572),13/14,Premier League,Aston Villa,Midfield,24,1.5,7.0,2.0,0,0.
 Chris Herd (61572),12/13,Premier League,Aston Villa,Midfield,23,2.0,11.0,9.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Chris Herd (61572),11/12,Premier League,Aston Villa,Midfield,22,2.5,24.0,19.0,1474.0,1.0,0.0,0.0,0.0,10.0,2.0,0.0,1.0,0.0,0.0,0.0
 Chris Herd (61572),10/11,Premier League,Aston Villa,Midfield,21,0.05,13.0,6.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,12/13,Serie A,Delfino Pescara 1936,Midfield,30,1.5,8.0,7.0,236.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0
-,12/13,Serie A,AC Siena,Midfield,30,1.5,13.0,8.0,0,0.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
-,11/12,Serie A,AC Siena,Midfield,29,3.0,32.0,24.0,546.0,3.0,1.0,0.0,5.0,10.0,6.0,0.0,0.0,1.0,0.0,0.0
-,09/10,Serie A,Udinese Calcio,Midfield,27,10.0,20.0,20.0,1602.0,1.0,2.0,0.0,2.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Serie A,Udinese Calcio,Midfield,26,8.0,37.0,36.0,276.0,11.0,9.0,0.0,2.0,10.0,7.0,0.0,0.0,6.0,0.0,0.0
-,07/08,Serie A,Udinese Calcio,Midfield,25,6.0,35.0,35.0,0,0.0,6.0,0.0,1.0,13.0,7.0,0.0,0.0,0.0,0.0,0.0
-,06/07,Serie A,Udinese Calcio,Midfield,24,4.2,29.0,23.0,0,0.0,4.0,0.0,9.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0
-,05/06,Serie A,FC Messina Peloro,Midfield,23,5.0,27.0,26.0,595.0,3.0,4.0,0.0,6.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Serie A,AS Roma,Midfield,22,6.0,14.0,6.0,0,0.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 6157,12/13,Serie A,Delfino Pescara 1936,Midfield,30,1.5,8.0,7.0,236.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,1.0,0.0,0.0
+Player 6157,12/13,Serie A,AC Siena,Midfield,30,1.5,13.0,8.0,0,0.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 6157,11/12,Serie A,AC Siena,Midfield,29,3.0,32.0,24.0,546.0,3.0,1.0,0.0,5.0,10.0,6.0,0.0,0.0,1.0,0.0,0.0
+Player 6157,10/11,Serie A,ACF Fiorentina,Midfield,28,8.5,29.0,20.0,244.0,5.0,1.0,0.0,8.0,6.0,2.0,0.0,0.0,1.0,0.0,0.0
+Player 6157,09/10,Serie A,Udinese Calcio,Midfield,27,10.0,20.0,20.0,1602.0,1.0,2.0,0.0,2.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 6157,08/09,Serie A,Udinese Calcio,Midfield,26,8.0,37.0,36.0,276.0,11.0,9.0,0.0,2.0,10.0,7.0,0.0,0.0,6.0,0.0,0.0
+Player 6157,07/08,Serie A,Udinese Calcio,Midfield,25,6.0,35.0,35.0,0,0.0,6.0,0.0,1.0,13.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 6157,06/07,Serie A,Udinese Calcio,Midfield,24,4.2,29.0,23.0,0,0.0,4.0,0.0,9.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0
+Player 6157,05/06,Serie A,FC Messina Peloro,Midfield,23,5.0,27.0,26.0,595.0,3.0,4.0,0.0,6.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 6157,04/05,Serie A,FC Messina Peloro,Midfield,22,6.0,15.0,15.0,601.0,2.0,3.0,0.0,1.0,6.0,1.0,1.0,0.0,1.0,0.0,0.0
+Player 6157,04/05,Serie A,AS Roma,Midfield,22,6.0,14.0,6.0,0,0.0,1.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Eric Lichaj (61575),12/13,Premier League,Aston Villa,Defender,23,2.0,29.0,17.0,0,0.0,1.0,0.0,8.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0
 Eric Lichaj (61575),11/12,Premier League,Aston Villa,Defender,22,1.5,14.0,10.0,822.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
 Eric Lichaj (61575),10/11,Premier League,Aston Villa,Defender,21,1.0,17.0,5.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -47450,7 +47480,7 @@ Jordan Spence (61588),12/13,Premier League,West Ham United,Defender,22,0.5,10.0,
 Jordan Spence (61588),10/11,Premier League,West Ham United,Defender,20,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jordan Spence (61588),09/10,Premier League,West Ham United,Defender,19,0.3,4.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jordan Spence (61588),08/09,Premier League,West Ham United,Defender,18,0.05,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Premier League,AFC Bournemouth,Midfield,24,1.5,32.0,16.0,0,0.0,1.0,0.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 61583,15/16,Premier League,AFC Bournemouth,Midfield,24,1.5,32.0,16.0,0,0.0,1.0,0.0,10.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
 Zoltán Stieber (61591),15/16,Bundesliga,Hamburger SV,Midfield,26,0.8,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Zoltán Stieber (61591),14/15,Bundesliga,Hamburger SV,Midfield,25,1.7,31.0,25.0,511.0,3.0,3.0,0.0,9.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Zoltán Stieber (61591),12/13,Bundesliga,SpVgg Greuther Fürth,Midfield,23,1.5,18.0,16.0,394.0,3.0,2.0,0.0,2.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -47884,7 +47914,7 @@ Odion Ighalo (62121),12/13,LaLiga,Granada CF,Attack,23,3.0,29.0,28.0,356.0,5.0,3
 Odion Ighalo (62121),11/12,LaLiga,Granada CF,Attack,22,2.0,34.0,30.0,273.0,6.0,3.0,0.0,12.0,14.0,4.0,0.0,0.0,0.0,0.0,0.0
 Odion Ighalo (62121),10/11,Serie A,AC Cesena,Attack,21,0.5,6.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Odion Ighalo (62121),08/09,Serie A,Udinese Calcio,Attack,19,1.2,10.0,6.0,121.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,20/21,Serie A,FC Crotone,Goalkeeper,18,0.05,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 621223,20/21,Serie A,FC Crotone,Goalkeeper,18,0.05,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sergio Yakubiv (621232),20/21,Serie A,FC Crotone,Defender,18,0.05,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ole Söderberg (62145),11/12,Premier League,Newcastle United,Goalkeeper,20,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ole Söderberg (62145),10/11,Premier League,Newcastle United,Goalkeeper,19,0.05,13.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -47904,7 +47934,7 @@ Tommaso De Nipoti (622031),22/23,Serie A,Atalanta BC,Attack,18,0.175,3.0,1.0,0,0
 Tommaso De Nipoti (622031),21/22,Serie A,Atalanta BC,Attack,17,0.15,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Radek Vítek (622236),24/25,Bundesliga,FC Blau-Weiss Linz,Goalkeeper,20,2.0,26.0,26.0,2340.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,35.0,6.0
 Radek Vítek (622236),23/24,Premier League,Manchester United,Goalkeeper,19,0.3,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Serie A,Genoa CFC,Midfield,19,0.05,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 62236,08/09,Serie A,Genoa CFC,Midfield,19,0.05,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Maynor Figueroa (62240),14/15,Premier League,Hull City,Defender,31,2.0,11.0,3.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Maynor Figueroa (62240),13/14,Premier League,Hull City,Defender,30,4.0,35.0,32.0,0,0.0,0.0,0.0,1.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0
 Maynor Figueroa (62240),12/13,Premier League,Wigan Athletic,Defender,29,4.5,33.0,33.0,2815.0,1.0,1.0,0.0,0.0,3.0,6.0,0.0,1.0,0.0,0.0,0.0
@@ -48683,7 +48713,7 @@ Eduardo Camavinga (640428),21/22,Ligue 1,Stade Rennais FC,Midfield,18,55.0,4.0,4
 Eduardo Camavinga (640428),20/21,Ligue 1,Stade Rennais FC,Midfield,17,55.0,35.0,35.0,2412.0,1.0,2.0,0.0,7.0,18.0,6.0,0.0,0.0,0.0,0.0,0.0
 Eduardo Camavinga (640428),19/20,Ligue 1,Stade Rennais FC,Midfield,16,37.5,26.0,25.0,2113.0,1.0,2.0,0.0,1.0,6.0,4.0,0.0,0.0,0.0,0.0,0.0
 Eduardo Camavinga (640428),18/19,Ligue 1,Stade Rennais FC,Midfield,15,4.0,14.0,7.0,0,0.0,0.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Serie A,Cagliari Calcio,Goalkeeper,18,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 640544,21/22,Serie A,Cagliari Calcio,Goalkeeper,18,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Luca Bucci (6407),08/09,Serie A,SSC Napoli,Goalkeeper,39,0.0,12.0,1.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
 Luca Bucci (6407),07/08,Serie A,Parma FC,Goalkeeper,38,0.35,34.0,31.0,2670.0,0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,50.0,6.0
 Luca Bucci (6407),06/07,Serie A,Parma FC,Goalkeeper,37,0.35,32.0,26.0,2318.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,30.0,8.0
@@ -49511,12 +49541,12 @@ Marcel Maltritz (663),08/09,Bundesliga,VfL Bochum,Defender,29,2.0,28.0,28.0,0,0.
 Marcel Maltritz (663),07/08,Bundesliga,VfL Bochum,Defender,28,3.0,31.0,31.0,1376.0,2.0,0.0,1.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0
 Marcel Maltritz (663),06/07,Bundesliga,VfL Bochum,Defender,27,2.3,31.0,31.0,1376.0,2.0,1.0,0.0,0.0,1.0,7.0,1.0,0.0,0.0,0.0,0.0
 Marcel Maltritz (663),04/05,Bundesliga,VfL Bochum,Defender,25,1.0,27.0,27.0,1124.0,2.0,2.0,0.0,1.0,4.0,10.0,0.0,0.0,0.0,0.0,0.0
-,10/11,LaLiga,UD Almería,Midfield,27,3.5,34.0,30.0,2479.0,1.0,1.0,0.0,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
-,09/10,LaLiga,UD Almería,Midfield,26,4.0,30.0,28.0,0,0.0,0.0,0.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,Olympique Marseille,Midfield,25,4.2,37.0,23.0,0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-,07/08,Ligue 1,Olympique Marseille,Midfield,24,4.5,31.0,24.0,0,0.0,1.0,0.0,5.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0
-,05/06,Ligue 1,Paris Saint-Germain,Midfield,22,5.0,35.0,34.0,0,0.0,1.0,0.0,3.0,4.0,10.0,0.0,0.0,0.0,0.0,0.0
-,04/05,Ligue 1,Paris Saint-Germain,Midfield,21,3.5,20.0,19.0,0,0.0,0.0,0.0,2.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,10/11,LaLiga,UD Almería,Midfield,27,3.5,34.0,30.0,2479.0,1.0,1.0,0.0,2.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,09/10,LaLiga,UD Almería,Midfield,26,4.0,30.0,28.0,0,0.0,0.0,0.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,08/09,Ligue 1,Olympique Marseille,Midfield,25,4.2,37.0,23.0,0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,07/08,Ligue 1,Olympique Marseille,Midfield,24,4.5,31.0,24.0,0,0.0,1.0,0.0,5.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,05/06,Ligue 1,Paris Saint-Germain,Midfield,22,5.0,35.0,34.0,0,0.0,1.0,0.0,3.0,4.0,10.0,0.0,0.0,0.0,0.0,0.0
+Player 6631,04/05,Ligue 1,Paris Saint-Germain,Midfield,21,3.5,20.0,19.0,0,0.0,0.0,0.0,2.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0
 Tyler Onyango (663225),23/24,Premier League,Everton FC,Midfield,20,0.5,5.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tyler Onyango (663225),20/21,Premier League,Everton FC,Midfield,17,0.2,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ammar Jemal (66319),12/13,Ligue 1,AC Ajaccio,Defender,25,0.8,4.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -50228,7 +50258,7 @@ Alberto Paloschi (68306),10/11,Serie A,Genoa CFC,Attack,20,4.5,18.0,12.0,208.0,2
 Alberto Paloschi (68306),10/11,Serie A,Parma FC,Attack,20,4.5,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alberto Paloschi (68306),09/10,Serie A,Parma FC,Attack,19,5.0,18.0,17.0,200.0,4.0,1.0,0.0,8.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
 Alberto Paloschi (68306),07/08,Serie A,AC Milan,Attack,17,2.5,11.0,7.0,138.0,2.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,Birmingham City,Midfield,20,0.7,11.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 68327,09/10,Premier League,Birmingham City,Midfield,20,0.7,11.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Luciano Zauri (6832),12/13,Serie A,Delfino Pescara 1936,Defender,34,0.1,11.0,8.0,0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
 Luciano Zauri (6832),12/13,Serie A,SS Lazio,Defender,34,0.1,7.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Luciano Zauri (6832),11/12,Serie A,SS Lazio,Defender,33,0.2,17.0,8.0,0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -50293,10 +50323,12 @@ Séamus Coleman (68390),10/11,Premier League,Everton FC,Defender,21,6.5,36.0,34.
 Séamus Coleman (68390),09/10,Premier League,Everton FC,Defender,20,1.0,19.0,3.0,0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Andrew Sinkala (684),11/12,Bundesliga,FC Augsburg,Defender,,0.3,21.0,12.0,0,0.0,1.0,0.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Andrew Sinkala (684),05/06,Bundesliga,1.FC Köln,Defender,,0.5,13.0,9.0,0,0.0,0.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0
-,24/25,Ligue 1,Stade Brestois 29,Midfield,24,0.4,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,Stade Brestois 29,Midfield,23,0.7,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Ligue 1,Stade Brestois 29,Midfield,22,1.2,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,Stade Brestois 29,Midfield,21,1.5,31.0,14.0,0,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,24/25,Ligue 1,Stade Brestois 29,Midfield,24,0.4,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,23/24,Ligue 1,Stade Brestois 29,Midfield,23,0.7,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,22/23,Ligue 1,Stade Brestois 29,Midfield,22,1.2,4.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,21/22,Ligue 1,Stade Brestois 29,Midfield,21,1.5,31.0,14.0,0,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,20/21,Ligue 1,Stade Brestois 29,Midfield,20,2.0,24.0,12.0,0,0.0,0.0,0.0,8.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 684062,19/20,Ligue 1,Stade Brestois 29,Midfield,19,0.725,4.0,2.0,140.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jaidon Anthony (684210),24/25,Premier League,AFC Bournemouth,Attack,24,9.0,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jaidon Anthony (684210),23/24,Premier League,AFC Bournemouth,Attack,23,6.0,3.0,3.0,0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Jaidon Anthony (684210),22/23,Premier League,AFC Bournemouth,Attack,22,9.0,38.0,30.0,416.0,3.0,1.0,0.0,19.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -50888,7 +50920,7 @@ César Tárrega (707274),23/24,LaLiga,Valencia CF,Defender,21,1.5,11.0,1.0,0,0.0
 Hugo González (707279),23/24,LaLiga,Valencia CF,Attack,20,0.3,25.0,9.0,0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Antoine Valério (707317),20/21,Ligue 1,Nîmes Olympique,Midfield,20,0.2,3.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Max Scholze (707350),23/24,Bundesliga,Bayern Munich,Defender,18,0.7,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,LaLiga,Rayo Vallecano,Attack,21,0.2,10.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 707359,24/25,LaLiga,Rayo Vallecano,Attack,21,0.2,10.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Amatucci (707450),23/24,Serie A,ACF Fiorentina,Midfield,19,1.0,17.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Amatucci (707450),22/23,Serie A,ACF Fiorentina,Midfield,18,0.7,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fallou Sene (707456),23/24,Serie A,ACF Fiorentina,Attack,18,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -51100,8 +51132,8 @@ Jon Karrikaburu (711382),21/22,LaLiga,Real Sociedad,Attack,18,5.0,2.0,0.0,0,0.0,
 Musa Ramathan (711429),24/25,Premier League,Wolwalo Adigrat University FC,Defender,22,0.0,6.0,5.0,0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
 Javi Martón (711394),24/25,LaLiga,Athletic Bilbao,Attack,25,0.5,15.0,3.0,0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Javi Martón (711394),23/24,LaLiga,Athletic Bilbao,Attack,24,0.5,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Premier League,Everton FC,Defender,23,18.0,37.0,20.0,785.0,2.0,0.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,Olympique Lyon,Defender,22,12.0,31.0,27.0,593.0,4.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0
+Player 711544,24/25,Premier League,Everton FC,Defender,23,18.0,37.0,20.0,785.0,2.0,0.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+Player 711544,23/24,Ligue 1,Olympique Lyon,Defender,22,12.0,31.0,27.0,593.0,4.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0
 Kevin Paredes (711517),24/25,Bundesliga,VfL Wolfsburg,Midfield,21,7.5,5.0,2.0,0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Kevin Paredes (711517),23/24,Bundesliga,VfL Wolfsburg,Midfield,20,7.5,31.0,28.0,476.0,3.0,0.0,0.0,13.0,9.0,4.0,0.0,0.0,0.0,0.0,0.0
 Kevin Paredes (711517),22/23,Bundesliga,VfL Wolfsburg,Midfield,19,5.0,24.0,22.0,510.0,1.0,3.0,0.0,21.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -51477,7 +51509,7 @@ Javi Márquez (72315),09/10,LaLiga,RCD Espanyol Barcelona,Midfield,23,0.7,23.0,1
 Marc Pedraza (72319),19/20,LaLiga,RCD Mallorca,Midfield,32,0.3,17.0,3.0,0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ahmad Ngouyamsa (723416),20/21,Ligue 1,Dijon FCO,Defender,19,0.25,12.0,3.0,0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 Léandre Kuavita (723485),23/24,Serie A,Genoa CFC,Midfield,19,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Serie A,AS Roma,Midfield,19,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 723614,23/24,Serie A,AS Roma,Midfield,19,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Amadou Sarr (723771),23/24,Serie A,Inter Milan,Attack,19,0.15,9.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Saulo (72378),07/08,Serie A,Udinese Calcio,Goalkeeper,21,0.05,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Claudio Turi (724099),24/25,Serie A,SSC Napoli,Goalkeeper,19,0.15,11.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -51559,7 +51591,7 @@ Clément Grenier (72479),11/12,Ligue 1,Olympique Lyon,Midfield,20,4.0,25.0,21.0,
 Clément Grenier (72479),10/11,Ligue 1,Olympique Lyon,Midfield,19,0.8,14.0,7.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Clément Grenier (72479),09/10,Ligue 1,Olympique Lyon,Midfield,18,0.4,7.0,3.0,0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Réver (72489),09/10,Bundesliga,VfL Wolfsburg,Defender,24,4.0,6.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Serie A,US Sassuolo,Attack,17,2.5,21.0,5.0,0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 725242,22/23,Serie A,US Sassuolo,Attack,17,2.5,21.0,5.0,0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
 Nacho Pastor (725201),20/21,LaLiga,Elche CF,Defender,20,0.15,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Luuk de Jong (72522),21/22,LaLiga,FC Barcelona,Attack,30,4.0,34.0,21.0,107.0,6.0,0.0,0.0,15.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Luuk de Jong (72522),21/22,LaLiga,Sevilla FC,Attack,30,4.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -52038,7 +52070,7 @@ Declan Rudd (74088),15/16,Premier League,Norwich City,Goalkeeper,24,2.0,38.0,11.
 Declan Rudd (74088),12/13,Premier League,Norwich City,Goalkeeper,21,0.5,15.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Declan Rudd (74088),11/12,Premier League,Norwich City,Goalkeeper,20,0.5,21.0,3.0,189.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0
 Jonas Rouhi (741090),24/25,Serie A,Juventus FC,Defender,20,2.0,33.0,5.0,0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Premier League,Southampton FC,Midfield,19,0.3,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 741228,24/25,Premier League,Southampton FC,Midfield,19,0.3,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Matthew Cox (741236),22/23,Premier League,Brentford FC,Goalkeeper,19,0.5,21.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lennard Sowah (74124),10/11,Bundesliga,Hamburger SV,Defender,17,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Omari Hutchinson (741238),24/25,Premier League,Ipswich Town,Midfield,20,22.0,32.0,31.0,864.0,3.0,2.0,0.0,1.0,12.0,5.0,0.0,0.0,0.0,0.0,0.0
@@ -52186,7 +52218,7 @@ Noah Mbamba (743395),23/24,Bundesliga,Bayer 04 Leverkusen,Midfield,18,2.5,16.0,3
 Noah Mbamba (743395),22/23,Bundesliga,Bayer 04 Leverkusen,Midfield,17,3.0,12.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stanis Idumbo (743387),24/25,LaLiga,Sevilla FC,Midfield,19,2.5,36.0,14.0,278.0,1.0,1.0,0.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 Stanis Idumbo (743387),23/24,LaLiga,Sevilla FC,Midfield,18,0.8,6.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Premier League,Manchester City,Midfield,19,18.0,30.0,9.0,264.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 743413,24/25,Premier League,Manchester City,Midfield,19,18.0,30.0,9.0,264.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ívar Ingimarsson (7434),07/08,Premier League,Reading FC,Defender,29,3.0,37.0,35.0,1517.0,2.0,1.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
 Lino Sousa (743414),22/23,Premier League,Arsenal FC,Defender,17,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Amay Caprice (743494),21/22,Ligue 1,Olympique Marseille,Defender,16,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -53655,13 +53687,16 @@ Emre Çolak (77707),16/17,LaLiga,Deportivo de La Coruña,Midfield,25,7.5,37.0,33
 Geoffroy Serey Dié (77708),15/16,Bundesliga,VfB Stuttgart,Midfield,30,1.75,23.0,23.0,1823.0,1.0,2.0,0.0,0.0,11.0,8.0,1.0,0.0,0.0,0.0,0.0
 Geoffroy Serey Dié (77708),14/15,Bundesliga,VfB Stuttgart,Midfield,29,2.0,13.0,13.0,0,0.0,2.0,0.0,1.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0
 Zain Silcott-Duberry (777308),24/25,Premier League,AFC Bournemouth,Attack,18,0.2,8.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Premier League,FC Noah Yerevan,Midfield,33,0.3,8.0,7.0,0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0
-,17/18,LaLiga,Villarreal CF,Midfield,27,5.0,2.0,2.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Premier League,Hull City,Midfield,26,5.0,15.0,15.0,1278.0,1.0,0.0,0.0,0.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
-,16/17,LaLiga,Villarreal CF,Midfield,26,5.0,13.0,7.0,0,0.0,1.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
-,15/16,LaLiga,Real Betis Balompié,Midfield,25,3.5,34.0,34.0,1505.0,2.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
-,13/14,LaLiga,Real Betis Balompié,Midfield,23,5.0,16.0,16.0,0,0.0,2.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,AS Nancy-Lorraine,Midfield,18,1.2,30.0,24.0,0,0.0,1.0,0.0,5.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,23/24,Premier League,FC Noah Yerevan,Midfield,33,0.3,8.0,7.0,0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0
+Player 77737,17/18,LaLiga,Villarreal CF,Midfield,27,5.0,2.0,2.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,16/17,Premier League,Hull City,Midfield,26,5.0,15.0,15.0,1278.0,1.0,0.0,0.0,0.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,16/17,LaLiga,Villarreal CF,Midfield,26,5.0,13.0,7.0,0,0.0,1.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,15/16,LaLiga,Real Betis Balompié,Midfield,25,3.5,34.0,34.0,1505.0,2.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,13/14,LaLiga,Real Betis Balompié,Midfield,23,5.0,16.0,16.0,0,0.0,2.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,12/13,Premier League,Sunderland AFC,Midfield,22,4.5,17.0,16.0,0,0.0,0.0,0.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,10/11,Ligue 1,AS Nancy-Lorraine,Midfield,20,1.7,32.0,14.0,0,0.0,0.0,0.0,4.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0
+Player 77737,09/10,Ligue 1,AS Nancy-Lorraine,Midfield,19,1.7,30.0,23.0,0,0.0,1.0,0.0,6.0,9.0,7.0,0.0,0.0,0.0,0.0,0.0
+Player 77737,08/09,Ligue 1,AS Nancy-Lorraine,Midfield,18,1.2,30.0,24.0,0,0.0,1.0,0.0,5.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0
 Fernando Sanz (7774),04/05,LaLiga,Málaga CF,Defender,30,0.9,36.0,36.0,0,0.0,0.0,1.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0
 Alassane Touré (77740),15/16,Ligue 1,GFC Ajaccio,Defender,26,0.3,17.0,13.0,952.0,1.0,0.0,0.0,2.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0
 Alassane Touré (77740),10/11,Ligue 1,RC Lens,Defender,21,0.9,20.0,12.0,0,0.0,0.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
@@ -54444,7 +54479,7 @@ Fernando Soriano (7989),07/08,LaLiga,UD Almería,Midfield,27,2.2,36.0,34.0,1100.
 Fernando Soriano (7989),04/05,LaLiga,Real Zaragoza,Midfield,24,0.9,31.0,19.0,0,0.0,0.0,0.0,16.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
 Fodé Doucouré (798925),21/22,Ligue 1,Stade Reims,Defender,20,0.6,9.0,3.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fodé Doucouré (798925),20/21,Ligue 1,Stade Reims,Defender,19,0.5,17.0,7.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,Stade Reims,Attack,19,1.2,15.0,10.0,372.0,1.0,0.0,0.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 798927,21/22,Ligue 1,Stade Reims,Attack,19,1.2,15.0,10.0,372.0,1.0,0.0,0.0,7.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 Gvidas Gineitis (798929),24/25,Serie A,Torino FC,Midfield,20,6.0,32.0,30.0,474.0,3.0,1.0,0.0,15.0,10.0,5.0,0.0,0.0,0.0,0.0,0.0
 Gvidas Gineitis (798929),23/24,Serie A,Torino FC,Midfield,19,2.0,29.0,14.0,0,0.0,0.0,0.0,10.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
 Gvidas Gineitis (798929),22/23,Serie A,Torino FC,Midfield,18,0.9,23.0,3.0,0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
@@ -54649,8 +54684,8 @@ Simon Elisor (804661),23/24,Ligue 1,FC Metz,Attack,23,1.0,16.0,14.0,769.0,1.0,0.
 Brandon Dominguès (804708),21/22,Ligue 1,ESTAC Troyes,Midfield,21,0.6,18.0,11.0,223.0,1.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Ousmane Camara (804711),24/25,Ligue 1,Angers SCO,Defender,21,0.4,9.0,3.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 Ousmane Camara (804711),22/23,Ligue 1,Angers SCO,Defender,19,1.5,24.0,9.0,0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Serie A,Torino FC,Defender,19,0.2,12.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Serie A,Torino FC,Defender,18,0.2,9.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 804799,23/24,Serie A,Torino FC,Defender,19,0.2,12.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 804799,22/23,Serie A,Torino FC,Defender,18,0.2,9.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Anthony Oyono (804812),23/24,Serie A,Frosinone Calcio,Defender,22,2.0,16.0,16.0,0,0.0,1.0,0.0,2.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
 Yannick Pandor (804829),23/24,Ligue 1,RC Lens,Goalkeeper,22,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Yannick Pandor (804829),22/23,Ligue 1,RC Lens,Goalkeeper,21,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -54753,7 +54788,8 @@ Frank Magri (807689),23/24,Ligue 1,FC Toulouse,Attack,23,3.0,29.0,29.0,286.0,5.0
 Frank Magri (807689),21/22,Ligue 1,Angers SCO,Attack,21,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Andres Sfait (808224),23/24,Serie A,US Salernitana 1919,Attack,18,0.5,18.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Andres Sfait (808224),22/23,Serie A,US Salernitana 1919,Attack,17,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,08/09,Ligue 1,SM Caen,Midfield,20,0.05,13.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 80840,10/11,Ligue 1,SM Caen,Midfield,22,0.6,21.0,11.0,482.0,1.0,1.0,0.0,6.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 80840,08/09,Ligue 1,SM Caen,Midfield,20,0.05,13.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Mamadou Sangaré (808348),24/25,Bundesliga,Rapid Vienna,Midfield,22,6.0,27.0,27.0,1025.0,2.0,3.0,0.0,3.0,10.0,9.0,0.0,1.0,0.0,0.0,0.0
 Mamadou Sangaré (808348),23/24,Bundesliga,TSV Hartberg,Midfield,21,1.2,29.0,29.0,2056.0,1.0,4.0,0.0,5.0,12.0,6.0,0.0,1.0,0.0,0.0,0.0
 Mamadou Sangaré (808348),22/23,Bundesliga,TSV Hartberg,Midfield,20,0.6,15.0,15.0,428.0,2.0,0.0,0.0,5.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -55068,7 +55104,7 @@ Chung-yong Lee (81801),14/15,Premier League,Crystal Palace,Attack,25,2.0,5.0,3.0
 Chung-yong Lee (81801),11/12,Premier League,Bolton Wanderers,Attack,22,7.5,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Chung-yong Lee (81801),10/11,Premier League,Bolton Wanderers,Attack,21,6.0,33.0,31.0,732.0,3.0,6.0,0.0,6.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0
 Chung-yong Lee (81801),09/10,Premier League,Bolton Wanderers,Attack,20,3.0,38.0,34.0,603.0,4.0,6.0,0.0,7.0,13.0,4.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Premier League,Aston Villa,Midfield,19,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 818237,23/24,Premier League,Aston Villa,Midfield,19,0.2,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Rubén Martínez (8184),20/21,LaLiga,CA Osasuna,Goalkeeper,36,0.5,15.0,3.0,188.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0
 Rubén Martínez (8184),19/20,LaLiga,CA Osasuna,Goalkeeper,35,0.55,26.0,19.0,1583.0,0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,24.0,5.0
 Rubén Martínez (8184),17/18,LaLiga,Deportivo de La Coruña,Goalkeeper,33,0.8,28.0,28.0,2477.0,0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,58.0,5.0
@@ -55278,8 +55314,8 @@ Gökhan Töre (82130),11/12,Bundesliga,Hamburger SV,Attack,19,5.0,27.0,22.0,0,0.
 Alfie Pond (821522),24/25,Premier League,Wolverhampton Wanderers,Defender,20,0.25,8.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Pablo Sáenz (821820),23/24,LaLiga,Granada CF,Attack,22,0.15,2.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Nikita Chicherin (82201),15/16,Premier League,MIKA Ashtarak,Defender,24,0.2,9.0,9.0,775.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,FC Nantes,Defender,22,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,FC Nantes,Defender,20,0.2,9.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 822116,23/24,Ligue 1,FC Nantes,Defender,22,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 822116,21/22,Ligue 1,FC Nantes,Defender,20,0.2,9.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Bongani Khumalo (82215),11/12,Premier League,Tottenham Hotspur,Defender,24,1.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Bongani Khumalo (82215),10/11,Premier League,Tottenham Hotspur,Defender,23,1.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Moritz Leitner (82243),19/20,Premier League,Norwich City,Midfield,26,2.4,13.0,9.0,0,0.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -55619,6 +55655,7 @@ Jan Zwischenbrugger (83617),13/14,Bundesliga,SV Ried,Defender,23,0.25,14.0,8.0,0
 Panagiotis Vlachodimos (83700),18/19,Ligue 1,Nîmes Olympique,Attack,26,0.7,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Panagiotis Vlachodimos (83700),13/14,Bundesliga,FC Augsburg,Attack,21,0.75,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Thomas Geyer (83691),10/11,Bundesliga,VfB Stuttgart,Defender,19,0.25,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 837329,23/24,Ligue 1,FC Metz,Midfield,20,0.8,14.0,6.0,0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Michael Yeboah (837437),23/24,Premier League,Accra Great Olympics,Midfield,22,0.05,15.0,11.0,310.0,2.0,0.0,0.0,4.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0
 Michael Yeboah (837437),22/23,Premier League,Accra Great Olympics,Midfield,21,0.05,22.0,17.0,0,0.0,0.0,0.0,11.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Michael Yeboah (837437),20/21,Premier League,Accra Great Olympics,Midfield,19,0.05,16.0,16.0,246.0,4.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -56116,7 +56153,7 @@ Arouna Koné (8552),09/10,Bundesliga,Hannover 96,Attack,25,2.5,8.0,8.0,331.0,2.0
 Arouna Koné (8552),09/10,LaLiga,Sevilla FC,Attack,25,2.5,15.0,12.0,0,0.0,0.0,0.0,9.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Arouna Koné (8552),08/09,LaLiga,Sevilla FC,Attack,24,5.0,11.0,6.0,0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Arouna Koné (8552),07/08,LaLiga,Sevilla FC,Attack,23,6.0,30.0,21.0,777.0,1.0,1.0,0.0,14.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-,24/25,Ligue 1,AJ Auxerre,Defender,20,0.1,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 855215,24/25,Ligue 1,AJ Auxerre,Defender,20,0.1,7.0,2.0,0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Alex Scott (855256),24/25,Premier League,AFC Bournemouth,Midfield,20,20.0,21.0,20.0,0,0.0,0.0,0.0,12.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0
 Alex Scott (855256),23/24,Premier League,AFC Bournemouth,Midfield,19,20.0,25.0,23.0,1010.0,1.0,1.0,0.0,12.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0
 Arthur Atta (855308),24/25,Serie A,Udinese Calcio,Midfield,21,8.0,30.0,27.0,0,0.0,0.0,0.0,15.0,8.0,5.0,0.0,0.0,0.0,0.0,0.0
@@ -56465,6 +56502,7 @@ Alexander Merkel (86926),11/12,Serie A,AC Milan,Midfield,19,5.0,1.0,1.0,0,0.0,0.
 Alexander Merkel (86926),11/12,Serie A,Genoa CFC,Midfield,19,5.0,14.0,13.0,0,0.0,3.0,0.0,3.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Alexander Merkel (86926),10/11,Serie A,AC Milan,Midfield,18,3.5,11.0,6.0,0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
 Toni Leistner (86916),19/20,Bundesliga,1.FC Köln,Defender,28,2.0,15.0,13.0,0,0.0,0.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 86930,12/13,Ligue 1,ESTAC Troyes,Defender,21,1.75,33.0,22.0,0,0.0,2.0,0.0,1.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0
 Omar Sadik (869458),24/25,LaLiga,RCD Espanyol Barcelona,Attack,20,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jean-Emmanuel Effa-Owona (8695),07/08,Ligue 1,FC Metz,Attack,23,0.25,7.0,5.0,0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Nicolao Cardoso (87052),10/11,Serie A,SSC Napoli,Attack,18,1.5,20.0,9.0,0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -56534,7 +56572,7 @@ Habib Diarra (876631),24/25,Ligue 1,RC Strasbourg Alsace,Midfield,20,20.0,30.0,3
 Habib Diarra (876631),23/24,Ligue 1,RC Strasbourg Alsace,Midfield,19,18.0,31.0,31.0,771.0,3.0,1.0,0.0,3.0,12.0,3.0,0.0,0.0,1.0,0.0,0.0
 Habib Diarra (876631),22/23,Ligue 1,RC Strasbourg Alsace,Midfield,18,10.0,35.0,29.0,543.0,3.0,3.0,0.0,11.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0
 Habib Diarra (876631),21/22,Ligue 1,RC Strasbourg Alsace,Midfield,17,0.6,24.0,4.0,0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
-,09/10,Premier League,West Ham United,Defender,19,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 87668,09/10,Premier League,West Ham United,Defender,19,0.05,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Junior Stanislas (87672),22/23,Premier League,AFC Bournemouth,Attack,32,0.5,9.0,4.0,0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Junior Stanislas (87672),19/20,Premier League,AFC Bournemouth,Attack,29,2.0,19.0,15.0,237.0,3.0,1.0,0.0,8.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0
 Junior Stanislas (87672),18/19,Premier League,AFC Bournemouth,Attack,28,4.5,23.0,23.0,514.0,2.0,3.0,0.0,12.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0
@@ -56644,7 +56682,7 @@ Aleix Vidal (88490),13/14,LaLiga,UD Almería,Attack,23,2.5,38.0,38.0,515.0,6.0,5
 Alessandro Vinciguerra (885228),24/25,Serie A,Cagliari Calcio,Attack,18,0.4,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Alessandro Vinciguerra (885228),23/24,Serie A,Cagliari Calcio,Attack,17,0.2,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Nicola Pintus (885230),24/25,Serie A,Cagliari Calcio,Defender,19,0.4,6.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Serie A,SSC Napoli,Defender,17,0.125,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 885235,23/24,Serie A,SSC Napoli,Defender,17,0.125,14.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lorenzo Russo (885236),23/24,Serie A,SSC Napoli,Midfield,18,0.1,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Dani Hernández (88528),12/13,LaLiga,Real Valladolid CF,Goalkeeper,26,1.0,38.0,24.0,2160.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,37.0,6.0
 Dani Hernández (88528),09/10,LaLiga,Valencia CF,Goalkeeper,23,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -57279,7 +57317,7 @@ Roman Karasyuk (91527),22/23,Premier League,FC Pyunik Yerevan,Midfield,31,0.175,
 Yanis Massolin (915849),22/23,Ligue 1,Clermont Foot 63,Midfield,19,0.25,19.0,6.0,0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Sora Tanaka (915873),24/25,Premier League,Geylang International,Attack,19,0.0,3.0,3.0,195.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
 Isra Domínguez (916014),24/25,LaLiga,Sevilla FC,Attack,21,0.2,3.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,Clermont Foot 63,Goalkeeper,21,0.5,34.0,4.0,360.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
+Player 916497,23/24,Ligue 1,Clermont Foot 63,Goalkeeper,21,0.5,34.0,4.0,360.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0
 Alberto Chiesurin (916451),24/25,Serie A,Venezia FC,Midfield,19,0.025,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Shavy Babicka (916920),24/25,Ligue 1,FC Toulouse,Attack,24,2.5,32.0,30.0,294.0,4.0,2.0,0.0,19.0,9.0,2.0,0.0,0.0,0.0,0.0,0.0
 Shavy Babicka (916920),23/24,Ligue 1,FC Toulouse,Attack,23,2.0,15.0,12.0,367.0,1.0,0.0,0.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -57464,8 +57502,8 @@ Luc De Fougerolles (921995),23/24,Premier League,Fulham FC,Defender,17,0.3,5.0,0
 Paul Dickov (9221),06/07,Premier League,Manchester City,Attack,33,1.1,23.0,16.0,0,0.0,2.0,0.0,7.0,7.0,4.0,0.0,0.0,0.0,0.0,0.0
 Paul Dickov (9221),04/05,Premier League,Blackburn Rovers,Attack,31,1.5,29.0,29.0,265.0,9.0,1.0,0.0,2.0,4.0,7.0,0.0,0.0,1.0,0.0,0.0
 Lewis Koumas (922462),23/24,Premier League,Liverpool FC,Attack,17,1.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,Olympique Marseille,Defender,19,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Ligue 1,Olympique Marseille,Defender,18,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 922488,23/24,Ligue 1,Olympique Marseille,Defender,19,0.1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 922488,22/23,Ligue 1,Olympique Marseille,Defender,18,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Oliver Scarles (922563),24/25,Premier League,West Ham United,Defender,18,8.0,21.0,15.0,0,0.0,0.0,0.0,8.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
 Oliver Scarles (922563),23/24,Premier League,West Ham United,Defender,17,0.4,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Archie Gray (922693),24/25,Premier League,Tottenham Hotspur,Midfield,18,38.0,38.0,28.0,0,0.0,0.0,1.0,9.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
@@ -57763,8 +57801,8 @@ Lukas Kübler (93604),16/17,Bundesliga,SC Freiburg,Defender,23,1.25,21.0,16.0,0,
 Lukas Kübler (93604),11/12,Bundesliga,1.FC Köln,Defender,18,0.075,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Christian Corradi (936183),24/25,Serie A,Hellas Verona,Defender,19,0.7,12.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Christian Corradi (936183),23/24,Serie A,Hellas Verona,Defender,18,0.8,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Premier League,Crystal Palace,Midfield,23,1.0,2.0,2.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-,13/14,Premier League,Crystal Palace,Midfield,22,0.5,23.0,12.0,390.0,1.0,0.0,0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 93626,14/15,Premier League,Crystal Palace,Midfield,23,1.0,2.0,2.0,0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 93626,13/14,Premier League,Crystal Palace,Midfield,22,0.5,23.0,12.0,390.0,1.0,0.0,0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
 Marcel Schuhen (93651),23/24,Bundesliga,SV Darmstadt 98,Goalkeeper,30,0.8,33.0,31.0,2790.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,76.0,3.0
 Giacomo Stabile (936503),23/24,Serie A,Inter Milan,Defender,18,0.05,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 João Costa (936536),24/25,Serie A,AS Roma,Attack,19,2.8,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -57930,7 +57968,7 @@ Facundo Ferreyra (93795),14/15,Premier League,Newcastle United,Attack,23,4.0,3.0
 Pau Prim (937956),23/24,LaLiga,FC Barcelona,Midfield,17,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Héctor Fort (937955),24/25,LaLiga,FC Barcelona,Defender,17,10.0,36.0,17.0,0,0.0,0.0,0.0,12.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
 Héctor Fort (937955),23/24,LaLiga,FC Barcelona,Defender,16,10.0,24.0,7.0,0,0.0,2.0,0.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
-,23/24,Ligue 1,FC Lorient,Attack,21,0.5,5.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 938009,23/24,Ligue 1,FC Lorient,Attack,21,0.5,5.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Lamine Yamal (937958),24/25,LaLiga,FC Barcelona,Attack,16,200.0,35.0,35.0,318.0,9.0,15.0,0.0,4.0,11.0,3.0,0.0,0.0,0.0,0.0,0.0
 Lamine Yamal (937958),23/24,LaLiga,FC Barcelona,Attack,15,90.0,38.0,37.0,439.0,5.0,7.0,0.0,15.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0
 Diego Kochen (938144),24/25,LaLiga,FC Barcelona,Goalkeeper,18,0.5,17.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -58135,7 +58173,8 @@ Marko Dmitrovic (94308),20/21,LaLiga,SD Eibar,Goalkeeper,28,8.0,36.0,35.0,3121.0
 Marko Dmitrovic (94308),19/20,LaLiga,SD Eibar,Goalkeeper,27,9.5,38.0,35.0,3150.0,0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,51.0,10.0
 Marko Dmitrovic (94308),18/19,LaLiga,SD Eibar,Goalkeeper,26,10.0,29.0,24.0,2160.0,0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,30.0,5.0
 Marko Dmitrovic (94308),17/18,LaLiga,SD Eibar,Goalkeeper,25,4.0,38.0,36.0,3240.0,0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,49.0,10.0
-,23/24,Premier League,Brighton & Hove Albion,Attack,18,0.3,11.0,3.0,0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 943549,24/25,Premier League,Brighton & Hove Albion,Attack,19,0.5,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 943549,23/24,Premier League,Brighton & Hove Albion,Attack,18,0.3,11.0,3.0,0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
 Franco Umeh-Chibueze (943560),24/25,Premier League,Crystal Palace,Attack,19,0.075,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Franco Umeh-Chibueze (943560),23/24,Premier League,Crystal Palace,Attack,18,0.075,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Jovan Milosevic (943795),23/24,Bundesliga,VfB Stuttgart,Attack,17,0.7,15.0,5.0,0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -58882,8 +58921,8 @@ Reto Ziegler (9915),05/06,Premier League,Wigan Athletic,Defender,19,1.45,11.0,10
 Reto Ziegler (9915),05/06,Bundesliga,Hamburger SV,Defender,19,1.45,14.0,8.0,0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Reto Ziegler (9915),04/05,Premier League,Tottenham Hotspur,Defender,18,2.25,27.0,22.0,1085.0,1.0,2.0,0.0,10.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
 Rijat Shala (9916),07/08,Serie A,Cagliari Calcio,Midfield,23,0.15,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Ligue 1,ESTAC Troyes,Defender,18,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-,21/22,Ligue 1,ESTAC Troyes,Defender,17,0.4,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 991649,22/23,Ligue 1,ESTAC Troyes,Defender,18,0.2,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 991649,21/22,Ligue 1,ESTAC Troyes,Defender,17,0.4,3.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Luka Topalović (991744),24/25,Serie A,Inter Milan,Midfield,18,1.5,7.0,1.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Federico Santander (99180),21/22,Serie A,Bologna FC 1909,Attack,30,0.6,23.0,7.0,61.0,1.0,0.0,0.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 Federico Santander (99180),20/21,Serie A,Bologna FC 1909,Attack,29,1.5,5.0,4.0,0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -58902,14 +58941,15 @@ Andrea Bertolacci (99227),13/14,Serie A,Genoa CFC,Midfield,22,3.0,34.0,25.0,982.
 Andrea Bertolacci (99227),12/13,Serie A,Genoa CFC,Midfield,21,3.3,35.0,29.0,507.0,4.0,4.0,0.0,5.0,14.0,5.0,1.0,0.0,0.0,0.0,0.0
 Andrea Bertolacci (99227),11/12,Serie A,US Lecce,Midfield,20,2.5,33.0,28.0,426.0,3.0,3.0,0.0,15.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0
 Andrea Bertolacci (99227),10/11,Serie A,US Lecce,Midfield,19,1.5,23.0,9.0,215.0,3.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
-,22/23,Serie A,AC Monza,Attack,31,0.7,32.0,8.0,0,0.0,0.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,19/20,Serie A,SPAL,Attack,28,1.6,16.0,15.0,393.0,2.0,0.0,0.0,5.0,8.0,0.0,0.0,1.0,0.0,0.0,0.0
-,18/19,Serie A,Udinese Calcio,Attack,27,2.0,32.0,24.0,0,0.0,2.0,0.0,8.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
-,17/18,Serie A,Benevento Calcio,Attack,26,2.5,19.0,16.0,1043.0,1.0,1.0,0.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
-,16/17,Serie A,Atalanta BC,Attack,25,1.5,36.0,24.0,746.0,1.0,1.0,0.0,20.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
-,15/16,Serie A,Atalanta BC,Attack,24,1.5,38.0,23.0,386.0,3.0,3.0,0.0,12.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
-,14/15,Serie A,Atalanta BC,Attack,23,1.8,37.0,25.0,0,0.0,1.0,0.0,16.0,9.0,6.0,0.0,0.0,0.0,0.0,0.0
-,10/11,Serie A,AS Bari,Attack,19,0.85,15.0,11.0,0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,24/25,Serie A,AC Monza,Attack,33,0.2,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,22/23,Serie A,AC Monza,Attack,31,0.7,32.0,8.0,0,0.0,0.0,0.0,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,19/20,Serie A,SPAL,Attack,28,1.6,16.0,15.0,393.0,2.0,0.0,0.0,5.0,8.0,0.0,0.0,1.0,0.0,0.0,0.0
+Player 99232,18/19,Serie A,Udinese Calcio,Attack,27,2.0,32.0,24.0,0,0.0,2.0,0.0,8.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,17/18,Serie A,Benevento Calcio,Attack,26,2.5,19.0,16.0,1043.0,1.0,1.0,0.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,16/17,Serie A,Atalanta BC,Attack,25,1.5,36.0,24.0,746.0,1.0,1.0,0.0,20.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,15/16,Serie A,Atalanta BC,Attack,24,1.5,38.0,23.0,386.0,3.0,3.0,0.0,12.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,14/15,Serie A,Atalanta BC,Attack,23,1.8,37.0,25.0,0,0.0,1.0,0.0,16.0,9.0,6.0,0.0,0.0,0.0,0.0,0.0
+Player 99232,10/11,Serie A,AS Bari,Attack,19,0.85,15.0,11.0,0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Niccolò Giannetti (99235),17/18,Serie A,Cagliari Calcio,Attack,26,1.0,35.0,8.0,0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
 Niccolò Giannetti (99235),16/17,Serie A,Cagliari Calcio,Attack,25,1.5,22.0,11.0,0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Niccolò Giannetti (99235),12/13,Serie A,AC Siena,Attack,21,0.4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

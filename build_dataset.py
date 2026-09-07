@@ -83,7 +83,7 @@ def main():
                 skipped += 1
                 continue
             records.append({
-                "player_name": profile.get("player_name", row["player_id"]),
+                "player_name": profile.get("player_name") or f"Player {row['player_id']}",
                 "season": season,
                 "league": row["competition_name"],
                 "team": row["team_name"],

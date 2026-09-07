@@ -4,7 +4,7 @@ D3.js visualization for CSE/ISE 332 Lab 1. The project studies football player p
 
 ## Dataset status
 
-The current `data/fused_players.csv` is a reproducible fused dataset with 59,097 player-season-team records and 21 attributes. It covers the Premier League, LaLiga, Bundesliga, Serie A, and Ligue 1. The source files are downloaded by `build_dataset.py` into `data/raw/` and are excluded from Git because the performance source is large.
+The current `data/fused_players.csv` is a reproducible fused dataset with 59,137 player-season-team records and 21 attributes. It covers the Premier League, LaLiga, Bundesliga, Serie A, and Ligue 1. The source files are downloaded by `build_dataset.py` into `data/raw/` and are excluded from Git because the performance source is large.
 
 ## Run locally
 
@@ -36,3 +36,5 @@ The project uses the public [football-datasets](https://github.com/salimt/footba
 - Profiles: `https://raw.githubusercontent.com/salimt/football-datasets/main/datalake/transfermarkt/player_profiles/player_profiles.csv`
 
 Run `python build_dataset.py` after downloading the source files into `data/raw/`. The script filters the five leagues, matches market values inside each season window, joins profile fields, removes duplicate player-season-team-league keys, and writes the final CSV plus `data/quality_report.txt`.
+
+For the Brightspace spreadsheet deliverable, `data/fused_players.xlsx` contains the same verified fused table in one worksheet.

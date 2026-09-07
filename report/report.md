@@ -2,7 +2,7 @@
 
 ## Research question
 
-How are football (soccer) players' season performance measures associated with their estimated market value across multiple seasons and the European big-five leagues?
+How are soccer players' season performance measures associated with their estimated market value across multiple seasons and the European big-five leagues?
 
 This project will treat the relationship as descriptive association, not proof that performance causes market value.
 
@@ -22,7 +22,7 @@ The attributes are documented in `data/data_dictionary.md`. They include categor
 
 ## Why these data are interesting
 
-Market value is a compact way to study how different dimensions of a player's contribution appear together in an association-football ecosystem. A visualization can show whether high-value players are concentrated in particular positions or leagues, whether minutes and goals have visible associations with value, and whether the same statistical profile varies across seasons. The interface supports comparisons without reducing the entire question to a single ranking.
+Market value is a compact way to study how different dimensions of a player's contribution appear together in a soccer ecosystem. A visualization can show whether high-value players are concentrated in particular positions or leagues, whether minutes and goals have visible associations with value, and whether the same statistical profile varies across seasons. The interface supports comparisons without reducing the entire question to a single ranking.
 
 ## Data fusion and cleaning
 
@@ -49,7 +49,7 @@ Tool used: GitHub Copilot.
 
 Use: initial HTML/CSS/D3 scaffold, event callback suggestions, chart update structure, and debugging guidance.
 
-Student work: selection and evaluation of the football topic, final data-source decisions, data cleaning and fusion, field definitions, visual design decisions, testing, interpretation, and any changes made after inspecting the code.
+Student work: selection and evaluation of the soccer topic, final data-source decisions, data cleaning and fusion, field definitions, visual design decisions, testing, interpretation, and any changes made after inspecting the code.
 
 ## Limitations
 

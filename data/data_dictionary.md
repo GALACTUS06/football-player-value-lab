@@ -27,7 +27,7 @@ The assignment unit is one player-season-team record. The current CSV contains t
 
 ## Source and processing rules
 
-- Use the traceable public `salimt/football-datasets` repository, with separate player-market-value, player-performance, and player-profile tables.
+- Use the traceable public Transfermarkt-derived dataset repository, with separate player-market-value, player-performance, and player-profile tables.
 - Standardize player names, team names, and season labels before joining.
 - Join on `player_key + season + team_key`; do not join on player name alone.
 - Record unmatched rows, duplicate keys, missing values, source URLs, download dates, and unit conversions in the report.
